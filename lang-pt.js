@@ -3116,7 +3116,7 @@ var GLocal = {
 
 
 
-    LT_Menu_Applications                        : "Mercado",
+    LT_Menu_Applications                        : "marketplace",
 
 
 
@@ -5859,9 +5859,9 @@ var GLocal = {
     LT_EnvGroups_Dlg_Text_EmptyList             : "Nenhum item para visualizar. Para criar um novo grupo, digite um novo nome e pressione enter.",
 
     // actions: ACTION_SHOW_ENV_WIZARD, ACTION_SHOW_COLLABORATION_PANEL, ACTION_SHOW_MARKETPLACE
-    LT_Environments_EmptyText                   : "<p>Vamos come&ccedil;ar!</p>[ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_SHOW_COLLABORATION_PANEL]Collaborate on<br> Compartilhar ambiente[/ACTION_SHOW_COLLABORATION_PANEL] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do mercado[/ACTION_SHOW_MARKETPLACE]",
+    LT_Environments_EmptyText                   : "<p>Vamos come&ccedil;ar!</p>[ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_SHOW_COLLABORATION_PANEL]Collaborate on<br> Compartilhar ambiente[/ACTION_SHOW_COLLABORATION_PANEL] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do marketplace[/ACTION_SHOW_MARKETPLACE]",
     // actions: ACTION_SHOW_ENV_WIZARD, ACTION_ATTACH_ENVS_TO_GROUP
-    LT_Environments_EnvGroup_EmptyText          : "<p>Comece a usar esse grupo agora!</p> [ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_ATTACH_ENVS_TO_GROUP]Adicionar ambientet<br> para esse grupo[/ACTION_ATTACH_ENVS_TO_GROUP] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do mercado[/ACTION_SHOW_MARKETPLACE]",
+    LT_Environments_EnvGroup_EmptyText          : "<p>Comece a usar esse grupo agora!</p> [ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_ATTACH_ENVS_TO_GROUP]Adicionar ambientet<br> para esse grupo[/ACTION_ATTACH_ENVS_TO_GROUP] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do marketplace[/ACTION_SHOW_MARKETPLACE]",
 
     LT_BillingHistory_ExportToFile              : "Download CSV",
     LT_ErrorBillingHistory_ExportToFile         : "Um erro ocorreu ao tentar fazer o download do arquivo",
