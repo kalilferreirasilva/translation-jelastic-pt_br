@@ -42,9 +42,9 @@ var GLocal = {
 
     LT_Common_Button_Yes						: "Sim",
 
-    LT_Common_Button_No 						: "Não",
+    LT_Common_Button_No 						: "n&atilde;o",
 
-    LT_Common_Button_Settings					: "Configurações",
+    LT_Common_Button_Settings					: "configura&ccedil;&otilde;es",
 
     LT_Common_Text_Notify						: "Notificar",
 
@@ -58,7 +58,7 @@ var GLocal = {
 
     LT_Common_Text_Yes							: "Sim",
 
-    LT_Common_Text_No							: "Não",
+    LT_Common_Text_No							: "n&atilde;o",
 
     LT_Common_Text_Enable						: "Habilitar",
 
@@ -94,15 +94,15 @@ var GLocal = {
 
     LT_Common_Text_All							: "tudo",
 
-    LT_Common_Text_Node							: "instância",
+    LT_Common_Text_Node							: "inst&acirc;ncia",
 
     LT_Common_Text_Message						: "Mensagem",
 
 
 
-    LT_Common_Text_RequiredField				: "Campo obrigatório",
+    LT_Common_Text_RequiredField				: "Campo obrigat&oacute;rio",
 
-    LT_Common_Text_EmailField					: "Este campo deve conter um endereço de email",
+    LT_Common_Text_EmailField					: "Este campo deve conter um endere&ccedil;o de email",
 
 
 
@@ -136,7 +136,7 @@ var GLocal = {
 
     LT_Environments_Column_Usage                : "Uso",
 
-    LT_Environments_Text_NotDeployed            : "Não implantado",
+    LT_Environments_Text_NotDeployed            : "n&atilde;o implantado",
 
     //LT_Environments_Text_Deployed               : "%(count) arquivos implantados",
 
@@ -156,11 +156,11 @@ var GLocal = {
 
 
 
-    LT_Environments_Validation_InvalidName      : "Este nome contém caracteres que não são permitidos em nomes de domínio internet. Por favor, forneça um nome diferente.",
+    LT_Environments_Validation_InvalidName      : "Este nome cont&eacute;m caracteres que n&atilde;o s&atilde;o permitidos em nomes de dom&iacute;nio internet. Por favor, forneça um nome diferente.",
 
-    LT_Environments_Validation_BusyDomain       : "Nome de domínio %(domain) já está em uso. Por favor, tente outro.",
+    LT_Environments_Validation_BusyDomain       : "Nome de dom&iacute;nio %(domain) já est&aacute; em uso. Por favor, tente outro.",
 
-    LT_Environments_Validation_CheckingDomain   : "Verificando domínio, aguarde por favor.",
+    LT_Environments_Validation_CheckingDomain   : "Verificando dom&iacute;nio, aguarde por favor.",
 
 
 
@@ -182,21 +182,21 @@ var GLocal = {
 
     LT_Tab_Title_Start							: "Iniciar",
 
-    LT_Panel_Title_Messages						: "Menesagens",
+    LT_Panel_Title_Messages						: "Mensagens",
 
     LT_Tab_Title_Services						: "Respostas",
 
-    LT_Services_Column_Method					: "Método",
+    LT_Services_Column_Method					: "M&eacute;todo",
 
-    LT_Services_Column_Address					: "Endereço método",
+    LT_Services_Column_Address					: "endere&ccedil;o M&eacute;todo",
 
     LT_Services_Column_Time						: "Resposta [ms]",
 
     LT_Services_Column_CpuTime					: "CPU [ms]",
 
-    LT_Services_Column_Result					: "Código de resposta",
+    LT_Services_Column_Result					: "C&oacute;digo de resposta",
 
-    LT_Services_Column_Error					: "Description",
+    LT_Services_Column_Error					: "Descri&ccedil;&atilde;o",
 
     LT_Services_Column_In						: "Dentro",
 
@@ -210,7 +210,7 @@ var GLocal = {
 
     LT_Menu_Toolbar_Docs						: "Documentos",
 
-    LT_Menu_Toolbar_Video						: "Vídeo",
+    LT_Menu_Toolbar_Video						: "V&iacute;deo",
 
     LT_Menu_Toolbar_Features					: "Vote para Recursos",
 
@@ -222,7 +222,7 @@ var GLocal = {
 
     // Menu panel.
 
-    LT_Menu_Settings							: "Configurações",
+    LT_Menu_Settings							: "configura&ccedil;&otilde;es",
 
 
 
@@ -240,13 +240,13 @@ var GLocal = {
 
     LT_Menu_Stop                                : "Parar",
 
-    LT_Menu_Statistics                          : "Estatísticas",
+    LT_Menu_Statistics                          : "Estat&iacute;sticas",
 
-    LT_Menu_Config                              : "Configuração",
+    LT_Menu_Config                              : "Configura&ccedil;&atilde;o",
 
     LT_Menu_Log                                 : "Log",
 
-    LT_Menu_Info                                : "Informações",
+    LT_Menu_Info                                : "Informa&ccedil;&otilde;es",
 
     LT_Menu_ToRootNode                          : "Abra no navegador",
 
@@ -256,45 +256,45 @@ var GLocal = {
 
     LT_Menu_ResetPassword						: "Trocar senha",
 
-    LT_Menu_Solutions                           : "Soluções",
+    LT_Menu_Solutions                           : "Solu&ccedil;&otilde;es",
 
 
 
     //Settings tab
 
-    LT_Settings_Title                         	: "%(sAppName) : configurações",
+    LT_Settings_Title                         	: "%(sAppName) : configura&ccedil;&otilde;es",
 
-    LT_Settings_Label_Domains				  	: "Domínios personalizados",
+    LT_Settings_Label_Domains				  	: "Dom&iacute;nios personalizados",
 
     LT_Settings_Label_Accounts				  	: "Gerenciamento de Conta",
 
-    LT_Settings_Title_DomainBinding			  	: "Domínio de ligação",
+    LT_Settings_Title_DomainBinding			  	: "Dom&iacute;nio de liga&ccedil;&atilde;o",
 
-    LT_Settings_Title_SwapDomains			  	: "Domínio de troca",
+    LT_Settings_Title_SwapDomains			  	: "Dom&iacute;nio de troca",
 
-    LT_Settings_Label_CName					  	: "1. Em seu painel de DNS, apontar seu domínio externo (exemplo seudominio.com) usando o CNAME para <b>%(sDomain)</b> (<u><a href='%(sDocUrl)' target='_blank'>mostre-me como</a></u>)",
+    LT_Settings_Label_CName					  	: "1. Em seu painel de DNS, apontar seu Dom&iacute;nio externo (exemplo seudominio.com) usando o CNAME para <b>%(sDomain)</b> (<u><a href='%(sDocUrl)' target='_blank'>mostre-me como</a></u>)",
 
-    LT_Settings_Label_EnterDomain			  	: "2. Uma vez que as alterações de DNS foram propagadas, digite seu domínio aqui para ligá-lo ao ambiente",
+    LT_Settings_Label_EnterDomain			  	: "2. Uma vez que as altera&ccedil;&otilde;es de DNS foram propagadas, digite seu Dom&iacute;nio aqui para lig&aacute;-lo ao ambiente",
 
-    LT_Settings_Label_SwapDomains			  	: "Escolha o ambiente com o qual pretende trocar seus domínios e clique no botão Trocar",
+    LT_Settings_Label_SwapDomains			  	: "Escolha o ambiente com o qual pretende trocar seus Dom&iacute;nios e clique no bot&atilde;o Trocar",
 
     LT_Settings_Label_Bind					  	: "Vincular",
 
     LT_Settings_Label_Swap					  	: "Troca",
 
-    LT_Settings_Confirm_SwapDomains             : "Troca de domínios entre ambientes %(envName) e %(targetName)?",
+    LT_Settings_Confirm_SwapDomains             : "Troca de Dom&iacute;nios entre ambientes %(envName) e %(targetName)?",
 
 
 
-    LT_Settings_Text_UserExist					: "O usuário %(sUser) já existe.  Por favor, modificar as permissões existentes, em vez de adicionar um novo registro.",
+    LT_Settings_Text_UserExist					: "O Usu&aacute;rio %(sUser) j&aacute; existe.  Por favor, modificar as permiss&otilde;es existentes, em vez de adicionar um novo registro.",
 
-    LT_Settings_Validator_Domain				: "Este campo deve ter um nome de domínio<br/>no formato: \"www.exemplo.com\"",
+    LT_Settings_Validator_Domain				: "Este campo deve ter um nome de Dom&iacute;nio<br/>no formato: \"www.exemplo.com\"",
 
 
 
     //Deploy tab
 
-    LT_Deploy_Title                             : "Gerenciador de implementação", // [%(sProjName)]",
+    LT_Deploy_Title                             : "Gerenciador de implementa&ccedil;&atilde;o", // [%(sProjName)]",
 
     LT_Deploy_Label_DeployTo					: "Implantar em ...",
 
@@ -302,31 +302,31 @@ var GLocal = {
 
     LT_Deploy_Column_Name                       : "Nome",
 
-    LT_Deploy_Column_Comment                    : "Comentário",
+    LT_Deploy_Column_Comment                    : "Coment&aacute;rio",
 
     LT_Deploy_Column_UploadDate                 : "Data de envio",
 
     LT_Deploy_Column_Size                       : "Tamanho",
 
-    LT_Deploy_Label_Error                       : "Erro de implantação, tente novamente.",
+    LT_Deploy_Label_Error                       : "Erro de implanta&ccedil;&atilde;o, tente novamente.",
 
-    LT_Deploy_Text_ChooseArchive                : "Escolha o arquivo do gerenciador de implementação.",
+    LT_Deploy_Text_ChooseArchive                : "Escolha o arquivo do gerenciador de implementa&ccedil;&atilde;o.",
 
-    LT_Deploy_Text_NotDeployed                  : "Não implementado",
+    LT_Deploy_Text_NotDeployed                  : "n&atilde;o implementado",
 
 
 
     //Statistics tab
 
-    LT_Statistics_Title                         : "%(sAppName) : %(sType) : estatísticas",
+    LT_Statistics_Title                         : "%(sAppName) : %(sType) : Estat&iacute;sticas",
 
-    LT_Statistics_Button_AutoRefresh            : "Atualzação Automática",
+    LT_Statistics_Button_AutoRefresh            : "Atualiza&ccedil;&atilde;o Autom&aacute;tica",
 
     LT_Statistics_Label_Time                    : "Tempo",
 
     LT_Statistics_Text_Interval                 : "Intervalo",
 
-    LT_Statistics_Text_Duration                 : "Duração",
+    LT_Statistics_Text_Duration                 : "Dura&ccedil;&atilde;o",
 
     LT_Statistics_Text_IntervalMin              : "minutos",
 
@@ -342,7 +342,7 @@ var GLocal = {
 
     //Config tab
 
-    LT_Config_Title                             : "%(sAppName) : %(sType) : configuração",
+    LT_Config_Title                             : "%(sAppName) : %(sType) : Configura&ccedil;&atilde;o",
 
     LT_Config_Button_New                        : "Novo",
 
@@ -354,9 +354,9 @@ var GLocal = {
 
     LT_Log_Title								: "%(sAppName) : %(sType) : log",
 
-    LT_Log_Error								: "Solicitação de Log falhou: %(sError)",
+    LT_Log_Error								: "Solicita&ccedil;&atilde;o de Log falhou: %(sError)",
 
-    LT_ActionsLog_Title                         : "%(sAppName) : %(sType) : ações",
+    LT_ActionsLog_Title                         : "%(sAppName) : %(sType) : a&ccedil;&otilde;es",
 
     LT_ActionsLog_Text_NodeId                   : "Node ID : %(sNode)",
 
@@ -372,7 +372,7 @@ var GLocal = {
 
     LT_Signup_Label_Name						: "Nome",
 
-    LT_Signup_Label_Info						: "Uma vez que a conta é criada, vamos enviar-lhe o link de ativação por e-mail. Por favor, verifique se ele não vai para a pasta de spam.",
+    LT_Signup_Label_Info						: "Uma vez que a conta &eacute; criada, vamos enviar-lhe o link de ativa&ccedil;&atilde;o por e-mail. Por favor, verifique se ele n&atilde;o vai para a pasta de spam.",
 
     LT_Signup_Button_CreateAccount				: "Criar conta",
 
@@ -388,7 +388,7 @@ var GLocal = {
 
     LT_Signin_Button_Enter						: "Entrar",
 
-    LT_Signin_Title_Dialog						: "Autenticação do Desenvolvedor",
+    LT_Signin_Title_Dialog						: "Autentica&ccedil;&atilde;o do Desenvolvedor",
 
     LT_Signin_Label_ForgotPassword 				: "Esqueceu a senha?",
 
@@ -402,7 +402,7 @@ var GLocal = {
 
     LT_ChangePassword_Label_ConfirmPassword		: "Confirmar senha",
 
-    LT_ChangePassword_Validation_Passwords		: "As senhas não correspondem.",
+    LT_ChangePassword_Validation_Passwords		: "As senhas n&atilde;o correspondem.",
 
     LT_ChangePassword_Button_Change				: "Mudar senha",
 
@@ -416,7 +416,7 @@ var GLocal = {
 
     LT_Upload_Button_Upload						: "Enviar",
 
-    LT_Upload_Text_Invalid_Format				: "Por favor, só fazer upload de arquivos com extensões:  %(sFormats)",
+    LT_Upload_Text_Invalid_Format				: "Por favor, s&oacute; fazer upload de arquivos com extens&otilde;es:  %(sFormats)",
 
     LT_UploadArchive_Title_Dialog				: "Enviar arquivo",
 
@@ -436,19 +436,19 @@ var GLocal = {
 
     LT_EnvironmentSettings_Title_Dialog         : "Topologia de ambiente",
 
-    LT_EnvironmentSettings_Label_WhatIsThis     : "Oque é isso?",
+    LT_EnvironmentSettings_Label_WhatIsThis     : "Oque &eacute; isso?",
 
     LT_EnvironmentSettings_Label_Name           : "Nome do ambiente",
 
     LT_EnvironmentSettings_Label_ComputeStack   : "Compute stack",
 
-    LT_EnvironmentSettings_Label_CloudletCount  : "Cloudlets por instância",
+    LT_EnvironmentSettings_Label_CloudletCount  : "Cloudlets por inst&acirc;ncia",
 
     LT_EnvironmentSettings_Label_DatabaseSQL    : "Banco de dados SQL",
 
     LT_EnvironmentSettings_Label_DatabaseNoSQL  : "Banco de Dados NoSQL",
 
-    LT_EnvironmentSettings_Text_NotValidName    : "Não é um nome de ambiente válido.",
+    LT_EnvironmentSettings_Text_NotValidName    : "n&atilde;o &eacute; um nome de ambiente v&aacute;lido.",
 
     LT_DeleteEnvironment_Title_Dialog           : "Excluir ambiente",
 
@@ -458,7 +458,7 @@ var GLocal = {
 
     LT_EnvironmentWizard_Label_HTTPRequests    	: "HTTP Requerido",
 
-    LT_EnvironmentWizard_Label_Statics    		: "Estatísticas",
+    LT_EnvironmentWizard_Label_Statics    		: "Estat&iacute;sticas",
 
     LT_EnvironmentWizard_Label_Balancer    		: "Equilibrar",
 
@@ -476,7 +476,7 @@ var GLocal = {
 
     LT_EnvironmentWizard_Label_PerInstance    	: "por servidor app",
 
-    LT_EnvironmentWizard_Label_Memory	    	: "memória",
+    LT_EnvironmentWizard_Label_Memory	    	: "mem&oacute;ria",
 
     LT_EnvironmentWizard_Label_Mb		    	: "MB",
 
@@ -490,37 +490,37 @@ var GLocal = {
 
     LT_EnvironmentWizard_Label_ApproxCost    	: "(custo mensal aproximado)",
 
-    LT_EnvironmentWizard_Label_BetaTitle		: " Restrições beta-teste:",
+    LT_EnvironmentWizard_Label_BetaTitle		: " Restri&ccedil;&otilde;es beta-teste:",
 
-    LT_EnvironmentWizard_Label_BetaRestrictions	: "4 instâncias de computação por ambiente<br/>16 cloudlets por instância de computação<br/>"+
+    LT_EnvironmentWizard_Label_BetaRestrictions	: "4 inst&acirc;ncias de computa&ccedil;&atilde;o por ambiente<br/>16 cloudlets por inst&acirc;ncia de computa&ccedil;&atilde;o<br/>"+
 
-        "1 GB HDD por instância de computação<br/>3 ambientes por conta<br/>",
+        "1 GB HDD por inst&acirc;ncia de computa&ccedil;&atilde;o<br/>3 ambientes por conta<br/>",
 
     LT_EnvironmentWizard_Label_Name		    	: "Nome",
 
 
 
-    LT_EnvironmentWizard_Hint_Instance			: 	"<p class=\"dfn\">Precisa de mais instâncias?</p>"+
+    LT_EnvironmentWizard_Hint_Instance			: 	"<p class=\"dfn\">Precisa de mais inst&acirc;ncias?</p>"+
 
-        "<p>Durante os testes beta, estamos limitando o número de instâncias de computação para 2. Cada node fica automatizado escala vertical &mdash; deve o aumento de carga, mais CPU e memória RAM são automaticamente adicionados. Para auto dimensionamento de nodes, deve fornecer escalabilidade suficiente e de alta disponibilidade para a maioria das aplicações.</p>"+
+        "<p>Durante os testes beta, estamos limitando o n&uacute;mero de inst&acirc;ncias de computa&ccedil;&atilde;o para 2. Cada node fica automatizado escala vertical &mdash; deve o aumento de carga, mais CPU e mem&oacute;ria RAM s&atilde;o automaticamente adicionados. Para auto dimensionamento de nodes, deve fornecer escalabilidade suficiente e de alta disponibilidade para a maioria das aplica&ccedil;&otilde;es.</p>"+
 
         "<div class=\"horiz-scaling\">&nbsp;</div>"+
 
-        "<p>Pretendemos fornecer a capacidade de executar mais instâncias e fornecer opções de escala mais horizontais em uma atualização futura.</p>"+
+        "<p>Pretendemos fornecer a capacidade de executar mais inst&acirc;ncias e fornecer opções de escala mais horizontais em uma atualiza&ccedil;&atilde;o futura.</p>"+
 
-        "<p>Se você precisar dessa funcionalidade urgentemente &mdash; por favor <a href=\"http://support.jelastic.com\">contate-nos</a>. Nós gostaríamos de saber mais sobre a sua aplicação e ver se podemos ajudá-lo.</p>",
+        "<p>Se voc&ecirc; precisar dessa funcionalidade urgentemente &mdash; por favor <a href=\"http://support.jelastic.com\">contate-nos</a>. N&oacute;s gostaríamos de saber mais sobre a sua Aplica&ccedil;&atilde;o e ver se podemos ajud&aacute;-lo.</p>",
 
 
 
     LT_EnvironmentWizard_Hint_Databaces			:   "<div class=\"dfn\">MariaDB &mdash; uma oferta especial de MariaDB e Jelastic</div>"+
 
-        "<p class=\"indent\">MariaDB é uma alternativa em substituição da MySQL. Para aplicações MySQL existente, nenhuma conversão de dados ou outras mudanças são necessárias, suas aplicações existentes será executado inalterado em MariaDB.</p>"+
+        "<p class=\"indent\">MariaDB &eacute; uma alternativa em substitui&ccedil;&atilde;o do MySQL. Para aplica&ccedil;&otilde;es MySQL existente, nenhuma convers&atilde;o de dados ou outras mudan&ccedil;as s&atilde;o necess&aacute;rias, suas aplica&ccedil;&otilde;es existentes ser&aacute; executado inalterado em MariaDB.</p>"+
 
         "<a href=\"http://mariadb.org/\" target=\"_blank\" class=\"logo\">%(logoImg)</a>"+
 
-        "<p class=\"indent\">MariaDB foi desenvolvido pelos arquitetos originais do núcleo mysqld e é liderado por <a target=\"_blank\" href=\"http://en.wikipedia.org/wiki/Michael_Widenius\">Michael \"Monty\" Widenius</a>, o fundador do MySQL, MySQL Ab e Monty Program Ab.</p>"+
+        "<p class=\"indent\">MariaDB foi desenvolvido pelos arquitetos originais do n&uacute;cleo mysqld e &eacute; liderado por <a target=\"_blank\" href=\"http://en.wikipedia.org/wiki/Michael_Widenius\">Michael \"Monty\" Widenius</a>, o fundador do MySQL, MySQL Ab e Monty Program Ab.</p>"+
 
-        "<p class=\"indent\">Jelastic irá fornecer suporte para seus bancos de dados MariaDB e MySQL, apoiados pelos desenvolvedores originais do MariaDB. Ao trabalhar com Jelastic, você pode ter certeza de que haverá suporte contínuo e desenvolvimento de MariaDB.</p>",
+        "<p class=\"indent\">Jelastic ir&aacute; fornecer suporte para seus bancos de dados MariaDB e MySQL, apoiados pelos desenvolvedores originais do MariaDB. Ao trabalhar com Jelastic, voc&ecirc; pode ter certeza de que haver&aacute; suporte cont&iacute;nuo e desenvolvimento de MariaDB.</p>",
 
 
 
@@ -530,13 +530,13 @@ var GLocal = {
 
     LT_RecoverPassword_Button_Recover           : "Recuperar",
 
-    LT_RecoverPassword_Label_Info               : "Se você esqueceu sua senha, podemos enviar uma nova senha para o endereço de e-mail registrado com a sua conta.",
+    LT_RecoverPassword_Label_Info               : "Se voc&ecirc; esqueceu sua senha, podemos enviar uma nova senha para o endere&ccedil;o de e-mail registrado com a sua conta.",
 
 
 
     LT_ChangeCloudletsCount_Title_Dialog        : "Mudar limites de cloudlets",
 
-    LT_ChangeCloudletsCount_Label_PerInst      	: "Por instância",
+    LT_ChangeCloudletsCount_Label_PerInst      	: "Por inst&acirc;ncia",
 
     LT_ChangeCloudletsCount_Label_Used        	: "Usado",
 
@@ -544,11 +544,11 @@ var GLocal = {
 
     LT_ChangeCloudletsCount_Label_TotalEnv		: "Ambiente total",
 
-    LT_ChangeCloudletsCount_Label_Instance		: "intância",
+    LT_ChangeCloudletsCount_Label_Instance		: "int&acirc;ncia",
 
 
 
-    LT_Signout_Confirm_EnvironmenCreating		: "Ambiente está actualmente a ser criado. Você realmente deseja fazer logoff?",
+    LT_Signout_Confirm_EnvironmenCreating		: "Ambiente est&aacute; actualmente a ser criado. voc&ecirc; realmente deseja fazer logoff?",
 
 
 
@@ -556,7 +556,7 @@ var GLocal = {
 
 
 
-    LT_Process_Label_Clone						: "Ð¡Clonando aplicação...",
+    LT_Process_Label_Clone						: "Ð¡Clonando Aplica&ccedil;&atilde;o...",
 
     //LT_Process_Label_Creating					: "Criando %(sName)...",
 
@@ -568,17 +568,17 @@ var GLocal = {
 
     LT_Process_Label_Deploying 					: "%(sName) sendo implantado...",
 
-    LT_Process_Label_CheckSign					: "A Conectando ao serviço de autenticação, por favor aguarde ...",
+    LT_Process_Label_CheckSign					: "A Conectando ao servi&ccedil;o de Autentica&ccedil;&atilde;o, por favor aguarde ...",
 
 
 
     LT_Process_Label_GetApps					: "Carregando seus dados, aguarde por favor...",
 
-    LT_Process_Label_GenerateApp				: "Preparando o Ambiente para a sua aplicação, por favor aguarde...",
+    LT_Process_Label_GenerateApp				: "Preparando o Ambiente para a sua Aplica&ccedil;&atilde;o, por favor aguarde...",
 
-    LT_Process_Label_DeleteApp					: "Removendo a sua aplicação, por favor aguarde...",
+    LT_Process_Label_DeleteApp					: "Removendo a sua Aplica&ccedil;&atilde;o, por favor aguarde...",
 
-    LT_Process_Label_RebuildApp					: "Reconstruindo a sua aplicação, por favor aguarde...",
+    LT_Process_Label_RebuildApp					: "Reconstruindo a sua Aplica&ccedil;&atilde;o, por favor aguarde...",
 
     LT_Process_Label_RemoveField				: "Removendo campo %(sName)...",
 
@@ -586,7 +586,7 @@ var GLocal = {
 
     LT_Process_Label_UndefineType				: "Removendo tipo %(sName)...",
 
-    LT_Process_Label_GetSolution				: "Carregando solução %(sAppid) ...",
+    LT_Process_Label_GetSolution				: "Carregando solu&ccedil;&atilde;o %(sAppid) ...",
 
 
 
@@ -616,19 +616,19 @@ var GLocal = {
 
     // Notify messages.
 
-    LT_Notify_Title_Info						: "Informação",
+    LT_Notify_Title_Info						: "Informa&ccedil;&atilde;o",
 
     LT_Notify_Label_NeedAppName					: "Por favor, especifique o nome do aplicativo em primeiro lugar.",
 
-    LT_Notify_Label_NeedPassword  				: "Como medida de segurança, é necessário que você digite a senha da conta Jelastic antes de continuar.",
+    LT_Notify_Label_NeedPassword  				: "Como medida de seguran&ccedil;a, é necess&aacute;rio que voc&ecirc; digite a senha da conta Jelastic antes de continuar.",
 
     LT_Notify_Label_AutoSaved					: "Salvar automaticamente em %(sTime)",
 
-    LT_Notify_Label_CreateAccount				: "Registro foi bem sucedido. Por favor, verifique seu e-mail para o link de ativação."
+    LT_Notify_Label_CreateAccount				: "Registro foi bem sucedido. Por favor, verifique seu e-mail para o link de ativa&ccedil;&atilde;o."
 
         + "<hr />Verificar e-mail para <a href='%(sEmailUrl)'>%(sEmailUrl)</a>",
 
-    LT_Notify_Label_RecoverPassword             : "Uma nova senha foi enviada para o endereço fornecido.",
+    LT_Notify_Label_RecoverPassword             : "Uma nova senha foi enviada para o endere&ccedil;o fornecido.",
 
     LT_Notify_Label_ChooseEnvironment           : "Escolha o ambiente no painel de ambientes.",
 
@@ -636,47 +636,47 @@ var GLocal = {
 
     LT_Notify_Label_SelectItem                  : "Por favor, selecione um item.",
 
-    LT_Notify_Label_ContextExists               : "Contexto %(sContext) já está em uso.",
+    LT_Notify_Label_ContextExists               : "Contexto %(sContext) j&aacute; est&aacute; em uso.",
 
-    LT_Notify_Label_FolderExists                : "Pasta com o nome especificado já existe.",
+    LT_Notify_Label_FolderExists                : "Pasta com o nome especificado j&aacute; existe.",
 
-    LT_Notify_Label_FileExists                  : "Arquivo com o nome especificado já existe.",
+    LT_Notify_Label_FileExists                  : "Arquivo com o nome especificado j&aacute; existe.",
 
-    LT_Notify_Label_WaitDeploying               : "Por favor, aguarde até que a tarefa de implantação atual seja concluída.",
+    LT_Notify_Label_WaitDeploying               : "Por favor, aguarde at&eacute; que a tarefa de implanta&ccedil;&atilde;o atual seja concluída.",
 
-    LT_Notify_Label_WaitContext					: "Por favor, aguarde até que o contexto atual seja desbloqueado.",
+    LT_Notify_Label_WaitContext					: "Por favor, aguarde at&eacute; que o contexto atual seja desbloqueado.",
 
-    LT_Notify_Label_EnvironmenStopped           : "O ambiente %(envname) está parado. Executá-lo e tente novamente.",
+    LT_Notify_Label_EnvironmenStopped           : "O ambiente %(envname) est&aacute; parado. Execut&aacute;-loo e tente novamente.",
 
-    LT_Notify_Label_EnvironmenUnavailable       : "O ambiente %(envname) não está disponível. Por favor, tente novamente mais tarde",
+    LT_Notify_Label_EnvironmenUnavailable       : "O ambiente %(envname) n&atilde;o est&aacute; dispon&iacute;vel. Por favor, tente novamente mais tarde",
 
-    LT_Notify_Label_EnvironmenCreated			: "Ambiente foi criado com êxito. Informações detalhadas foi enviado para o seu e-mail.",
+    LT_Notify_Label_EnvironmenCreated			: "Ambiente foi criado com &ecirc;xito. Informa&ccedil;&otilde;es detalhadas foi enviado para o seu e-mail.",
 
-    LT_Notify_Label_EnvironmenLaunching			: "Criando o ambiente. Isso pode demorar alguns minutos para ser concluído.",
+    LT_Notify_Label_EnvironmenLaunching			: "Criando o ambiente. Isso pode demorar alguns minutos para ser conclu&iacute;do.",
 
-    LT_Notify_Label_EnvironmenCloning			: "Clonando ambiente '%(envName)'. Isso pode demorar alguns minutos para ser concluído.",
+    LT_Notify_Label_EnvironmenCloning			: "Clonando ambiente '%(envName)'. Isso pode demorar alguns minutos para ser conclu&iacute;do.",
 
-    LT_Notify_Label_EnvironmenCloned			: "Ambiente '%(envName)' clonado com sucesso. informações detalhadas foi enviado para o seu e-mail.",
+    LT_Notify_Label_EnvironmenCloned			: "Ambiente '%(envName)' clonado com sucesso. informa&ccedil;&otilde;es detalhadas foi enviado para o seu e-mail.",
 
     LT_Notify_Label_ResetDBPasswordSuccess		: "A sua senha para %(sType) foi reiniciada com sucesso."+
 
-        "<hr />A nova senha foi enviada para o e-mail associado à sua conta",
+        "<hr />A nova senha foi enviada para o e-mail associado &agrave; sua conta",
 
-    LT_Notify_Label_ResetDBPasswordFailed       : "Redefinição de senha para %(sType) falhou" +
+    LT_Notify_Label_ResetDBPasswordFailed       : "Redefini&ccedil;&atilde;o de senha para %(sType) falhou" +
 
         "<hr /> Por favor tente novamente ou entre em contato <a target='_blank' style='text-decoration:underline' href='http://support.jelastic.com'>suporte.</a>",
 
-    LT_Notify_Label_DeleteEnvironment			: "Após o ambiente %(envname) ser deletado, todos os dados serão perdidos para sempre!",
+    LT_Notify_Label_DeleteEnvironment			: "Ap&oacute;s o ambiente %(envname) ser deletado, todos os dados ser&atilde;o perdidos para sempre!",
 
-    LT_Notify_Label_DomainBound					: "Estamos vinculando o seu domínio agora. Isso pode demorar alguns minutos para ser concluído.",
+    LT_Notify_Label_DomainBound					: "Estamos vinculando o seu Dom&iacute;nio agora. Isso pode demorar alguns minutos para ser conclu&iacute;do.",
 
-    LT_Notify_Label_DomainsSwap					: "Domínios %(envName) e %(targetName) estão a ser trocados. Isso pode demorar alguns minutos para ser concluído.",
+    LT_Notify_Label_DomainsSwap					: "Dom&iacute;nios %(envName) e %(targetName) est&atilde;o a ser trocados. Isso pode demorar alguns minutos para ser conclu&iacute;do.",
 
 
 
-    LT_Notify_Label_DeprecatedBrowser			: "<div class='title'>Seu navegador atual não é oficialmente suportado pelo Jelastic</div>"+
+    LT_Notify_Label_DeprecatedBrowser			: "<div class='title'>Seu navegador atual n&atilde;o &eacute; oficialmente suportado pelo Jelastic</div>"+
 
-        "<div class='message'>Algumas das funções podem não funcionar corretamente dentro do seu browser. Recomendamos que você use um dos seguintes navegadores com Jelastic:</div>",
+        "<div class='message'>Algumas das fun&ccedil;&otilde;es podem n&atilde;o funcionar corretamente dentro do seu browser. Recomendamos que voc&ecirc; use um dos seguintes navegadores com Jelastic:</div>",
 
 
 
@@ -686,7 +686,7 @@ var GLocal = {
 
     LT_Task_Status_Failed                       : "Falhou",
 
-    LT_Task_Status_NullResponse                 : "Resposta é nula",
+    LT_Task_Status_NullResponse                 : "Resposta &eacute; nula",
 
     LT_Task_Status_UploadingSuccess             : "Sucesso [total %(sTotal) KB]",
 
@@ -700,9 +700,9 @@ var GLocal = {
 
     LT_Task_LoadArchives                        : "Carregando arquivos do projeto %(sProjectName)",
 
-    LT_Task_DeployApplication                   : "Implantar %(sAppName) aplicação para %(sAppid)",
+    LT_Task_DeployApplication                   : "Implantar %(sAppName) Aplica&ccedil;&atilde;o para %(sAppid)",
 
-    LT_Task_CheckAuthentication                 : "Autenticação de verificação",
+    LT_Task_CheckAuthentication                 : "Autentica&ccedil;&atilde;o de verifica&ccedil;&atilde;o",
 
     LT_Task_CreateEnvironment                   : "Criar ambiente %(sAppName)",
 
@@ -712,9 +712,9 @@ var GLocal = {
 
     LT_Task_RestartingEnvironment               : "Reiniciando ambiente %(sAppName)",
 
-    LT_Task_DeleteApplication                   : "Excluir aplicação %(sAppName)",
+    LT_Task_DeleteApplication                   : "Excluir Aplica&ccedil;&atilde;o %(sAppName)",
 
-    LT_Task_CloneApplication                   	: "Clonar aplicação %(sAppName)",
+    LT_Task_CloneApplication                   	: "Clonar Aplica&ccedil;&atilde;o %(sAppName)",
 
     LT_Task_CreateNewProject                    : "Criar novo projeto %(sProjectName)",
 
@@ -734,7 +734,7 @@ var GLocal = {
 
     LT_Error_Label_AutoSaved					: "Erro ao salvar %(sTime)",
 
-    LT_Error_Label_AccessDenied					: "Essa ação não está disponível" +
+    LT_Error_Label_AccessDenied					: "Essa a&ccedil;&atilde;o n&atilde;o est&aacute; dispon&iacute;vel" +
 
         "<hr />Acesso negado.",
 
@@ -750,29 +750,29 @@ var GLocal = {
 
     LT_E_Platform_0								: "Nenhum erro",
 
-    LT_E_Platform_1								: "Serviço disponível",
+    LT_E_Platform_1								: "servi&ccedil;o dispon&iacute;vel",
 
     LT_E_Platform_2								: "Acesso negado",
 
-    LT_E_Platform_3								: "Um ou mais parâmetros obrigatórios não especificados",
+    LT_E_Platform_3								: "Um ou mais par&acirc;metros obrigat&oacute;rios n&atilde;o especificados",
 
-    LT_E_Platform_4								: "Entidade não encontrada",
+    LT_E_Platform_4								: "Entidade n&atilde;o encontrada",
 
-    LT_E_Platform_5								: "Serviço não encontrado",
+    LT_E_Platform_5								: "servi&ccedil;o n&atilde;o encontrado",
 
-    LT_E_Platform_6								: "Método não encontrado",
+    LT_E_Platform_6								: "M&eacute;todo n&atilde;o encontrado",
 
-    LT_E_Platform_7								: "O objeto não esta autenticado",
+    LT_E_Platform_7								: "O objeto n&atilde;o esta autenticado",
 
-    LT_E_Platform_8								: "Permissão proibida",
+    LT_E_Platform_8								: "Permiss&atilde;o proibida",
 
-    LT_E_Platform_9								: "Operação não permitida",
+    LT_E_Platform_9								: "Opera&ccedil;&atilde;o n&atilde;o permitida",
 
-    LT_E_Platform_10 							: "Aplicações bloqueadas pelo sistema",
+    LT_E_Platform_10 							: "Aplica&ccedil;&otilde;es bloqueadas pelo sistema",
 
-    LT_E_Platform_11 							: "A aplicação não existe no sistema",
+    LT_E_Platform_11 							: "A Aplica&ccedil;&atilde;o n&atilde;o existe no sistema",
 
-    LT_E_Platform_14 							: "A aplicação não está presente no node",
+    LT_E_Platform_14 							: "A Aplica&ccedil;&atilde;o n&atilde;o est&aacute; presente no node",
 
 
 
@@ -784,51 +784,51 @@ var GLocal = {
 
 
 
-    LT_E_Platform_501 							: "Formato de endereço de e-mail inválido",
+    LT_E_Platform_501 							: "Formato de endere&ccedil;o de e-mail inv&aacute;lido",
 
-    LT_E_Platform_502 							: "Endereço de e-mail já está registrado no sistema",
+    LT_E_Platform_502 							: "endere&ccedil;o de e-mail j&aacute; est&aacute; registrado no sistema",
 
-    LT_E_Platform_503 							: "Endereço de email não existe",
+    LT_E_Platform_503 							: "endere&ccedil;o de email n&atilde;o existe",
 
-    LT_E_Platform_504 							: "A senha contém caracteres que não são suportados",
+    LT_E_Platform_504 							: "A senha cont&eacute;m caracteres que n&atilde;o s&atilde;o suportados",
 
-    LT_E_Platform_505 							: "A chave de ativação não é válida. Está incorreta ou já foi usada para ativação.",
+    LT_E_Platform_505 							: "A chave de ativa&ccedil;&atilde;o n&atilde;o &eacute; v&aacute;lida. est&aacute; incorreta ou j&aacute; foi usada para ativa&ccedil;&atilde;o.",
 
-    LT_E_Platform_506 							: "O endereço de email não está registrado no Jelastic. Por favor, indique um e-mail registrado ou cadastre uma nova conta Jelastic.",
+    LT_E_Platform_506 							: "O endere&ccedil;o de email n&atilde;o est&aacute; registrado no Jelastic. Por favor, indique um e-mail registrado ou cadastre uma nova conta Jelastic.",
 
-    LT_E_Platform_601 							: "O servidor de email não está disponível. Por favor tente mais tarde.",
+    LT_E_Platform_601 							: "O servidor de email n&atilde;o est&aacute; dispon&iacute;vel. Por favor tente mais tarde.",
 
-    LT_E_Platform_701 							: "Erro de autenticação",
+    LT_E_Platform_701 							: "Erro de Autentica&ccedil;&atilde;o",
 
-    LT_E_Platform_702 							: "Usuário não está autenticado",
+    LT_E_Platform_702 							: "Usu&aacute;rio n&atilde;o est&aacute; autenticado",
 
-    LT_E_Platform_704 							: "Usuário bloqueado",
+    LT_E_Platform_704 							: "Usu&aacute;rio bloqueado",
 
-    LT_E_Platform_707							: "O usuário especificado não existe no sistema.<br />Talvez você tenha digitado incorretamente o nome de usuário ou senha?",
+    LT_E_Platform_707							: "O Usu&aacute;rio especificado n&atilde;o existe no sistema.<br />Talvez voc&ecirc; tenha digitado incorretamente o nome de Usu&aacute;rio ou senha?",
 
-    LT_E_Platform_801							: "Senha inválida!",
+    LT_E_Platform_801							: "Senha inv&aacute;lida!",
 
-    LT_E_Platform_904							: "Você atingiu o número máximo de aplicações para um único desenvolvedor",
+    LT_E_Platform_904							: "voc&ecirc; atingiu o n&uacute;mero m&aacute;ximo de aplica&ccedil;&otilde;es para um único desenvolvedor",
 
-    LT_E_Platform_1001 							: "Tipo de dados não é compatível.",
+    LT_E_Platform_1001 							: "Tipo de dados n&atilde;o &eacute; compat&iacute;vel.",
 
-    LT_E_Platform_1002 							: "Tipo de dados com o nome especificado já existe",
+    LT_E_Platform_1002 							: "Tipo de dados com o nome especificado j&aacute; existe",
 
-    LT_E_Platform_1003 							: "Tipo de dados com o nome especificado não existe",
+    LT_E_Platform_1003 							: "Tipo de dados com o nome especificado n&atilde;o existe",
 
-    LT_E_Platform_1008 							: "O campo especificado está reservado",
+    LT_E_Platform_1008 							: "O campo especificado est&aacute; reservado",
 
-    LT_E_Platform_1009 							: "O campo especificado não existe",
+    LT_E_Platform_1009 							: "O campo especificado n&atilde;o existe",
 
     LT_E_Platform_1203 							: "Tentativa de escrever uma função com um tipo especial de dados",
 
-    LT_E_Platform_1708 							: "Esta anotação não é suportado. Por favor, verifique o registro.",
+    LT_E_Platform_1708 							: "Esta anota&ccedil;&atilde;o n&atilde;o é suportado. Por favor, verifique o registro.",
 
-    LT_E_Platform_2007 							: "Caractere inválido em nome de arquivo.",
+    LT_E_Platform_2007 							: "Caractere inv&aacute;lido em nome de arquivo.",
 
 
 
-    LT_E_Platform_10001							: "O acesso é limitado a usuários beta e administradores",
+    LT_E_Platform_10001							: "O acesso é limitado a Usu&aacute;rios beta e administradores",
 
 
 
@@ -846,7 +846,7 @@ var GLocal = {
 
     LT_Menu_Packages                            : "Pacotes",
 
-    LT_Log_Label_EmptyFile                      : "%(fileName) está vazio",
+    LT_Log_Label_EmptyFile                      : "%(fileName) est&aacute; vazio",
 
 
 
@@ -866,7 +866,7 @@ var GLocal = {
 
     LT_Upload_Label_UploadError 				: "Ocorreu um erro ao tentar carregar os arquivos",
 
-    LT_Upload_Label_FilesCount                  : "O número total de arquivos não pode ultrapassar %(fileCount)",
+    LT_Upload_Label_FilesCount                  : "O n&uacute;mero total de arquivos n&atilde;o pode ultrapassar %(fileCount)",
 
     LT_Task_RestartingNode                      : "Reiniciando node %(sAppName) : %(sType)",
 
@@ -882,21 +882,21 @@ var GLocal = {
 
 
 
-    LT_EnvironmentSettings_E_NoRights           : "Você não tem permissão para alterar as configurações do %(envname)",
+    LT_EnvironmentSettings_E_NoRights           : "voc&ecirc; n&atilde;o tem permiss&atilde;o para alterar as configura&ccedil;&otilde;es do %(envname)",
 
-    LT_EnvironmentSettings_E_NoUser             : "Usuário %(sUser) inexistente.",
-
-
-
-    LT_Error_Label_UserNoGroup 					: "Você precisa se registrar para o Jelastic beta." +
-
-        "<br><br>Quando você clica em OK, você será redirecionado para a página inicial Jelastic. Por favor, insira seu endereço de e-mail lá e selecione Inscrever-se." +
-
-        "<br><br>Depois de se inscrever para uma nova conta, nós lhe enviaremos um e-mail com as instruções de ativação beta.",
+    LT_EnvironmentSettings_E_NoUser             : "Usu&aacute;rio %(sUser) inexistente.",
 
 
 
-    LT_Task_Name_1	                            : "Obtendo informações sobre %(env)",
+    LT_Error_Label_UserNoGroup 					: "voc&ecirc; precisa se registrar para o Jelastic beta." +
+
+        "<br><br>Quando voc&ecirc; clica em OK, voc&ecirc; ser&aacute; redirecionado para a página inicial Jelastic. Por favor, insira seu endere&ccedil;o de e-mail lá e selecione Inscrever-se." +
+
+        "<br><br>Depois de se inscrever para uma nova conta, N&oacute;s lhe enviaremos um e-mail com as instruções de ativa&ccedil;&atilde;o beta.",
+
+
+
+    LT_Task_Name_1	                            : "Obtendo informa&ccedil;&otilde;es sobre %(env)",
 
     LT_Task_Name_3	                            : "Excluindo ambiente %(env)",
 
@@ -970,21 +970,21 @@ var GLocal = {
 
     LT_Text_DatabaseInfo                        : "<p>Para trabalhar com o banco de dados, siga estes passos:<ol>"+
 
-        "<li>Verifique se o seu e-mail para receber seu <b>login</b> e <b>senha</b> para usuário ROOT</li>"+
+        "<li>Verifique se o seu e-mail para receber seu <b>login</b> e <b>senha</b> para Usu&aacute;rio ROOT</li>"+
 
         "<li>Logar em<a target=_blank href='%(url)'>" +
 
-        "página de administração</a> usando <b>login</b> e <b>senha</b> do usuário ROOT</li>" +
+        "página de administra&ccedil;&atilde;o</a> usando <b>login</b> e <b>senha</b> do Usu&aacute;rio ROOT</li>" +
 
-        "<li>Lá, você pode criar o seu próprio banco de dados</li>"+
+        "<li>Lá, voc&ecirc; pode criar o seu próprio banco de dados</li>"+
 
-        "<li>Em seguida, crie um novo usuário (set <b>nome_usuario</b> e <b>senha_usuario</b>)</li>"+
+        "<li>Em seguida, crie um novo Usu&aacute;rio (set <b>nome_usuario</b> e <b>senha_usuario</b>)</li>"+
 
         "<li>Insira esse <b>nome_usuario</b> e <b>senha_usuario</b> na sequência de conexão para conectar o seu banco de dados a seu aplicativo</li></ol><p>",
 
 
 
-    LT_Text_NodeInfo_MoreInfo                   : "<p>Para obter informações adicionais visite a nossa <a target=_blank href='%(url)'> página de documentação </a></p>",
+    LT_Text_NodeInfo_MoreInfo                   : "<p>Para obter informa&ccedil;&otilde;es adicionais visite a nossa <a target=_blank href='%(url)'> página de documenta&ccedil;&atilde;o </a></p>",
 
 
 
@@ -996,7 +996,7 @@ var GLocal = {
 
 
 
-    LT_Log_AlreadyEmpty                         :"%(file) já está vazio!",
+    LT_Log_AlreadyEmpty                         :"%(file) já est&aacute; vazio!",
 
 
 
@@ -1004,11 +1004,11 @@ var GLocal = {
 
 
 
-    LT_Menu_AdminPanel                          : "Painel de Administração",
+    LT_Menu_AdminPanel                          : "Painel de Administra&ccedil;&atilde;o",
 
 
 
-    LT_EnvironmentWizard_Label_ApplyingSettings : "Aplicando configurações ...",
+    LT_EnvironmentWizard_Label_ApplyingSettings : "Aplicando configura&ccedil;&otilde;es ...",
 
 
 
@@ -1016,21 +1016,21 @@ var GLocal = {
 
 
 
-    LT_SolutionWizard_Error_SolutionNotExists   : "A solução não existe!",
+    LT_SolutionWizard_Error_SolutionNotExists   : "A solu&ccedil;&atilde;o n&atilde;o existe!",
 
 
 
 
 
-    LT_ActivateCoupon_Title_Dialog              : "Cupom de ativação",
+    LT_ActivateCoupon_Title_Dialog              : "Cupom de ativa&ccedil;&atilde;o",
 
 
 
-    LT_ActivateCoupon_Label_PromoCode           : "Código promocional",
+    LT_ActivateCoupon_Label_PromoCode           : "C&oacute;digo promocional",
 
 
 
-    LT_ActivateCoupon_Label_Info                : "Digite o seu código promocional e obtenha até 4 GB de RAM para os seus servidores de aplicativos.",
+    LT_ActivateCoupon_Label_Info                : "Digite o seu C&oacute;digo promocional e obtenha at&eacute; 4 GB de RAM para os seus servidores de aplicativos.",
 
 
 
@@ -1038,7 +1038,7 @@ var GLocal = {
 
 
 
-    LT_ActivateCoupon_Error_Activate            : "Código promocional inválido!",
+    LT_ActivateCoupon_Error_Activate            : "C&oacute;digo promocional inv&aacute;lido!",
 
 
 
@@ -1046,7 +1046,7 @@ var GLocal = {
 
 
 
-    LT_Notify_Label_CouponActivated             : "Ativado com sucesso. <br />  Agora você pode obter até 4 GB de RAM para os seus servidores de aplicativos!",
+    LT_Notify_Label_CouponActivated             : "Ativado com sucesso. <br />  Agora voc&ecirc; pode obter at&eacute; 4 GB de RAM para os seus servidores de aplicativos!",
 
 
 
@@ -1090,7 +1090,7 @@ var GLocal = {
 
 
 
-    // LT_Signin_Label_Registration				: "<b>Foi enviado um email com a senha</b> para a conta. Se você não tiver recebido o e-mail, por favor, verifique o endereço de e-mail e verifique a sua pasta de e-mail em massa/spam. Se você ainda não consegue acessar sua conta - entre em contato conosco <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a>",
+    // LT_Signin_Label_Registration				: "<b>Foi enviado um email com a senha</b> para a conta. Se voc&ecirc; n&atilde;o tiver recebido o e-mail, por favor, verifique o endere&ccedil;o de e-mail e verifique a sua pasta de e-mail em massa/spam. Se voc&ecirc; ainda n&atilde;o consegue acessar sua conta - entre em contato conosco <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a>",
 
 
 
@@ -1100,9 +1100,9 @@ var GLocal = {
 
 
 
-    LT_Common_Label_Balance                     : "Usuário balanceado",
+    LT_Common_Label_Balance                     : "Usu&aacute;rio balanceado",
 
-    LT_DeployArchive_InvalidContext             : "Nome de contexto inválido",
+    LT_DeployArchive_InvalidContext             : "Nome de contexto inv&aacute;lido",
 
 
 
@@ -1142,7 +1142,7 @@ var GLocal = {
 
 
 
-    LT_Environments_Validation_ErrorDomain      : "Ocorreu um erro ao verificar o domínio. Por favor, tente novamente mais tarde.",
+    LT_Environments_Validation_ErrorDomain      : "Ocorreu um erro ao verificar o Dom&iacute;nio. Por favor, tente novamente mais tarde.",
 
 
 
@@ -1152,7 +1152,7 @@ var GLocal = {
 
     LT_E_Platform_99 							: "Um erro desconhecido ocorreu. Por favor, tente novamente mais tarde. Pedimos desculpas pela inconveniência.",
 
-    LT_Error_Label_ServiceUnavailable           : "O serviço está indisponível. Por favor, tente novamente mais tarde. Pedimos desculpas pela inconveniência.",
+    LT_Error_Label_ServiceUnavailable           : "O servi&ccedil;o est&aacute; indispon&iacute;vel. Por favor, tente novamente mais tarde. Pedimos desculpas pela inconveniência.",
 
 
 
@@ -1174,7 +1174,7 @@ var GLocal = {
 
     LT_BugReport_Title                          : "Reportar erro do Jelastic",
 
-    LT_BugReport_Text_Intro                     : "Para nos ajudar a diagnosticar e corrigir o problema, você pode nos enviar um relatório de erros.",
+    LT_BugReport_Text_Intro                     : "Para nos ajudar a diagnosticar e corrigir o problema, voc&ecirc; pode nos enviar um relatório de erros.",
 
     LT_BugReport_Text_SentSuccess               : "O relatório foi enviada com sucesso. Obrigado!",
 
@@ -1188,7 +1188,7 @@ var GLocal = {
 
         '"ftp://login:senha@www.examplo.com/"',
 
-    LT_Upload_FileNotFound                      : "Arquivo não encontrado!",
+    LT_Upload_FileNotFound                      : "Arquivo n&atilde;o encontrado!",
 
     LT_Process_Label_Uploading					: "Enviando...",
 
@@ -1206,13 +1206,13 @@ var GLocal = {
 
     LT_Common_Text_Topology                     : "Topologia",
 
-    LT_Common_Text_Version                      : "Versão",
+    LT_Common_Text_Version                      : "Vers&atilde;o",
 
     LT_Common_Text_Category                     : "Categoria",
 
     LT_Common_Text_Updated                      : "Atualizada",
 
-    LT_Common_Text_Price                        : "Preço",
+    LT_Common_Text_Price                        : "pre&ccedil;o",
 
     LT_Common_Text_Description                  : "Descrição",
 
@@ -1226,7 +1226,7 @@ var GLocal = {
 
     LT_Common_Text_Summary                      : "Resumo",
 
-    LT_RowEditor_CommitChangesText              : "Você precisa confirmar ou cancelar suas alterações",
+    LT_RowEditor_CommitChangesText              : "voc&ecirc; precisa confirmar ou cancelar suas altera&ccedil;&otilde;es",
 
     LT_DeployArchive_EmptyText                  : "Selecione um contexto",
 
@@ -1238,13 +1238,13 @@ var GLocal = {
 
     LT_Topology_Requests                        : "Pedidos",
 
-    LT_EnvWizard_IPv4                           : "IPv4 Público",
+    LT_EnvWizard_IPv4                           : "IPv4 p&uacute;blico",
 
     LT_EnvWizard_BuildNode                      : "Construir node",
 
 
 
-    //LT_EnvWizard_AppLogic                       : "A lógica de aplicação",
+    //LT_EnvWizard_AppLogic                       : "A lógica de Aplica&ccedil;&atilde;o",
 
     LT_EnvWizard_SqlDatabase                    : "SQL Database",
 
@@ -1258,11 +1258,11 @@ var GLocal = {
 
     LT_EnvWizard_Software                       : "Software",
 
-    LT_EnvWizard_JdkVersion                     : "Versão JDK",
+    LT_EnvWizard_JdkVersion                     : "Vers&atilde;o JDK",
 
     LT_EnvWizard_HScaling                       : "Escalada horizontal",
 
-    LT_EnvWizard_Instances                      : "Instâncias",
+    LT_EnvWizard_Instances                      : "inst&acirc;ncias",
 
 
 
@@ -1284,15 +1284,15 @@ var GLocal = {
 
 //    LT_EnvWizard_Hint_Balancer                  : "Balancear",
 
-//    LT_EnvWizard_Hint_Compute                   : "REC - Tempo de Execução do Container",
+//    LT_EnvWizard_Hint_Compute                   : "REC - Tempo de Execução do cont&ecirc;iner",
 
 //    LT_EnvWizard_Hint_HScaling                  : "Escalada horizontal",
 
-//    LT_EnvWizard_Hint_AppServers                : "Servidores de aplicativos tipo e versão",
+//    LT_EnvWizard_Hint_AppServers                : "Servidores de aplicativos tipo e vers&atilde;o",
 
-//    LT_EnvWizard_Hint_JDK                       : "Versão JDK",
+//    LT_EnvWizard_Hint_JDK                       : "Vers&atilde;o JDK",
 
-//    LT_EnvWizard_Hint_PHP                       : "Versão PHP",
+//    LT_EnvWizard_Hint_PHP                       : "Vers&atilde;o PHP",
 
 //    LT_EnvWizard_Hint_Build                     : "Construir  node",
 
@@ -1302,7 +1302,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Warning_Common                 : "<span class=\"attention\">Atenção!</span> A configuração atual de alguns componentes podem ser irreparáveis ou afetar o desempenho.",
+    LT_EnvWizard_Warning_Common                 : "<span class=\"attention\">Atenção!</span> A Configura&ccedil;&atilde;o atual de alguns componentes podem ser irreparáveis ou afetar o desempenho.",
 
 
 
@@ -1322,7 +1322,7 @@ var GLocal = {
 
         "<div class='build'><span>Construir node</span><p>Construir e implementar o ambiente</p></div>" +
 
-        "<div class='env'><span>Ambiente</span><p>Aplicar código para todos os nodes</p></div>" +
+        "<div class='env'><span>Ambiente</span><p>Aplicar C&oacute;digo para todos os nodes</p></div>" +
 
         "</div>",
 
@@ -1334,7 +1334,7 @@ var GLocal = {
 
 
 
-    LT_Upload_Error_MaxSize                     : "O tamanho máximo de arquivo que você pode fazer upload de um computador local é %(size). Por favor, tente fazer o upload do arquivo de uma URL.",
+    LT_Upload_Error_MaxSize                     : "O tamanho m&aacute;ximo de arquivo que voc&ecirc; pode fazer upload de um computador local é %(size). Por favor, tente fazer o upload do arquivo de uma URL.",
 
     LT_Upload_Error_Upload   				    : "Ocorreu um erro ao tentar fazer upload dos arquivos: %(msg)",
 
@@ -1342,9 +1342,9 @@ var GLocal = {
 
     LT_BuildNode_Warning_NameExist              : "Projeto com nome atual já existe!",
 
-    LT_BuildNode_Warning_InvalidName            : "Nome de projeto inválido",
+    LT_BuildNode_Warning_InvalidName            : "Nome de projeto inv&aacute;lido",
 
-    LT_Common_Text_InvalidData                  : "Dados inválidos",
+    LT_Common_Text_InvalidData                  : "Dados inv&aacute;lidos",
 
 
 
@@ -1354,9 +1354,9 @@ var GLocal = {
 
 
 
-    LT_Warning_Label_Browser_Title              : "Seu navegador atual não é oficialmente suportado pelo Jelastic",
+    LT_Warning_Label_Browser_Title              : "Seu navegador atual n&atilde;o é oficialmente suportado pelo Jelastic",
 
-    LT_Warning_Label_Browser_Message            : "Algumas das funções podem não funcionar corretamente. Recomendamos que você use um dos seguintes navegadores com Jelastic:",
+    LT_Warning_Label_Browser_Message            : "Algumas das fun&ccedil;&otilde;es podem n&atilde;o funcionar corretamente. Recomendamos que voc&ecirc; use um dos seguintes navegadores com Jelastic:",
 
 
 
@@ -1396,9 +1396,9 @@ var GLocal = {
 
     LT_Menu_Toolbar_ConvertAccount              : "Atualizar %(groupName) conta",
 
-    LT_Menu_Billing_ViewStat                    : "Ver estatísticas",
+    LT_Menu_Billing_ViewStat                    : "Ver Estat&iacute;sticas",
 
-    LT_Menu_Billing_BillStat                    : "Faturamento / estatísticas",
+    LT_Menu_Billing_BillStat                    : "Faturamento / Estat&iacute;sticas",
 
     LT_Menu_Billing_RefillAccount               : "Recarregar saldo",
 
@@ -1408,17 +1408,17 @@ var GLocal = {
 
     LT_Action_Deploy                            : "implantar arquivo",
 
-    LT_Action_BindExtDomain                     : "vincular domínio externo",
+    LT_Action_BindExtDomain                     : "vincular Dom&iacute;nio externo",
 
-    LT_Action_RemoveExtDomain                   : "remover domínio externo",
+    LT_Action_RemoveExtDomain                   : "remover Dom&iacute;nio externo",
 
-    LT_Action_SwapExtDomains                    : "trocar domínio externo",
+    LT_Action_SwapExtDomains                    : "trocar Dom&iacute;nio externo",
 
     LT_Action_CreateEnv                         : "criar um ambiente",
 
     LT_Action_DeleteEnv                         : "deletar um ambiente",
 
-    LT_Action_StartEnv                          : "começar ambiente",
+    LT_Action_StartEnv                          : "come&ccedil;ar ambiente",
 
     LT_Action_StopEnv                           : "parar ambiente",
 
@@ -1428,7 +1428,7 @@ var GLocal = {
 
     LT_Action_SaveFile                          : "salvar arquivo",
 
-    LT_Action_CreateDir                         : "criar diretório",
+    LT_Action_CreateDir                         : "criar diret&oacute;rio",
 
     LT_Action_CreateFile                        : "criar arquivo",
 
@@ -1462,7 +1462,7 @@ var GLocal = {
 
     LT_Action_ActivateCoupon                    : "ativar cupom",
 
-    LT_Action_CreateSolution                    : "criar solução",
+    LT_Action_CreateSolution                    : "criar solu&ccedil;&atilde;o",
 
     LT_Action_ChangeTopology                    : "mudar topologia",
 
@@ -1478,7 +1478,7 @@ var GLocal = {
 
 
 
-    LT_Window_Title                             : "Painel de administração Jelastic",
+    LT_Window_Title                             : "Painel de administra&ccedil;&atilde;o Jelastic",
 
 
 
@@ -1490,7 +1490,7 @@ var GLocal = {
 
 
 
-    LT_Error_NotBillingUser                     : "Houve um erro ao recuperar informações de sua conta. Entre em contato com nossa equipe de suporte.",
+    LT_Error_NotBillingUser                     : "Houve um erro ao recuperar informa&ccedil;&otilde;es de sua conta. Entre em contato com nossa equipe de suporte.",
 
 
 
@@ -1500,11 +1500,11 @@ var GLocal = {
 
     //TODO: remove LT_Error_Label_UserNoGroup from all localization files!
 
-    LT_Error_Label_UserHasNoHXGroups            : "Você precisa ser um usuário Jelastic registrado para fazer o login.",
+    LT_Error_Label_UserHasNoHXGroups            : "voc&ecirc; precisa ser um Usu&aacute;rio Jelastic registrado para fazer o login.",
 
 
 
-    LT_Error_SuspendedAccount_Trial             : "O período de avaliação expirou e sua conta foi desativada. Atualize a sua conta se você gostaria de continuar usando Jelastic.",
+    LT_Error_SuspendedAccount_Trial             : "O Per&iacute;odo de avalia&ccedil;&atilde;o expirou e sua conta foi desativada. Atualize a sua conta se voc&ecirc; gostaria de continuar usando Jelastic.",
 
     LT_Error_SuspendedAccount_Billing           : "A sua conta foi temporariamente desativado devido à falta de fundos. Por favor, recarregue a sua conta para continuar usando Jelastic.",
 
@@ -1532,25 +1532,25 @@ var GLocal = {
 
     LT_SignupDlg_Label_Signup                   : "Inscrever-se!",
 
-    LT_SignupDlg_Label_Info                     : "<b>Registe-se gratuitamente!</b> A inscrição confirma que você leu e concorda com os <a href=\"%(sTermsUrl)\" target=\"_blank\">Termos de Serviços</a> e nossa <a href=\"%(sPolicyUrl)\" target=\"_blank\">política de privacidade</a>.",
+    LT_SignupDlg_Label_Info                     : "<b>Registe-se gratuitamente!</b> A inscrição confirma que voc&ecirc; leu e concorda com os <a href=\"%(sTermsUrl)\" target=\"_blank\">Termos de servi&ccedil;os</a> e nossa <a href=\"%(sPolicyUrl)\" target=\"_blank\">política de privacidade</a>.",
 
 
 
-    LT_Signin_Label_SignupFailed				: "<b>O registro da conta falhou</b>. Nós suspeitamos que isso é devido a problemas de rede - por favor, tente novamente em alguns minutos. Se a sua segunda tentativa fracassada envie um email para <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a> e nós vamos ajudá-lo.",
+    LT_Signin_Label_SignupFailed				: "<b>O registro da conta falhou</b>. N&oacute;s suspeitamos que isso é devido a problemas de rede - por favor, tente novamente em alguns minutos. Se a sua segunda tentativa fracassada envie um email para <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a> e N&oacute;s vamos ajud&aacute;-lo.",
 
-    //LT_Signin_Label_SuspendedAccount            : "A sua conta foi suspensa por violar os <a href=\"%(sTermsUrl)\" target=\"_blank\">Termos de Serviços</a>. Para obter informações adicionais, entre em contato conosco <a class=\"email\" href=\"mailto:%(sSupportEmail)\">%(sSupportEmail)</a>",
+    //LT_Signin_Label_SuspendedAccount            : "A sua conta foi suspensa por violar os <a href=\"%(sTermsUrl)\" target=\"_blank\">Termos de servi&ccedil;os</a>. Para obter informa&ccedil;&otilde;es adicionais, entre em contato conosco <a class=\"email\" href=\"mailto:%(sSupportEmail)\">%(sSupportEmail)</a>",
 
-    LT_Signin_Label_SuspendedAccount            : "A sua conta foi suspensa. Entre em contato com o suporte via <a href=\"%(HOSTER_SUPPORT)\" target=\"_blank\">%(HOSTER_NAME) portal</a> para questões relacionadas a esta suspensão.",
+    LT_Signin_Label_SuspendedAccount            : "A sua conta foi suspensa. Entre em contato com o suporte via <a href=\"%(HOSTER_SUPPORT)\" target=\"_blank\">%(HOSTER_NAME) portal</a> para questões relacionadas a esta suspens&atilde;o.",
 
     LT_Process_Label_SigningUp					: "Signing up...",
 
 
 
-    LT_ResetPswdDlg_Label_ResetFailed	        : "Ocorreu um erro ao tentar redefinir sua senha. Nós suspeitamos que isso é devido a problemas de rede - por favor, tente novamente em alguns minutos. Se a sua segunda tentativa fracassada envie um email para <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a>",
+    LT_ResetPswdDlg_Label_ResetFailed	        : "Ocorreu um erro ao tentar redefinir sua senha. N&oacute;s suspeitamos que isso é devido a problemas de rede - por favor, tente novamente em alguns minutos. Se a sua segunda tentativa fracassada envie um email para <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a>",
 
-    LT_ResetPswdDlg_Label_NotRegistered         : "O e-mail não está registado no sistema. Por favor verifique o endereço de e-mail ou <a action=\"signup\">inscrever-se</a> para uma nova conta.",
+    LT_ResetPswdDlg_Label_NotRegistered         : "O e-mail n&atilde;o est&aacute; registado no sistema. Por favor verifique o endere&ccedil;o de e-mail ou <a action=\"signup\">inscrever-se</a> para uma nova conta.",
 
-    LT_Error_Label_AuthFailed 					: "Endereço de e-mail ou senha incorreta. Você pode <a action=\"reset-password\">redefinir sua senha</a>.",
+    LT_Error_Label_AuthFailed 					: "endere&ccedil;o de e-mail ou senha incorreta. voc&ecirc; pode <a action=\"reset-password\">redefinir sua senha</a>.",
 
 
 
@@ -1566,21 +1566,21 @@ var GLocal = {
 
 //    LT_Quotas_Label_Activate                    : "Ativar",
 
-//    LT_Quotas_Label_MaxEnvCount                 : "Numero máximo de ambientes",
+//    LT_Quotas_Label_MaxEnvCount                 : "Numero m&aacute;ximo de ambientes",
 
-//    LT_Quotas_Text_MaxEnvCount                  : "O número máximo de ambientes que podem ser criados.",
+//    LT_Quotas_Text_MaxEnvCount                  : "O n&uacute;mero m&aacute;ximo de ambientes que podem ser criados.",
 
-//    LT_Quotas_Label_MinBalance                  : "Saldo mínimo",
+//    LT_Quotas_Label_MinBalance                  : "Saldo m&iacute;nimo",
 
-//    LT_Quotas_Text_MinBalance                   : "A quantidade mínima de crédito na conta, o que permite que você crie seu ambiente.",
+//    LT_Quotas_Text_MinBalance                   : "A quantidade mínima de crédito na conta, o que permite que voc&ecirc; crie seu ambiente.",
 
-//    LT_Quotas_Label_MaxCPRecCount               : "Número máximo de containers (REC)",
+//    LT_Quotas_Label_MaxCPRecCount               : "n&uacute;mero m&aacute;ximo de cont&ecirc;ineres (REC)",
 
-//    LT_Quotas_Text_MaxCPRecCount                : "O número máximo de containers que podem ser adicionados ao meio ambiente.",
+//    LT_Quotas_Text_MaxCPRecCount                : "O n&uacute;mero m&aacute;ximo de cont&ecirc;ineres que podem ser adicionados ao meio ambiente.",
 
-//    LT_Quotas_Label_MaxCloudlets                : "Número máximo de cloudlets por container (REC)",
+//    LT_Quotas_Label_MaxCloudlets                : "n&uacute;mero m&aacute;ximo de cloudlets por cont&ecirc;iner (REC)",
 
-//    LT_Quotas_Text_MaxCloudlets                 : "O número máximo de cloudlets, que pode ser instalado em cada container (REC).",
+//    LT_Quotas_Text_MaxCloudlets                 : "O n&uacute;mero m&aacute;ximo de cloudlets, que pode ser instalado em cada cont&ecirc;iner (REC).",
 
 //    LT_Quotas_Label_HA                          : "Alta disponibilidade",
 
@@ -1588,39 +1588,39 @@ var GLocal = {
 
 //    LT_Quotas_Label_ExternalIP                  : "IP externo",
 
-//    LT_Quotas_Text_ExternalIP                   : "A capacidade de usar um endereço IP externo.",
+//    LT_Quotas_Text_ExternalIP                   : "A capacidade de usar um endere&ccedil;o IP externo.",
 
 
 
-    LT_Quotas_Label_Available                   : "Disponível",
+    LT_Quotas_Label_Available                   : "dispon&iacute;vel",
 
     LT_Quotas_Label_NoLimit                     : "Ilimitado",
 
-    LT_Quotas_Label_NotAvailable                : "Indisponível",
+    LT_Quotas_Label_NotAvailable                : "Indispon&iacute;vel",
 
 
 
-    LT_Pricing_Title                            : "Preços",
+    LT_Pricing_Title                            : "pre&ccedil;os",
 
-    LT_Pricing_Column_Containers                : "Containers",
+    LT_Pricing_Column_cont&ecirc;ineres                : "cont&ecirc;ineres",
 
-//    LT_Pricing_Column_CldlPrice                 : "Preço por <b>1 cloudlet</b>",
+//    LT_Pricing_Column_CldlPrice                 : "pre&ccedil;o por <b>1 cloudlet</b>",
 
-//    LT_Pricing_Column_CapacityPrice             : "Preço por <b>1 armazenamento</b>",
+//    LT_Pricing_Column_CapacityPrice             : "pre&ccedil;o por <b>1 armazenamento</b>",
 
-    LT_Pricing_Column_Service                   : "Serviço",
+    LT_Pricing_Column_Service                   : "servi&ccedil;o",
 
-    LT_Pricing_Column_MonthPrice                : "Preço por <b>1 hora</b>",
-
-
-
-    LT_Menu_Billing_Quotas                      : "Quotas e preços",
+    LT_Pricing_Column_MonthPrice                : "pre&ccedil;o por <b>1 hora</b>",
 
 
 
-    LT_Notify_Title_Question                    : "Questão",
+    LT_Menu_Billing_Quotas                      : "Quotas e pre&ccedil;os",
 
-    LT_Notify_Label_UserGroupChanged            : "O tipo de conta foi alterado para'%(sGroup)'. Você precisa atualizar a página para que as alterações entrem em vigor. Você quer fazer isso agora?",
+
+
+    LT_Notify_Title_Question                    : "Quest&atilde;o",
+
+    LT_Notify_Label_UserGroupChanged            : "O tipo de conta foi alterado para'%(sGroup)'. voc&ecirc; precisa atualizar a página para que as altera&ccedil;&otilde;es entrem em vigor. voc&ecirc; quer fazer isso agora?",
 
 
 
@@ -1628,7 +1628,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_AboutCurrency                  : "Os preços estão em%(currency)",
+    LT_EnvWizard_AboutCurrency                  : "Os pre&ccedil;os est&atilde;o em%(currency)",
 
 
 
@@ -1640,7 +1640,7 @@ var GLocal = {
 
 
 
-    LT_Notify_Label_NoFreeHardware              : "Nós não temos nenhum hardware disponível no momento. O novo hardware será adicionado em breve. Por favor, tente novamente dentro de algumas horas.",
+    LT_Notify_Label_NoFreeHardware              : "N&oacute;s n&atilde;o temos nenhum hardware dispon&iacute;vel no momento. O novo hardware ser&aacute; adicionado em breve. Por favor, tente novamente dentro de algumas horas.",
 
 
 
@@ -1652,13 +1652,13 @@ var GLocal = {
 
 
 
-    LT_Common_Text_DoNotShowDialog              : "Não mostrar este diálogo novamente",
+    LT_Common_Text_DoNotShowDialog              : "n&atilde;o mostrar este diálogo novamente",
 
 
 
-    LT_RefillDlg_Text_HowToRefill               : "Clique <b>Recarregar conta</b> para abrir sua conta com o seu provedor de hospedagem web. Use as credenciais que você recebeu por e-mail ao converter, fazer o login e recarregar a conta. %(sMoreInfo)",
+    LT_RefillDlg_Text_HowToRefill               : "Clique <b>Recarregar conta</b> para abrir sua conta com o seu provedor de hospedagem web. Use as credenciais que voc&ecirc; recebeu por e-mail ao converter, fazer o login e recarregar a conta. %(sMoreInfo)",
 
-    LT_RefillDlg_Label_MoreInfo                 : "Instruções detalhadas sobre como a recarregar a conta pode ser encontrado em <a href='%(sUrl)' target='_blank'>nossa página de documentação</a>.",
+    LT_RefillDlg_Label_MoreInfo                 : "Instruções detalhadas sobre como a recarregar a conta pode ser encontrado em <a href='%(sUrl)' target='_blank'>nossa página de documenta&ccedil;&atilde;o</a>.",
 
 
 
@@ -1666,33 +1666,33 @@ var GLocal = {
 
 
 
-    LT_Quotas_Label_EnvSleep                    : "Modo automático de hibernação",
+    LT_Quotas_Label_EnvSleep                    : "Modo automático de hiberna&ccedil;&atilde;o",
 
-    LT_Quotas_Text_EnvSleep                     : "A quantidade de horas durante as quais o meio ambiente não foi acessado e foi colocado em modo de hibernação automaticamente.",
+    LT_Quotas_Text_EnvSleep                     : "A quantidade de horas durante as quais o meio ambiente n&atilde;o foi acessado e foi colocado em modo de hiberna&ccedil;&atilde;o automaticamente.",
 
 
 
-    LT_SolutionDlg_Title                        : "Confirmar a instalação of %(name)",
+    LT_SolutionDlg_Title                        : "Confirmar a instala&ccedil;&atilde;o of %(name)",
 
-    LT_SolutionDlg_WelcomeMsg                   : "Olá, %(email). É um prazer ver que você está interessado em nosso produto.",
+    LT_SolutionDlg_WelcomeMsg                   : "Olá, %(email). É um prazer ver que voc&ecirc; est&aacute; interessado em nosso produto.",
 
-    LT_SolutionDlg_MoreInfo                     : "Mais informações em",
+    LT_SolutionDlg_MoreInfo                     : "Mais informa&ccedil;&otilde;es em",
 
     LT_SolutionDlg_JustClickInstall             : "Para isso basta clicar \"Instalar\"",
 
-    LT_SolutionDlg_PleaseWait                   : "Pacote está sendo instalado, por favor aguarde ...",
+    LT_SolutionDlg_PleaseWait                   : "Pacote est&aacute; sendo instalado, por favor aguarde ...",
 
     LT_SolutionDlg_Deploy                       : "Implantando",
 
     LT_SolutionDlg_Config                       : "Configurando ambiente",
 
-    LT_SolutionDlg_ApplicationSettings          : "Aplicando configurações",
+    LT_SolutionDlg_ApplicationSettings          : "Aplicando configura&ccedil;&otilde;es",
 
     LT_SolutionDlg_ChooseEnvironment            : "Escolha ambiente",
 
 
 
-    LT_Error_Solution_LoadData                  : "Ocorreu um erro ao tentar obter dados de solução.",
+    LT_Error_Solution_LoadData                  : "Ocorreu um erro ao tentar obter dados de solu&ccedil;&atilde;o.",
 
 
 
@@ -1718,7 +1718,7 @@ var GLocal = {
 
     LT_EnvWizard_Label_Topology_Balancer        : "Saldar",
 
-    LT_EnvWizard_Label_Topology_Compute         : "Servidores de Aplicação",
+    LT_EnvWizard_Label_Topology_Compute         : "Servidores de Aplica&ccedil;&atilde;o",
 
     LT_EnvWizard_Label_Topology_Cache           : "Cache",
 
@@ -1746,7 +1746,7 @@ var GLocal = {
 
     LT_EnvWizard_SSL_Custom                     : "SSL Personalizados",
 
-    LT_EnvWizard_SSL_About_Custom               : "SSL SSL está atualmente disponível apenas para URLs Jelastic. SSL para domínios personalizados está atualmente em desenvolvimento e será adicionado em uma atualização futura.",
+    LT_EnvWizard_SSL_About_Custom               : "SSL SSL est&aacute; atualmente dispon&iacute;vel apenas para URLs Jelastic. SSL para Dom&iacute;nios personalizados est&aacute; atualmente em desenvolvimento e ser&aacute; adicionado em uma atualiza&ccedil;&atilde;o futura.",
 
 
 
@@ -1774,33 +1774,33 @@ var GLocal = {
 
     LT_EnvWizard_Ballons_PerHour                : "por hora",
 
-    LT_EnvWizard_Ballons_UpTo                   : "até",
+    LT_EnvWizard_Ballons_UpTo                   : "at&eacute;",
 
 
 
-    LT_EnvWizard_AppServers                     : "Servidores de aplicação",
-
-
-
-
-
-//    LT_EnvWizard_W_MaxvInstances_Trial          : "Ambientes de teste estão limitados a %(count) instância de servidores de aplicação. <a action='upgrade' target='_blank'>Atualize agora</a> para remover esta limitação.",
+    LT_EnvWizard_AppServers                     : "Servidores de Aplica&ccedil;&atilde;o",
 
 
 
 
 
-
-
-    LT_EnvWizard_Warning_DeleteStorage          : "Após o armazenamento ser excluído, todos os dados serão perdidos para sempre!",
-
+//    LT_EnvWizard_W_MaxvInstances_Trial          : "Ambientes de teste est&atilde;o limitados a %(count) inst&acirc;ncia de servidores de Aplica&ccedil;&atilde;o. <a action='upgrade' target='_blank'>Atualize agora</a> para remover esta limita&ccedil;&atilde;o.",
 
 
 
 
-    LT_EnvWizard_Text_TrialPrices               : "*Gratuitamente para o período de testes.",
 
-    LT_EnvWizard_Text_BetaPrices                : "*Gratuitamente para o período beta.",
+
+
+    LT_EnvWizard_Warning_DeleteStorage          : "Ap&oacute;s o armazenamento ser excluído, todos os dados ser&atilde;o perdidos para sempre!",
+
+
+
+
+
+    LT_EnvWizard_Text_TrialPrices               : "*Gratuitamente para o Per&iacute;odo de testes.",
+
+    LT_EnvWizard_Text_BetaPrices                : "*Gratuitamente para o Per&iacute;odo beta.",
 
     LT_EnvWizard_Label_WizardMode               : "Modo de assistente:",
 
@@ -1808,35 +1808,35 @@ var GLocal = {
 
     LT_EnvWizard_Hint_Balancer                  : "Distribui automaticamente o tráfego de entrada dos aplicativos em vários nodes.",
 
-    LT_EnvWizard_Hint_Compute                   : "As máquinas virtuais para o qual você implantar seu aplicativo. Depois que o ambiente é criado, você pode configurar os servidores para carregar as bibliotecas ou alterar arquivos de configuração.",
+    LT_EnvWizard_Hint_Compute                   : "As máquinas virtuais para o qual voc&ecirc; implantar seu aplicativo. Depois que o ambiente é criado, voc&ecirc; pode configurar os servidores para carregar as bibliotecas ou alterar arquivos de Configura&ccedil;&atilde;o.",
 
-    LT_EnvWizard_Hint_Cache                     : "Memcached - uma loja de key-value in-memory para pequenos pedaços de dados arbitrários (strings, objetos) de resultados de banco de dados, chamadas de API, ou renderização de páginas.",
+    LT_EnvWizard_Hint_Cache                     : "Memcached - uma loja de key-value in-memory para pequenos pedaços de dados arbitrários (strings, objetos) de resultados de banco de dados, chamadas de API, ou renderiza&ccedil;&atilde;o de páginas.",
 
-    LT_EnvWizard_Hint_Sql                       : "Máquina virtual com banco SQL do tipo que você selecionar.",
+    LT_EnvWizard_Hint_Sql                       : "Máquina virtual com banco SQL do tipo que voc&ecirc; selecionar.",
 
-    LT_EnvWizard_Hint_NoSql                     : "Máquina virtual com banco NoSQL do tipo que você selecionar.",
+    LT_EnvWizard_Hint_NoSql                     : "Máquina virtual com banco NoSQL do tipo que voc&ecirc; selecionar.",
 
-    LT_EnvWizard_Hint_Build                     : "Node Maven que pode construir seus projetos na nuvem. Depois de criar o ambiente, você pode configurar o node para adicionar seu GIT ou projeto SVN.",
+    LT_EnvWizard_Hint_Build                     : "Node Maven que pode construir seus projetos na nuvem. Depois de criar o ambiente, voc&ecirc; pode configurar o node para adicionar seu GIT ou projeto SVN.",
 
-    //LT_EnvWizard_Hint_SSL                       : "Certificado SSL para conexões HTTPS para o seu ambiente. Note-se que o acesso HTTPS para ambientes com domínios personalizados ainda não está disponível e está sendo adicionado em nosso próximo lançamento.",
+    //LT_EnvWizard_Hint_SSL                       : "Certificado SSL para conexões HTTPS para o seu ambiente. Note-se que o acesso HTTPS para ambientes com Dom&iacute;nios personalizados ainda n&atilde;o est&aacute; dispon&iacute;vel e est&aacute; sendo adicionado em nosso próximo lançamento.",
 
-    LT_EnvWizard_Hint_Pricing                   : "Clique para ver informação detalhada sobre quotas e preços.",
+    LT_EnvWizard_Hint_Pricing                   : "Clique para ver Informa&ccedil;&atilde;o detalhada sobre quotas e pre&ccedil;os.",
 
 
 
     LT_EnvironmentWizard_Hint_Cloudlets		    :
 
-//        "Definir <i>a máxima</i> quantidade de recursos que você deseja que o servidor nunca receba. O <span class=\"dfn\">Cloudlet</span> &mdash; é uma quantidade pré-definida de memória e capacidade de processamento fornecida a um servidor."+
+//        "Definir <i>a máxima</i> quantidade de recursos que voc&ecirc; deseja que o servidor nunca receba. O <span class=\"dfn\">Cloudlet</span> &mdash; é uma quantidade pré-definida de mem&oacute;ria e capacidade de processamento fornecida a um servidor."+
 
 //        "%(illustration_1)"+
 
-//        "<p>A Cloudlet é aproximadamente equivalente a 128 MB de RAM e 200 MHz núcleo da CPU. Cloudlet são atribuídos dinamicamente aos aplicativos, dependendo da carga a qualquer momento dentro dos limites especificados.</p>"+
+//        "<p>A Cloudlet é aproximadamente equivalente a 128 MB de RAM e 200 MHz n&uacute;cleo da CPU. Cloudlet s&atilde;o atribuídos dinamicamente aos aplicativos, dependendo da carga a qualquer momento dentro dos limites especificados.</p>"+
 
 //        "%(illustration_2)"+
 
-        "<div class='dfn'>Você só paga pelo que usa.</div>" +
+        "<div class='dfn'>voc&ecirc; s&oacute; paga pelo que usa.</div>" +
 
-        "<p> Jelastic aloca automaticamente a quantidade adequada de cloudlets para cada aplicação, dependendo dos recursos que cada aplicativo precisa, mas não mais do que o número máximo que você especificar.</p>"+
+        "<p> Jelastic aloca automaticamente a quantidade adequada de cloudlets para cada Aplica&ccedil;&atilde;o, dependendo dos recursos que cada aplicativo precisa, mas n&atilde;o mais do que o n&uacute;mero m&aacute;ximo que voc&ecirc; especificar.</p>"+
 
         "%(illustration_3)",
 
@@ -1852,17 +1852,17 @@ var GLocal = {
 
 
 
-    LT_Menu_Toolbar_AboutTrialLimitations       : "Aprender sobre as limitações dos testes",
+    LT_Menu_Toolbar_AboutTrialLimitations       : "Aprender sobre as limita&ccedil;&otilde;es dos testes",
 
-    LT_Menu_Toolbar_AboutPricing                : "Saiba mais sobre preços",
+    LT_Menu_Toolbar_AboutPricing                : "Saiba mais sobre pre&ccedil;os",
 
-    LT_Menu_Toolbar_ResourceUsage               : "Ver as estatísticas sobre o uso de recursos recente",
+    LT_Menu_Toolbar_ResourceUsage               : "Ver as Estat&iacute;sticas sobre o uso de recursos recente",
 
 
 
     LT_Quotas_Title                             : "Limites de conta",
 
-    LT_Quotas_Column_Limitation                 : "Limitação",
+    LT_Quotas_Column_Limitation                 : "Limita&ccedil;&atilde;o",
 
     LT_Quotas_Column_Billing                    : "Conta completa",
 
@@ -1872,39 +1872,39 @@ var GLocal = {
 
     LT_Quotas_Label_Activate                    : "Ativar",
 
-    LT_Quotas_Text_MaxEnvCount                  : "O número máximo de ambientes que você pode criar.",
+    LT_Quotas_Text_MaxEnvCount                  : "O n&uacute;mero m&aacute;ximo de ambientes que voc&ecirc; pode criar.",
 
-//    LT_Quotas_Text_MaxCPRecCount                : "O número máximo de servidores de aplicativos por ambiente.",
+//    LT_Quotas_Text_MaxCPRecCount                : "O n&uacute;mero m&aacute;ximo de servidores de aplicativos por ambiente.",
 
-    LT_Quotas_Text_MaxCloudlets                 : "Tamanho máximo de um servidor Cloudlet (um Cloudlet é %(CLOUDLET_RAM) MB RAM, %(CLOUDLET_CPU) MHz CPU core).",
+    LT_Quotas_Text_MaxCloudlets                 : "Tamanho m&aacute;ximo de um servidor Cloudlet (um Cloudlet é %(CLOUDLET_RAM) MB RAM, %(CLOUDLET_CPU) MHz CPU core).",
 
-    LT_Quotas_Text_HA                           : "Opção para instalação de cluster de alta disponibilidade.",
+    LT_Quotas_Text_HA                           : "Opção para instala&ccedil;&atilde;o de cluster de alta disponibilidade.",
 
-    LT_Quotas_Text_ExternalIP                   : "Endereços de IP públicos.",
-
-
-
-    LT_Pricing_Column_CldlPrice                 : "Preço para <b>1 cloudlet / hora</b>",
-
-    LT_Pricing_Column_CapacityPrice             : "Preço para <b>1 GB de armazenamento / hora</b>",
+    LT_Quotas_Text_ExternalIP                   : "endere&ccedil;os de IP p&uacute;blicos.",
 
 
 
-    LT_Task_Name_33	                            : "Alterar arquivo de configuração no %(env)",
+    LT_Pricing_Column_CldlPrice                 : "pre&ccedil;o para <b>1 cloudlet / hora</b>",
 
-    LT_Task_Name_37	                            : "Desativação da replicação em %(env)",
+    LT_Pricing_Column_CapacityPrice             : "pre&ccedil;o para <b>1 GB de armazenamento / hora</b>",
+
+
+
+    LT_Task_Name_33	                            : "Alterar arquivo de Configura&ccedil;&atilde;o no %(env)",
+
+    LT_Task_Name_37	                            : "Desativa&ccedil;&atilde;o da replica&ccedil;&atilde;o em %(env)",
 
 
 
     LT_Text_CacheInfo                           :
 
-        "<p>Para trabalhar com o node memcached, use as seguintes informações:<ol>"+
+        "<p>Para trabalhar com o node memcached, use as seguintes informa&ccedil;&otilde;es:<ol>"+
 
         "<li>Verifique o seu e-mail para obter o URL do node memcached ou obtê-lo na seqüência a seguir:<br/>" +
 
         "- <a target=_blank href='%(url)'>%(url)</a><br/><br/></li>"+
 
-        "<li>Você pode se conectar ao node memcached com a ajuda de um exemplo de código fornecido ou usando bibliotecas<br/>que pode encontrar nos locais listados abaixo:</li></ol></p>",
+        "<li>voc&ecirc; pode se conectar ao node memcached com a ajuda de um exemplo de C&oacute;digo fornecido ou usando bibliotecas<br/>que pode encontrar nos locais listados abaixo:</li></ol></p>",
 
 
 
@@ -1960,15 +1960,15 @@ var GLocal = {
 
 
 
-    LT_BuildNode_Warning_HasNotCompute          : "Não é possível implantar no ambiente sem computador de node.",
+    LT_BuildNode_Warning_HasNotCompute          : "n&atilde;o é poss&iacute;vel implantar no ambiente sem computador de node.",
 
 
 
-    LT_Notify_Label_NoFreeIps                   : "Não há IPs públicos gratuitos no momento. Os novos IPs públicos estarão disponíveis em breve. Por favor, tente novamente mais tarde.",
+    LT_Notify_Label_NoFreeIps                   : "n&atilde;o há IPs p&uacute;blicos gratuitos no momento. Os novos IPs p&uacute;blicos estarão dispon&iacute;veis em breve. Por favor, tente novamente mais tarde.",
 
 
 
-    LT_Process_Label_LoadingUserData            : "Carregando dados do usuário",
+    LT_Process_Label_LoadingUserData            : "Carregando dados do Usu&aacute;rio",
 
 
 
@@ -1980,17 +1980,17 @@ var GLocal = {
 
     LT_CustomSSL_Label_CACertificate            : "Certificado intermediário (CA)",
 
-    LT_CustomSSL_Label_DomainCertificate        : "Certificado de domínio",
+    LT_CustomSSL_Label_DomainCertificate        : "Certificado de Dom&iacute;nio",
 
     LT_CustomSSL_Label_Certificates             : "Certificados",
 
-    LT_CustomSSL_Label_Domains                  : "Domínios",
+    LT_CustomSSL_Label_Domains                  : "Dom&iacute;nios",
 
 
 
-    LT_CustomSSL_Text_WrongEnv                  : "Este recurso pode não funcionar corretamente com a configuração atual do seu ambiente. <a action='configure'>Clique aqui para configurar seu ambiente</a>.",
+    LT_CustomSSL_Text_WrongEnv                  : "Este recurso pode n&atilde;o funcionar corretamente com a Configura&ccedil;&atilde;o atual do seu ambiente. <a action='configure'>Clique aqui para configurar seu ambiente</a>.",
 
-    LT_CustomSSL_Text_EditMode                  : "Todos os servidores de aplicativos no ambiente atual serão reiniciados.",
+    LT_CustomSSL_Text_EditMode                  : "Todos os servidores de aplicativos no ambiente atual ser&atilde;o reiniciados.",
 
     LT_CustomSSL_Text_WrongCerts                : "Ocorreu um erro ao tentar ativar o SSL personalizado. Por favor verifique os certificados atuais e tente novamente.",
 
@@ -2014,21 +2014,21 @@ var GLocal = {
 
 
 
-    //LT_EnvWizard_Hint_SSL                       : "Certificado SSL para conexões HTTPS para o seu ambiente. Note-se que o acesso HTTPS para ambientes com domínios personalizados ainda não está disponível e estará disponível no nosso próximo lançamento.",
+    //LT_EnvWizard_Hint_SSL                       : "Certificado SSL para conexões HTTPS para o seu ambiente. Note-se que o acesso HTTPS para ambientes com Dom&iacute;nios personalizados ainda n&atilde;o est&aacute; dispon&iacute;vel e estará dispon&iacute;vel no nosso próximo lançamento.",
 
     LT_EnvWizard_Hint_SSL                       : "Certificado SSL para conexões HTTPS para o seu ambiente.",
 
 
 
-    //LT_EnvWizard_Label_EnvSettings              : "Configurações de ambiente",
+    //LT_EnvWizard_Label_EnvSettings              : "configura&ccedil;&otilde;es de ambiente",
 
-    LT_EnvWizard_Text_SLL_Reqs                  : "Permitem a conexão SSL com sua aplicação usando certificado curinga SSL Jelastic. [link]Saiba mais[/link]",
+    LT_EnvWizard_Text_SLL_Reqs                  : "Permitem a conexão SSL com sua Aplica&ccedil;&atilde;o usando certificado curinga SSL Jelastic. [link]Saiba mais[/link]",
 
     LT_EnvWizard_Text_CustomSLL_Reqs            : "Envie o certificado personalizado para o seu ambiente para permitir a conexão SSL. [link]Saiba mais[/link]",
 
     LT_EnvWizard_Label_Requirements             : "Requesitos:",
 
-    LT_EnvWizard_AppServer                      : "Servidor de aplicação",
+    LT_EnvWizard_AppServer                      : "Servidor de Aplica&ccedil;&atilde;o",
 
     LT_EnvWizard_Label_Adjust                   : "Ajustar",
 
@@ -2050,7 +2050,7 @@ var GLocal = {
 
 
 
-    LT_DeployArchive_Warning_VCSContext         : "Este contexto já está em uso por projeto SVN/GIT.",
+    LT_DeployArchive_Warning_VCSContext         : "Este contexto já est&aacute; em uso por projeto SVN/GIT.",
 
 
 
@@ -2062,7 +2062,7 @@ var GLocal = {
 
 
 
-    LT_Task_Name_39	                            : "Atualização de  contexto %(project) no %(env)",
+    LT_Task_Name_39	                            : "atualiza&ccedil;&atilde;o de  contexto %(project) no %(env)",
 
 
 
@@ -2070,7 +2070,7 @@ var GLocal = {
 
 
 
-    LT_Process_Label_Updating					: "Atualização...",
+    LT_Process_Label_Updating					: "atualiza&ccedil;&atilde;o...",
 
 
 
@@ -2082,11 +2082,11 @@ var GLocal = {
 
     LT_CustomSSL_Text_ServerKey                 : "Uma chave servidor é uma chave criptografada / descriptografia  privada usada pelo servidor.",
 
-    LT_CustomSSL_Text_CACertificate             : "Certificate Authority (CA) é uma entidade que emite certificados digitais, que irá verificar a propriedade de uma chave pública, chamado assunto do certificado.",
+    LT_CustomSSL_Text_CACertificate             : "Certificate Authority (CA) é uma entidade que emite certificados digitais, que ir&aacute; verificar a propriedade de uma chave pública, chamado assunto do certificado.",
 
-    LT_CustomSSL_Text_DomainCertificate         : "Um certificado de domínio é um documento eletrônico que é dada pela Autoridade de Certificação que verifica a permissão do candidato para usar um nome de domínio específico.",
+    LT_CustomSSL_Text_DomainCertificate         : "Um certificado de Dom&iacute;nio é um documento eletrônico que é dada pela Autoridade de Certifica&ccedil;&atilde;o que verifica a permiss&atilde;o do candidato para usar um nome de Dom&iacute;nio específico.",
 
-    LT_CustomSSL_Label_UpTo                     : "até",
+    LT_CustomSSL_Label_UpTo                     : "at&eacute;",
 
 
 
@@ -2096,25 +2096,25 @@ var GLocal = {
 
 
 
-    LT_Error_UpdateVCSProject_AuthFailed        : "A autenticação falhou ao tentar atualizar %(project) projeto no %(env). Por favor verifique as configurações do projeto.",
+    LT_Error_UpdateVCSProject_AuthFailed        : "A Autentica&ccedil;&atilde;o falhou ao tentar atualizar %(project) projeto no %(env). Por favor verifique as configura&ccedil;&otilde;es do projeto.",
 
-    LT_Error_UpdateVCSProject_WrongConfig       : "Ocorreu um erro ao tentar atualizar %(project) projeto no %(env). Por favor verifique as configurações do projeto.",
+    LT_Error_UpdateVCSProject_WrongConfig       : "Ocorreu um erro ao tentar atualizar %(project) projeto no %(env). Por favor verifique as configura&ccedil;&otilde;es do projeto.",
 
-    LT_Error_UpdateVCSProject_NotExist          : "Ocorreu um erro ao tentar atualizar %(project) projeto no %(env). O projeto não existe.",
+    LT_Error_UpdateVCSProject_NotExist          : "Ocorreu um erro ao tentar atualizar %(project) projeto no %(env). O projeto n&atilde;o existe.",
 
 
 
     LT_Error_EditProject_Exist                  : "Projeto com o nome %(project) já existe.",
 
-    LT_Error_EditProject_UnknownType            : "Projeto não processado, tipo não é suportado.",
+    LT_Error_EditProject_UnknownType            : "Projeto n&atilde;o processado, tipo n&atilde;o é suportado.",
 
 
 
-    LT_Environments_Validation_Domain_Length    : "O tamanho do domínio deve ser inferior a%(maxLength).",
+    LT_Environments_Validation_Domain_Length    : "O tamanho do Dom&iacute;nio deve ser inferior a%(maxLength).",
 
 
 
-    LT_DeployArchive_InvalidPath                : "Nome do caminho inválido",
+    LT_DeployArchive_InvalidPath                : "Nome do caminho inv&aacute;lido",
 
 
 
@@ -2140,13 +2140,13 @@ var GLocal = {
 
 
 
-    LT_Menu_CloneEnvironment_NoRights           : "Você não tem permissões suficientes para clonar este ambiente.",
+    LT_Menu_CloneEnvironment_NoRights           : "voc&ecirc; n&atilde;o tem permiss&otilde;es suficientes para clonar este ambiente.",
 
-    LT_Menu_DeleteEnvironment_NoRights          : "Você não tem permissões suficientes para excluir este ambiente.",
+    LT_Menu_DeleteEnvironment_NoRights          : "voc&ecirc; n&atilde;o tem permiss&otilde;es suficientes para excluir este ambiente.",
 
 
 
-    LT_Environments_Validation_ShortDomain      : "Tamanho do domínio deve ser mais do que 4 caracteres.",
+    LT_Environments_Validation_ShortDomain      : "Tamanho do Dom&iacute;nio deve ser mais do que 4 caracteres.",
 
 
 
@@ -2158,9 +2158,9 @@ var GLocal = {
 
     TrialToPaid_CompanyName                     : "Nome da empresa",
 
-    TrialToPaid_VatNumber                       : "VAT Número",
+    TrialToPaid_VatNumber                       : "VAT n&uacute;mero",
 
-    TrialToPaid_StreetAddress                   : "Endereço",
+    TrialToPaid_StreetAddress                   : "endere&ccedil;o",
 
     TrialToPaid_City                            : "Cidade",
 
@@ -2176,27 +2176,27 @@ var GLocal = {
 
     TrialToPaid_PhoneArea                       : "área",
 
-    TrialToPaid_PhoneNumber                     : "número",
+    TrialToPaid_PhoneNumber                     : "n&uacute;mero",
 
 
 
-    TrialToPaid_AgreeCheck                      : "Eu li e concordo com o [link]Termos de Serviços[/link]",
+    TrialToPaid_AgreeCheck                      : "Eu li e concordo com o [link]Termos de servi&ccedil;os[/link]",
 
     TrialToPaid_Next                            : "Próximo",
 
-    TrialToPaid_GettingUserInfo                 : "Obtendo informações do usuário...",
+    TrialToPaid_GettingUserInfo                 : "Obtendo informa&ccedil;&otilde;es do Usu&aacute;rio...",
 
 
 
-    LT_Action_GetUserInfo                       : "obter informações do usuário",
+    LT_Action_GetUserInfo                       : "obter informa&ccedil;&otilde;es do Usu&aacute;rio",
 
     LT_Action_ConvertAccount                    : "converter conta",
 
-    LT_Action_AddPaymentMethod                  : "adicionar novo método de pagamento",
+    LT_Action_AddPaymentMethod                  : "adicionar novo M&eacute;todo de pagamento",
 
-    LT_Action_DelPaymentMethod                  : "deletar o método de pagamento",
+    LT_Action_DelPaymentMethod                  : "deletar o M&eacute;todo de pagamento",
 
-    LT_Action_SetDefPayMethod                   : "selecionar método de pagamento padrão",
+    LT_Action_SetDefPayMethod                   : "selecionar M&eacute;todo de pagamento padrão",
 
     LT_Action_DisableAutoRefill                 : "desativar auto-recarga",
 
@@ -2204,11 +2204,11 @@ var GLocal = {
 
 
 
-    Refill_FraudCheck                           : "Você precisa passar por verificações de segurança adicionais para efetuar o pagamento.",
+    Refill_FraudCheck                           : "voc&ecirc; precisa passar por verifica&ccedil;&otilde;es de seguran&ccedil;a adicionais para efetuar o pagamento.",
 
-    Refill_UnknownServicePlan                   : "Plano de serviço desconhecido!",
+    Refill_UnknownServicePlan                   : "Plano de servi&ccedil;o desconhecido!",
 
-    Refill_SelectPaymentMethod                  : "Por favor, selecione o método de pagamento preferido",
+    Refill_SelectPaymentMethod                  : "Por favor, selecione o M&eacute;todo de pagamento preferido",
 
     Refill_Confirm                              : "Reabastecer a sua conta com %(withTaxes) (%(pureAmount) + %(taxesSum) VAT) usando %(payMethod)?",
 
@@ -2216,13 +2216,13 @@ var GLocal = {
 
     Refill_ApprovedReceived                     : "Recebemos seu pagamento, e%(amount) foi adicionado ao seu saldo.",
 
-    Refill_ApprovedEmailed                      : "A fatura correspondente será enviada para seus registros.",
+    Refill_ApprovedEmailed                      : "A fatura correspondente ser&aacute; enviada para seus registros.",
 
     Refill_CreditDebit                          : "Cartão de Crédito / Débito",
 
     Refill_PayPal                               : "Pagamento PayPal",
 
-    Refill_TransactionDeclined                  : "A transação foi recusada",
+    Refill_TransactionDeclined                  : "A transa&ccedil;&atilde;o foi recusada",
 
     Refill_ThankNotify                          : "Obrigado por seu pagamento! Vamos notificá-lo sobre o recebimento desse pagamento em breve.",
 
@@ -2238,29 +2238,29 @@ var GLocal = {
 
     Refill_TotalPayable                         : "Total a pagar:",
 
-    Refill_Existing                             : "Use um dos métodos de pagamento existentes",
+    Refill_Existing                             : "Use um dos M&eacute;todos de pagamento existentes",
 
 
 
-    PayManager_Title                            : "Métodos de Pagamento",
+    PayManager_Title                            : "M&eacute;todos de Pagamento",
 
-    PayManager_ChooseDefault                    : "Escolha o seu método de pagamento padrão",
+    PayManager_ChooseDefault                    : "Escolha o seu M&eacute;todo de pagamento padrão",
 
     PayManager_ConfirmDelete                    : "Deletar %(name)?",
 
-    PayManager_AddPayMethod                     : "Adicionar novo método de pagamento",
+    PayManager_AddPayMethod                     : "Adicionar novo M&eacute;todo de pagamento",
 
-    PayManager_SubmitNew                        : "Você deve [link]enviar um pagamento[/link] para salvar novos detalhes de pagamento",
+    PayManager_SubmitNew                        : "voc&ecirc; deve [link]enviar um pagamento[/link] para salvar novos detalhes de pagamento",
 
-    PayManager_SetDefault                       : "Definir %(name) como método de pagamento padrão?",
+    PayManager_SetDefault                       : "Definir %(name) como M&eacute;todo de pagamento padrão?",
 
 
 
-    AutoRefill_Title                            : "Recarga automática",
+    AutoRefill_Title                            : "Recarga Autom&aacute;tica",
 
-    AutoRefill_Active                           : "Auto-recarga está ativa atualmente. " +
+    AutoRefill_Active                           : "Auto-recarga est&aacute; ativa atualmente. " +
 
-        "[link]Clique aqui para desativar auto-recarga[/link], ou editar as configurações abaixo se você quiser fazer alterações",
+        "[link]Clique aqui para desativar auto-recarga[/link], ou editar as configura&ccedil;&otilde;es abaixo se voc&ecirc; quiser fazer altera&ccedil;&otilde;es",
 
 
 
@@ -2274,9 +2274,9 @@ var GLocal = {
 
     AutoRefill_Confirm                          : "Recarregar automaticamente %(withTaxes) (%(pureAmount) + %(taxesSum) VAT) usando %(payMethod)?",
 
-    AutoRefill_Disabled                         : "Recarga automática foi desativada com sucesso",
+    AutoRefill_Disabled                         : "Recarga Autom&aacute;tica foi desativada com sucesso",
 
-    AutoRefill_ConfirmDisable                   : "Desabilitar recarga automática?",
+    AutoRefill_ConfirmDisable                   : "Desabilitar recarga Autom&aacute;tica?",
 
 
 
@@ -2294,41 +2294,41 @@ var GLocal = {
 
 
 
-    LT_Error_UrlNotValid                        : "URL não é válida!",
+    LT_Error_UrlNotValid                        : "URL n&atilde;o é v&aacute;lida!",
 
-    LT_Environments_Tooltip_Text_Deployed       : "Implantar seus pacotes WAR do painel gerenciador de implementação.",
+    LT_Environments_Tooltip_Text_Deployed       : "Implantar seus pacotes WAR do painel gerenciador de implementa&ccedil;&atilde;o.",
 
 
 
-    LT_SolutionDlg_Success                      : "Sua aplicação %(name) foi implantado com sucesso para Jelastic.",
+    LT_SolutionDlg_Success                      : "Sua Aplica&ccedil;&atilde;o %(name) foi implantado com sucesso para Jelastic.",
 
 
 
     TrialToPaid_CreateAccount                  : "Atualizar",
 
-    TrialToPaid_CreateAccountHint              : "Clique no botão Criar Conta para atualizar sua conta de teste Jelastic",
+    TrialToPaid_CreateAccountHint              : "Clique no bot&atilde;o Criar Conta para atualizar sua conta de teste Jelastic",
 
     TrialToPaid_Submit                         : "Enviar",
 
 
 
-    //LT_Quotas_Label_MinBalance                  : "Saldo mínimo",
+    //LT_Quotas_Label_MinBalance                  : "Saldo m&iacute;nimo",
 
-    LT_Quotas_Text_MinBalance                   : "A quantidade mínima de dinheiro na conta, o que permite que você crie ambiente.",
+    LT_Quotas_Text_MinBalance                   : "A quantidade mínima de dinheiro na conta, o que permite que voc&ecirc; crie ambiente.",
 
-    LT_Quotas_Text_TrialPeriod                  : "O período durante o qual você pode usar sua conta de teste.",
+    LT_Quotas_Text_TrialPeriod                  : "O Per&iacute;odo durante o qual voc&ecirc; pode usar sua conta de teste.",
 
-    LT_Quotas_Text_TrialBonus                   : "Os bônus grátis que você recebe para o uso da conta de teste.",
+    LT_Quotas_Text_TrialBonus                   : "Os bônus grátis que voc&ecirc; recebe para o uso da conta de teste.",
 
 
 
-    LT_Error_RecoverPass                        : "Endereço de e-mail incorreto",
+    LT_Error_RecoverPass                        : "endere&ccedil;o de e-mail incorreto",
 
-    LT_Error_AuthFailed                         : "A autenticação falhou",
+    LT_Error_AuthFailed                         : "A Autentica&ccedil;&atilde;o falhou",
 
-    LT_BuildNode_Warning_InvalidLogin           : "Login inválido",
+    LT_BuildNode_Warning_InvalidLogin           : "Login inv&aacute;lido",
 
-    LT_BuildNode_Warning_InvalidPath            : "Caminho inválido",
+    LT_BuildNode_Warning_InvalidPath            : "Caminho inv&aacute;lido",
 
 
 
@@ -2362,7 +2362,7 @@ var GLocal = {
 
     LT_EnvWizard_Pricing_To                     : "para",
 
-    LT_EnvWizard_Pricing_Price                  : "preço",
+    LT_EnvWizard_Pricing_Price                  : "pre&ccedil;o",
 
 
 
@@ -2380,9 +2380,9 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Pricing_SavingReserved         : "Você está economizando %(value) usando Cloudlets reservados",
+    LT_EnvWizard_Pricing_SavingReserved         : "voc&ecirc; est&aacute; economizando %(value) usando Cloudlets reservados",
 
-    LT_EnvWizard_Pricing_SavingDynamic          : "Você está economizando %(value) usando Cloudlets dinâmicos",
+    LT_EnvWizard_Pricing_SavingDynamic          : "voc&ecirc; est&aacute; economizando %(value) usando Cloudlets dinâmicos",
 
     LT_EnvWizard_Pricing_SaveRsvdByMonth        : "/mês",
 
@@ -2390,7 +2390,7 @@ var GLocal = {
 
     LT_EnvWizard_Pricing_ShowDetails            : "Detalhes de custo",
 
-    //LT_EnvWizard_Pricing_DetailedInfo           : "Informações detalhadas sobre preços",
+    //LT_EnvWizard_Pricing_DetailedInfo           : "Informa&ccedil;&otilde;es detalhadas sobre pre&ccedil;os",
 
 
 
@@ -2406,7 +2406,7 @@ var GLocal = {
 
 
 
-    LT_Error_Rename_Context                     : "Contexto não existe",
+    LT_Error_Rename_Context                     : "Contexto n&atilde;o existe",
 
     LT_Incorrect_ItemName                       : "Nome do item incorreto",
 
@@ -2430,9 +2430,9 @@ var GLocal = {
 
 //    LT_PackageDescription_ftp                   : "Suporte ao protocolo FTP/FTPS para implantar seus aplicativos para Jelastic.",
 
-    LT_Pricing_Text_ReservedRes                 : "Estas cloudlets são reservados com antecedência (usando o assistente de topologia).<br />Você sempre pagar pelos cloudlets reservados configurados, mesmo se você usar menos recursos.<br />O nível de desconto é a soma total de todos cloudlets reservados por ambiente.",
+    LT_Pricing_Text_ReservedRes                 : "Estas cloudlets s&atilde;o reservados com antecedência (usando o assistente de topologia).<br />voc&ecirc; sempre pagar pelos cloudlets reservados configurados, mesmo se voc&ecirc; usar menos recursos.<br />O nível de desconto é a soma total de todos cloudlets reservados por ambiente.",
 
-    LT_Pricing_Tetx_DynamicRes                  : "Instantâneas recursos de dimensionamento dinâmico para sua aplicação. Você só paga por cloudlets dinâmicos em uso. Use o limite escalonado no assistente de topologia para definir o máximo permitido por servidor.<br />O nível de desconto é a soma total de todos cloudlets dinâmicos em uso por ambiente.",
+    LT_Pricing_Tetx_DynamicRes                  : "Instantâneas recursos de dimensionamento dinâmico para sua Aplica&ccedil;&atilde;o. voc&ecirc; s&oacute; paga por cloudlets dinâmicos em uso. Use o limite escalonado no assistente de topologia para definir o m&aacute;ximo permitido por servidor.<br />O nível de desconto é a soma total de todos cloudlets dinâmicos em uso por ambiente.",
 
 
 
@@ -2440,7 +2440,7 @@ var GLocal = {
 
     LT_SoftCost_Title                           : "Software",
 
-    //LT_SoftCost_Text_Description                : "<p>O uso de pilhas de software é gratuito em Jelastic!</p><p>Você paga somente pelos recursos consumidos, mas não para a adição de software disponível para o seu ambiente.</p>",
+    //LT_SoftCost_Text_Description                : "<p>O uso de pilhas de software é gratuito em Jelastic!</p><p>voc&ecirc; paga somente pelos recursos consumidos, mas n&atilde;o para a adi&ccedil;&atilde;o de software dispon&iacute;vel para o seu ambiente.</p>",
 
 
 
@@ -2468,15 +2468,15 @@ var GLocal = {
 
     LT_AddonShortDescription_ftp                : "Suporte ao protocolo FTP/FTPS para implantar seus aplicativos para Jelastic.",
 
-    LT_AddonDescription_ftp                     : "<p>File Transfer Protocol (FTP) é um protocolo de rede padrão usado para transferir arquivos de um host para outro através de uma rede baseada em TCP.</p><p>FTP protegidos com SSL (FTPS), é utilizado para a transmissão segura que esconde o nome de usuário e senha e criptografar o conteúdo.</p>",
+    LT_AddonDescription_ftp                     : "<p>File Transfer Protocol (FTP) é um protocolo de rede padrão usado para transferir arquivos de um host para outro através de uma rede baseada em TCP.</p><p>FTP protegidos com SSL (FTPS), é utilizado para a transmiss&atilde;o segura que esconde o nome de Usu&aacute;rio e senha e criptografar o conte&uacute;do.</p>",
 
-    LT_AddonWarning_externalip                  : "IPv4 público será adicionado ao seu ambiente automaticamente",
+    LT_AddonWarning_externalip                  : "IPv4 p&uacute;blico ser&aacute; adicionado ao seu ambiente automaticamente",
 
 
 
-    LT_E_Platform_4071                          : "\"%(archive)\" arquivo não pode ser implantado para \"%(context)\" contexto, porque este arquivo está danificado. Por favor verifique o arquivo e tente novamente.",
+    LT_E_Platform_4071                          : "\"%(archive)\" arquivo n&atilde;o pode ser implantado para \"%(context)\" contexto, porque este arquivo est&aacute; danificado. Por favor verifique o arquivo e tente novamente.",
 
-    LT_E_Platform_4072                          : "\"%(archive)\" arquivo não pode ser implantado para \"%(context)\" contexto, porque este arquivo está vazio. Por favor verifique o arquivo e tente novamente.",
+    LT_E_Platform_4072                          : "\"%(archive)\" arquivo n&atilde;o pode ser implantado para \"%(context)\" contexto, porque este arquivo est&aacute; vazio. Por favor verifique o arquivo e tente novamente.",
 
 
 
@@ -2486,7 +2486,7 @@ var GLocal = {
 
 
 
-    LT_SolutionDlg_AdditionalInfo               : "Confirme a instalação de %(name)<br />para começar a usá-lo.",
+    LT_SolutionDlg_AdditionalInfo               : "Confirme a instala&ccedil;&atilde;o de %(name)<br />para come&ccedil;ar a usá-lo.",
 
 
 
@@ -2494,9 +2494,9 @@ var GLocal = {
 
     LT_AddonFtp_ResetPassword                   : "Senha de FTP foi alterada com sucesso e enviado para o seu e-mail.",
 
-    LT_AddonWarning_ConvertAcc                  : "Endereços IPv4 públicos estão disponíveis apenas para contas pagas. Por favor, atualize para remover este limite.",
+    LT_AddonWarning_ConvertAcc                  : "endere&ccedil;os IPv4 p&uacute;blicos est&atilde;o dispon&iacute;veis apenas para contas pagas. Por favor, atualize para remover este limite.",
 
-    LT_AddonWarning_ContactSupport              : "Se os limites para a sua conta não permitem que você adicione IPv4 Público. Por favor contate o suporte para remover este limite.",
+    LT_AddonWarning_ContactSupport              : "Se os limites para a sua conta n&atilde;o permitem que voc&ecirc; adicione IPv4 p&uacute;blico. Por favor contate o suporte para remover este limite.",
 
 
 
@@ -2512,7 +2512,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Pricing_UseReserved            : "Você pode<span class='orange-text'>poupar seu dinheiro</span> usando Cloudlets reservados",
+    LT_EnvWizard_Pricing_UseReserved            : "voc&ecirc; pode<span class='orange-text'>poupar seu dinheiro</span> usando Cloudlets reservados",
 
 
 
@@ -2532,13 +2532,13 @@ var GLocal = {
 
 
 
-    LT_DiscCost_Title                           : "Espaço em disco",
+    LT_DiscCost_Title                           : "Espa&ccedil;o em disco",
 
     LT_DiscCost_Column_Storage                  : "Disco usado",
 
 
 
-    LT_DiscCost_Text_Description                : "<dfn>Espaço em disco</dfn> é cobrado por hora por GB de espaço em disco utilizado em seu ambiente.",
+    LT_DiscCost_Text_Description                : "<dfn>Espa&ccedil;o em disco</dfn> é cobrado por hora por GB de Espa&ccedil;o em disco utilizado em seu ambiente.",
 
 
 
@@ -2556,9 +2556,9 @@ var GLocal = {
 
     LT_OptionsCost_Column_Count                 : "Contagem",
 
-    LT_OptionsCost_Label_IP                     : "IP Público",
+    LT_OptionsCost_Label_IP                     : "IP p&uacute;blico",
 
-    LT_OptionsCost_Text_IP_Desc                 : "Este é um endereço IP externo que é acessível diretamente a partir do lado de fora do cluster. A carga horária é tomada.",
+    LT_OptionsCost_Text_IP_Desc                 : "Este é um endere&ccedil;o IP externo que é acessível diretamente a partir do lado de fora do cluster. A carga horária é tomada.",
 
     LT_OptionsCost_Label_JelasticSSL            : "Jelastic SSL",
 
@@ -2570,25 +2570,25 @@ var GLocal = {
 
     LT_Pricing_Label_Free                       : "GRÁTIS",
 
-    LT_Pricing_Column_UnitHourPrice             : "Preço por %(sUnit) / hora",
+    LT_Pricing_Column_UnitHourPrice             : "pre&ccedil;o por %(sUnit) / hora",
 
-    LT_Pricing_Column_UnitMonthPrice            : "Preço por %(sUnit) / mês*",
+    LT_Pricing_Column_UnitMonthPrice            : "pre&ccedil;o por %(sUnit) / mês*",
 
     LT_Pricing_Column_UnitMonthFree             : "Grátis / mês*",
 
     LT_Pricing_Column_UnitHourFree              : "Grátis / hora",
 
-    LT_Pricing_Column_PricePerHour              : "Preço / hora",
+    LT_Pricing_Column_PricePerHour              : "pre&ccedil;o / hora",
 
-    LT_Pricing_Column_PricePerMonth             : "Preço / mês*",
+    LT_Pricing_Column_PricePerMonth             : "pre&ccedil;o / mês*",
 
-    LT_Pricing_Column_PricePer                  : "Preço por %(sUnit)",
+    LT_Pricing_Column_PricePer                  : "pre&ccedil;o por %(sUnit)",
 
 
 
-    LT_DiscCost_Column_FreeTpl                  : "até %(value)",
+    LT_DiscCost_Column_FreeTpl                  : "at&eacute; %(value)",
 
-    LT_NetworkCost_Column_FreeTpl               : "até %(value)",
+    LT_NetworkCost_Column_FreeTpl               : "at&eacute; %(value)",
 
 
 
@@ -2600,7 +2600,7 @@ var GLocal = {
 
 
 
-    LT_NotConnected                             : "<b>Não conectado.</b> Conectado em %(time)âŠ [link]Tente agora[/link]",
+    LT_NotConnected                             : "<b>n&atilde;o conectado.</b> Conectado em %(time)âŠ [link]Tente agora[/link]",
 
 
 
@@ -2620,25 +2620,25 @@ var GLocal = {
 
     TrialToPaid_Title                           : "Upgrade para conta paga",
 
-    TrialToPaid_SelectPayType                   : "Selecione o método de pagamento:",
+    TrialToPaid_SelectPayType                   : "Selecione o M&eacute;todo de pagamento:",
 
 
 
     TrialToPaid_SliderDescription               : "<p>O uso de recursos por hora é debitado de um saldo de conta pré-paga.</p><p>Use o controle deslizante para selecionar a quantidade de depósito:</p>",
 
-    Refill_ContactUs                            : "[link]Entre em contato[/link] para discutir um método de pagamento alternativo",
+    Refill_ContactUs                            : "[link]Entre em contato[/link] para discutir um M&eacute;todo de pagamento alternativo",
 
 
 
-    LT_ConfigManager_SaveOnInstance             : "Salvar apenas para a instância atual",
+    LT_ConfigManager_SaveOnInstance             : "Salvar apenas para a inst&acirc;ncia atual",
 
     LT_ConfigManager_Confirm_SaveOnInstance     : "Salvar %(name) apenas para %(instance)?",
 
-    LT_ConfigManager_Confirm_SaveAll            : "Salvar %(name) para todas as instâncias?",
+    LT_ConfigManager_Confirm_SaveAll            : "Salvar %(name) para todas as inst&acirc;ncias?",
 
 
 
-    LT_BuildNode_AutoUpdate                     : "Verifique e auto-implantar atualizações",
+    LT_BuildNode_AutoUpdate                     : "Verifique e auto-implantar atualiza&ccedil;&otilde;es",
 
     LT_BuildNode_Interval                       : "Verifique todos os (min)",
 
@@ -2656,9 +2656,9 @@ var GLocal = {
 
 
 
-    LT_DeleteEnvironment_Error_Template         : "Ambiente %(envname) falha na exclusão: %(error).",
+    LT_DeleteEnvironment_Error_Template         : "Ambiente %(envname) falha na exclus&atilde;o: %(error).",
 
-    LT_DeleteEnvironment_Error_WrongPswd        : "senha inválida",
+    LT_DeleteEnvironment_Error_WrongPswd        : "senha inv&aacute;lida",
 
 
 
@@ -2688,7 +2688,7 @@ var GLocal = {
 
     LT_Config_Text_LoadingError_401             : "O arquivo é muito grande para ser lido.",
 
-    LT_Config_Text_LoadingError_402             : "O arquivo binário não pode ser lido.",
+    LT_Config_Text_LoadingError_402             : "O arquivo binário n&atilde;o pode ser lido.",
 
 
 
@@ -2696,29 +2696,29 @@ var GLocal = {
 
     TrialToPaid_ProceedAccount                  : "Continuar",
 
-    AutoRefill_NoPaymentMethods                 : "Não existem métodos de pagamento configurados. Por favor, configure um antes da criação de recarga automática.",
+    AutoRefill_NoPaymentMethods                 : "n&atilde;o existem M&eacute;todos de pagamento configurados. Por favor, configure um antes da cria&ccedil;&atilde;o de recarga Autom&aacute;tica.",
 
 
 
-    LT_Deployment_AppDeploymentType             : "Tipo de implantação de aplicativos",
+    LT_Deployment_AppDeploymentType             : "Tipo de implanta&ccedil;&atilde;o de aplicativos",
 
 
 
     LT_Process_Label_ChangingDT					: "Alterando tipo...",
 
-    LT_DeployArchive_Label_DeployConfirm        : "Seu aplicativo estará disponível em %(environment), continuar?",
+    LT_DeployArchive_Label_DeployConfirm        : "Seu aplicativo estará dispon&iacute;vel em %(environment), continuar?",
 
-    LT_DeployArchive_Label_SelectDeployment     : "Selecione o tipo de implantação de Ruby para a sua aplicação",
+    LT_DeployArchive_Label_SelectDeployment     : "Selecione o tipo de implanta&ccedil;&atilde;o de Ruby para a sua Aplica&ccedil;&atilde;o",
 
 
 
-    LT_ConfigManager_SaveForAllInstances        : "Salvar todas as instâncias",
+    LT_ConfigManager_SaveForAllInstances        : "Salvar todas as inst&acirc;ncias",
 
 
 
     LT_Process_Label_Installing                 : "Instalando %(name)...",
 
-    LT_Notify_Label_ApplicationInstalled    	: "Aplicativo foi instalado com sucesso. informações detalhadas foi enviado para o seu e-mail.",
+    LT_Notify_Label_ApplicationInstalled    	: "Aplicativo foi instalado com sucesso. informa&ccedil;&otilde;es detalhadas foi enviado para o seu e-mail.",
 
     LT_Action_InstallApp                        : "instalar o aplicativo",
 
@@ -2732,11 +2732,11 @@ var GLocal = {
 
 
 
-    LT_Error_StartBlockedEnv                    : "Você não pode iniciar este ambiente como o proprietário, este ambiente é bloqueado.",
+    LT_Error_StartBlockedEnv                    : "voc&ecirc; n&atilde;o pode iniciar este ambiente como o proprietário, este ambiente é bloqueado.",
 
-    LT_Error_NotEnoughDiskSpace                 : "Seu ambiente \"%(env)\" ficou sem espaço em disco.\n Por favor, [link]entre em contato com o suporte[/link] para que seja aumentado.",
+    LT_Error_NotEnoughDiskSpace                 : "Seu ambiente \"%(env)\" ficou sem Espa&ccedil;o em disco.\n Por favor, [link]entre em contato com o suporte[/link] para que seja aumentado.",
 
-    LT_Error_Platform_4078                      : "Não é possível baixar o arquivo \"%(archive)\" pela URL informada. Por favor verifique a URL e tente novamente.",
+    LT_Error_Platform_4078                      : "n&atilde;o é poss&iacute;vel baixar o arquivo \"%(archive)\" pela URL informada. Por favor verifique a URL e tente novamente.",
 
 
 
@@ -2748,9 +2748,9 @@ var GLocal = {
 
     LT_Action_DeleteArchive                     : "deletar arquivo",
 
-    PayManager_NoPaymentMethods                 : "Não há métodos de pagamento disponíveis",
+    PayManager_NoPaymentMethods                 : "n&atilde;o há M&eacute;todos de pagamento dispon&iacute;veis",
 
-    LT_Common_Text_DontAskNextTime              : "Não perguntar novamente",
+    LT_Common_Text_DontAskNextTime              : "n&atilde;o perguntar novamente",
 
 
 
@@ -2758,7 +2758,7 @@ var GLocal = {
 
 
 
-    LT_Settings_Text_WrongEnv                   : "Para que esse recurso funcione corretamente, você precisa ter um nodo de computação ou balanceador de carga adicionado ao seu ambiente. <a action='configure'>Clique aqui para configurar seu ambiente</a>.",
+    LT_Settings_Text_WrongEnv                   : "Para que esse recurso funcione corretamente, voc&ecirc; precisa ter um nodo de computa&ccedil;&atilde;o ou balanceador de carga adicionado ao seu ambiente. <a action='configure'>Clique aqui para configurar seu ambiente</a>.",
 
 
 
@@ -2800,7 +2800,7 @@ var GLocal = {
 
 
 
-    LT_Task_Name_61                             : "Obrigatório %(extdomain) domínio de %(env)",
+    LT_Task_Name_61                             : "obrigat&oacute;rio %(extdomain) Dom&iacute;nio de %(env)",
 
 
 
@@ -2810,25 +2810,25 @@ var GLocal = {
 
 
 
-    LT_Task_Name_64                             : "Removendo %(extdomain) domínio de %(env)",
+    LT_Task_Name_64                             : "Removendo %(extdomain) Dom&iacute;nio de %(env)",
 
-    LT_Task_Name_65                             : "Trocando domínio(s) entre %(env) e %(targetenv)",
-
-
-
-    LT_Environments_Error_StatusIsSet           : "O status do <b>%(env)</b> meio ambiente não tem permissão para executar esta ação.",
+    LT_Task_Name_65                             : "Trocando Dom&iacute;nio(s) entre %(env) e %(targetenv)",
 
 
 
-    LT_Error_SuspendedAccount                   : "Sua conta foi desativada. Entre em contato com o suporte com perguntas relacionadas a esta desativação.",
+    LT_Environments_Error_StatusIsSet           : "O status do <b>%(env)</b> meio ambiente n&atilde;o tem permiss&atilde;o para executar esta a&ccedil;&atilde;o.",
 
 
 
-    LT_ConfigManager_FileNotExists              : "O caminho para <b>%(path)</b> em %(env) ambiente não existe. A estrutura de diretório será atualizado.",
+    LT_Error_SuspendedAccount                   : "Sua conta foi desativada. Entre em contato com o suporte com perguntas relacionadas a esta desativa&ccedil;&atilde;o.",
 
-    LT_ConfigManager_UpdateDirectory            : "O caminho para <b>%(path)</b> em %(env) ambiente não existe. Por favor, atualize a estrutura de diretórios.",
 
-    LT_Notify_ConnectionProblems                : "O servidor não pôde ser contatado. Este pode ser um erro temporário ou o servidor pode estar desligado. \n Fechar esta janela pop-up e atualize seu navegador",
+
+    LT_ConfigManager_FileNotExists              : "O caminho para <b>%(path)</b> em %(env) ambiente n&atilde;o existe. A estrutura de diret&oacute;rio ser&aacute; atualizado.",
+
+    LT_ConfigManager_UpdateDirectory            : "O caminho para <b>%(path)</b> em %(env) ambiente n&atilde;o existe. Por favor, atualize a estrutura de diret&oacute;rios.",
+
+    LT_Notify_ConnectionProblems                : "O servidor n&atilde;o pôde ser contatado. Este pode ser um erro temporário ou o servidor pode estar desligado. \n Fechar esta janela pop-up e atualize seu navegador",
 
 
 
@@ -2840,21 +2840,21 @@ var GLocal = {
 
 
 
-    LT_Menu_Toolbar_AccountSettings             : "Configurações",
+    LT_Menu_Toolbar_AccountSettings             : "configura&ccedil;&otilde;es",
 
 
 
-    LT_AccountSettings_Title                    : "Configurações da conta",
+    LT_AccountSettings_Title                    : "configura&ccedil;&otilde;es da conta",
 
 
 
-    LT_SSH_Keys_List_Empty_Text                 : "Você não adicionou nenhum chaves públicas ainda.",
+    LT_SSH_Keys_List_Empty_Text                 : "voc&ecirc; n&atilde;o adicionou nenhum chaves públicas ainda.",
 
 
 
     LT_SSH_Keys_Editor_Field_Title              : "Título",
 
-    LT_SSH_Keys_Editor_Field_Fingerprint        : "Impressão digital",
+    LT_SSH_Keys_Editor_Field_Fingerprint        : "Impress&atilde;o digital",
 
     LT_SSH_Keys_Editor_Field_PublicKey          : "Chave",
 
@@ -2888,7 +2888,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Info_FutureEngine              : "Em breve! Apoio a esta linguagem de programação serão adicionados em futuras atualizações.",
+    LT_EnvWizard_Info_FutureEngine              : "Em breve! Apoio a esta linguagem de programa&ccedil;&atilde;o ser&atilde;o adicionados em futuras atualiza&ccedil;&otilde;es.",
 
 
 
@@ -2900,11 +2900,11 @@ var GLocal = {
 
 
 
-    LT_Process_Label_ConfirmRelation            : "Confirmação de convite...",
+    LT_Process_Label_ConfirmRelation            : "Confirma&ccedil;&atilde;o de convite...",
 
 
 
-    LT_UserSettings_Item_Collaboration          : "Colaboração",
+    LT_UserSettings_Item_Collaboration          : "colabora&ccedil;&atilde;o",
 
     LT_UserSettings_Item_UserManagement         : "Gerenciamento de Contas",
 
@@ -2932,45 +2932,45 @@ var GLocal = {
 
 
 
-    LT_UserMng_Editor_Title                     : "Convidar Usuário",
+    LT_UserMng_Editor_Title                     : "Convidar Usu&aacute;rio",
 
-    LT_UserMng_Editor_Title_Edit                : "Usuário conectado",
+    LT_UserMng_Editor_Title_Edit                : "Usu&aacute;rio conectado",
 
     LT_UserMng_Editor_Field_DisplayName         : "Mostrar nome",
 
-    LT_UserMng_Editor_Field_Role                : "Permitir que o usuário possa criar novos ambientes",
+    LT_UserMng_Editor_Field_Role                : "Permitir que o Usu&aacute;rio possa criar novos ambientes",
 
 
 
-    LT_UserMng_Info_SendInvite                  : "Convite para %(email) usuário foi enviado com sucesso.",
+    LT_UserMng_Info_SendInvite                  : "Convite para %(email) Usu&aacute;rio foi enviado com sucesso.",
 
-    LT_UserMng_Confirm_UnlinkUser               : "Todos os ambientes compartilhados náo seráo mais compartilhados de <b>%(name)</b> usuário. Desvincular usuário?",
+    LT_UserMng_Confirm_UnlinkUser               : "Todos os ambientes compartilhados náo ser&aacute;o mais compartilhados de <b>%(name)</b> Usu&aacute;rio. Desvincular Usu&aacute;rio?",
 
     LT_UserMng_Confirm_UnshareEnv               : "Descompartilhar ambientes selecionados?",
 
-    LT_UserMng_Warning_UserLinked               : "%(email) usuário já está ligada à sua conta.",
+    LT_UserMng_Warning_UserLinked               : "%(email) Usu&aacute;rio já est&aacute; ligada à sua conta.",
 
-    LT_UserMng_Warning_InviteYourSelf           : "Você não pode convidar a si mesmo.",
+    LT_UserMng_Warning_InviteYourSelf           : "voc&ecirc; n&atilde;o pode convidar a si mesmo.",
 
-    LT_UserMng_Error_GetUsers                   : "Ocorreu um erro ao tentar carregar a lista de usuários ligados.",
+    LT_UserMng_Error_GetUsers                   : "Ocorreu um erro ao tentar carregar a lista de Usu&aacute;rios ligados.",
 
-    LT_UserMng_Error_GetUserEnvs                : "Ocorreu um erro ao tentar carregar a lista de ambientes ligados de usuários.",
+    LT_UserMng_Error_GetUserEnvs                : "Ocorreu um erro ao tentar carregar a lista de ambientes ligados de Usu&aacute;rios.",
 
-    LT_UserMng_Error_UnlinkUser                 : "Ocorreu um erro ao tentar desligar um usuário.",
+    LT_UserMng_Error_UnlinkUser                 : "Ocorreu um erro ao tentar desligar um Usu&aacute;rio.",
 
-    LT_UserMng_Error_SendInvite                 : "Ocorreu um erro ao tentar enviar um convite para usuário %(email).",
+    LT_UserMng_Error_SendInvite                 : "Ocorreu um erro ao tentar enviar um convite para Usu&aacute;rio %(email).",
 
-    LT_UserMng_Error_ChangeRole                 : "Ocorreu um erro ao tentar alterar os direitos para usuário %(email).",
+    LT_UserMng_Error_ChangeRole                 : "Ocorreu um erro ao tentar alterar os direitos para Usu&aacute;rio %(email).",
 
-    LT_UserMng_Error_ChangeDisplayName          : "Ocorreu um erro ao tentar mudar o nome para usuário %(email)",
+    LT_UserMng_Error_ChangeDisplayName          : "Ocorreu um erro ao tentar mudar o nome para Usu&aacute;rio %(email)",
 
-    LT_UserMng_Error_SetPermission              : "Ocorreu um erro ao tentar atualizar a lista de ambientes compartilhados com usuário %(email).",
+    LT_UserMng_Error_SetPermission              : "Ocorreu um erro ao tentar atualizar a lista de ambientes compartilhados com Usu&aacute;rio %(email).",
 
-    LT_UserMng_Error_RemovePermission           : "Ocorreu um erro ao tentar remover o ambiente compartilhado(s) para usuário %(email) .",
+    LT_UserMng_Error_RemovePermission           : "Ocorreu um erro ao tentar remover o ambiente compartilhado(s) para Usu&aacute;rio %(email) .",
 
 
 
-    LT_UserMng_HelpTip                          : "Leia a [link]documentação[/link] para saber mais detalhes sobre a colaboração com outras contas.",
+    LT_UserMng_HelpTip                          : "Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre a colabora&ccedil;&atilde;o com outras contas.",
 
 
 
@@ -2978,7 +2978,7 @@ var GLocal = {
 
     LT_UserRelations_Column_DisplayName         : "Mostrar nome",
 
-    LT_UserRelations_Column_Role                : "Permissão para criar ambientes",
+    LT_UserRelations_Column_Role                : "Permiss&atilde;o para criar ambientes",
 
 
 
@@ -2988,9 +2988,9 @@ var GLocal = {
 
 
 
-    LT_UserRelations_Confirm_UnlinkUser         : "Você quer parar de colaborar com usuário <b>%(name)</b>?",
+    LT_UserRelations_Confirm_UnlinkUser         : "voc&ecirc; quer parar de colaborar com Usu&aacute;rio <b>%(name)</b>?",
 
-    LT_UserRelations_Error_UnlinkUser           : "Ocorreu um erro ao tentar parar de colaborar com usuário <b>%(name)</b>.",
+    LT_UserRelations_Error_UnlinkUser           : "Ocorreu um erro ao tentar parar de colaborar com Usu&aacute;rio <b>%(name)</b>.",
 
     LT_UserRelations_Error_ConfirmInvite        : "Ocorreu um erro ao tentar confirmar convite.",
 
@@ -3010,15 +3010,15 @@ var GLocal = {
 
     LT_EnvOwnerSelector_Error_GetOwnerData      : "Ocorreu um erro ao tentar carregar dados do proprietário.",
 
-    LT_EnvOwnerSelector_Error_OwnerMaxEnvsCount : "Usuário atingiu o número máximo de ambientes criados por padrão no Jelastic.",
+    LT_EnvOwnerSelector_Error_OwnerMaxEnvsCount : "Usu&aacute;rio atingiu o n&uacute;mero m&aacute;ximo de ambientes criados por padrão no Jelastic.",
 
-    LT_EnvOwnerSelector_Error_InactiveOwner     : "Status atual do usuário não permite a criação de ambientes.",
+    LT_EnvOwnerSelector_Error_InactiveOwner     : "Status atual do Usu&aacute;rio n&atilde;o permite a cria&ccedil;&atilde;o de ambientes.",
 
-    LT_EnvOwnerSelector_Error_NotAdmin          : "Restrições à sua conta não permitir que este usuário crie um ambiente.",
+    LT_EnvOwnerSelector_Error_NotAdmin          : "Restri&ccedil;&otilde;es à sua conta n&atilde;o permitir que este Usu&aacute;rio crie um ambiente.",
 
-    LT_EnvOwnerSelector_Error_CreateOff         : "Você não tem permissão para criar ambiente devido às suas restrições de conta.",
+    LT_EnvOwnerSelector_Error_CreateOff         : "voc&ecirc; n&atilde;o tem permiss&atilde;o para criar ambiente devido às suas Restri&ccedil;&otilde;es de conta.",
 
-    LT_EnvOwnerSelector_Error_MaxEnvsCount      : "Você alcançou o número máximo de ambientes criados por padrão no Jelastic.",
+    LT_EnvOwnerSelector_Error_MaxEnvsCount      : "voc&ecirc; alcançou o n&uacute;mero m&aacute;ximo de ambientes criados por padrão no Jelastic.",
 
 
 
@@ -3032,11 +3032,11 @@ var GLocal = {
 
 
 
-    LT_E_Platform_901                           : "O ambiente<b>%(envname)</b> não existe.",
+    LT_E_Platform_901                           : "O ambiente<b>%(envname)</b> n&atilde;o existe.",
 
 
 
-    LT_Menu_NoRights                            : "Você não tem permissão para executar esta ação.",
+    LT_Menu_NoRights                            : "voc&ecirc; n&atilde;o tem permiss&atilde;o para executar esta a&ccedil;&atilde;o.",
 
 
 
@@ -3046,21 +3046,21 @@ var GLocal = {
 
 
 
-    LT_EnvSharing_HelpTip                       : "Use [settings]painel de configurações[/settings] para gerir colaboradores. Leia esta [link-docs]documentação[/link-docs] para saber mais detalhes sobre a colaboração com outras contas.",
+    LT_EnvSharing_HelpTip                       : "Use [settings]painel de configura&ccedil;&otilde;es[/settings] para gerir colaboradores. Leia esta [link-docs]documenta&ccedil;&atilde;o[/link-docs] para saber mais detalhes sobre a colabora&ccedil;&atilde;o com outras contas.",
 
 
 
-    LT_EnvSharing_Warning_AlreadyShared         : "Este ambiente já está compartilhado para esta conta.",
+    LT_EnvSharing_Warning_AlreadyShared         : "Este ambiente já est&aacute; compartilhado para esta conta.",
 
-    LT_EnvSharing_Error_GetUsers                : "Ocorreu um erro ao tentar carregar os usuários de ambiente %(envName).",
+    LT_EnvSharing_Error_GetUsers                : "Ocorreu um erro ao tentar carregar os Usu&aacute;rios de ambiente %(envName).",
 
-    LT_EnvSharing_Info_InvitationSend           : "Convite foi enviado com sucesso para usuário %(email).",
+    LT_EnvSharing_Info_InvitationSend           : "Convite foi enviado com sucesso para Usu&aacute;rio %(email).",
 
-    LT_EnvSharing_Confirm_UnshareEnv            : "Descompartilhar ambiente atual de usuário(s) selecionado(s)?",
+    LT_EnvSharing_Confirm_UnshareEnv            : "Descompartilhar ambiente atual de Usu&aacute;rio(s) selecionado(s)?",
 
-    LT_EnvSharing_Error_ChangeOwner             : "Você não pode definir permissões para o proprietário deste ambiente.",
+    LT_EnvSharing_Error_ChangeOwner             : "voc&ecirc; n&atilde;o pode definir permiss&otilde;es para o proprietário deste ambiente.",
 
-    LT_EnvSharing_Error_SetPermission           : "Ocorreu um erro ao tentar atualizar as ações para ambiente %(envName)." ,
+    LT_EnvSharing_Error_SetPermission           : "Ocorreu um erro ao tentar atualizar as a&ccedil;&otilde;es para ambiente %(envName)." ,
 
 
 
@@ -3068,15 +3068,15 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Warning_NoRights               : "Você não tem permissão para editar a topologia desse ambiente.",
+    LT_EnvWizard_Warning_NoRights               : "voc&ecirc; n&atilde;o tem permiss&atilde;o para editar a topologia desse ambiente.",
 
 
 
-    LT_DeployArchive_Label_DeployInfo           : "Depois de implantar o aplicativo estará disponível em",
+    LT_DeployArchive_Label_DeployInfo           : "Depois de implantar o aplicativo estará dispon&iacute;vel em",
 
 
 
-    LT_EnvSettings_Item_Info                    : "Informações",
+    LT_EnvSettings_Item_Info                    : "Informa&ccedil;&otilde;es",
 
 
 
@@ -3086,31 +3086,31 @@ var GLocal = {
 
     LT_EnvInfo_Field_Creator                    : "Criador",
 
-    LT_EnvInfo_Field_CreateDate                 : "Data de criação",
+    LT_EnvInfo_Field_CreateDate                 : "Data de cria&ccedil;&atilde;o",
 
 
 
-    LT_Error_LoadEnvInfo                        : "Ocorreu um erro ao tentar carregar informações sobre o ambiente.",
+    LT_Error_LoadEnvInfo                        : "Ocorreu um erro ao tentar carregar informa&ccedil;&otilde;es sobre o ambiente.",
 
-    LT_Error_UserNoRights                       : "Você não tem permissões suficientes sobre o ambiente %(envName) para realizar esta ação.",
+    LT_Error_UserNoRights                       : "voc&ecirc; n&atilde;o tem permiss&otilde;es suficientes sobre o ambiente %(envName) para realizar esta a&ccedil;&atilde;o.",
 
-    LT_Error_OwnerCreateOff                     : "Você não tem permissão para criar ambiente para a conta %(userName) devido a suas restrições de conta.",
+    LT_Error_OwnerCreateOff                     : "voc&ecirc; n&atilde;o tem permiss&atilde;o para criar ambiente para a conta %(userName) devido a suas Restri&ccedil;&otilde;es de conta.",
 
-    LT_Error_EnvNotShared                       : "O ambiente <b>%(envName)</b> não é compartilhado com você.",
+    LT_Error_EnvNotShared                       : "O ambiente <b>%(envName)</b> n&atilde;o é compartilhado com voc&ecirc;.",
 
 
 
     LT_EnvWizard_BalancerRequired               : "Saldo",
 
-    LT_DeployArchive_Warning_VCSSingleContext   : "Contexto Root já está em uso por projeto SVN/GIT.",
+    LT_DeployArchive_Warning_VCSSingleContext   : "Contexto Root já est&aacute; em uso por projeto SVN/GIT.",
 
-    LT_DeployArchive_Warning_EnvNotRunning      : "Ambiente não está em execução.",
+    LT_DeployArchive_Warning_EnvNotRunning      : "Ambiente n&atilde;o est&aacute; em execução.",
 
     LT_DeployArchive_Warning_EnvIsBusy          : "Ambiente é ocupado por outro processo.",
 
 
 
-//    LT_EnvWizard_W_MaxvInstances_TrialRegistered: "Ambientes são limitados a %(count) instância de servidores de aplicativos para a sua conta. Por favor <a action='refill' target='_blank'> recarregue seu saldo </a> para remover esta limitação.",
+//    LT_EnvWizard_W_MaxvInstances_TrialRegistered: "Ambientes s&atilde;o limitados a %(count) inst&acirc;ncia de servidores de aplicativos para a sua conta. Por favor <a action='refill' target='_blank'> recarregue seu saldo </a> para remover esta limita&ccedil;&atilde;o.",
 
 
 
@@ -3144,61 +3144,61 @@ var GLocal = {
 
 
 
-    LT_EnvTransfer_HelpTip                      : "Leia esta [link]documentação[/link] para saber mais detalhes sobre a transferência de meio ambiente.",
+    LT_EnvTransfer_HelpTip                      : "Leia esta [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre a transfer&ecirc;ncia de meio ambiente.",
 
-    LT_EnvTransfer_HelpTip_NotOwner             : "Apenas o proprietário do ambiente pode executar uma ação de transferência. Leia esta [link] documentação [/link] para saber mais detalhes.",
+    LT_EnvTransfer_HelpTip_NotOwner             : "Apenas o proprietário do ambiente pode executar uma a&ccedil;&atilde;o de transfer&ecirc;ncia. Leia esta [link] documenta&ccedil;&atilde;o [/link] para saber mais detalhes.",
 
 
 
-    LT_EnvTransfer_Text_RequestSent             : "Um pedido de transferência foi enviado para usuário <b>%(email)</b> em %(date) solicitando a aprovação para tomar posse sobre este ambiente.",
+    LT_EnvTransfer_Text_RequestSent             : "Um pedido de transfer&ecirc;ncia foi enviado para Usu&aacute;rio <b>%(email)</b> em %(date) solicitando a aprova&ccedil;&atilde;o para tomar posse sobre este ambiente.",
 
-    LT_EnvTransfer_Info_SendRequest             : "Pedido de transferência para o usuário <b>%(email)</b> foi enviada com sucesso.",
+    LT_EnvTransfer_Info_SendRequest             : "Pedido de transfer&ecirc;ncia para o Usu&aacute;rio <b>%(email)</b> foi enviada com sucesso.",
 
-    LT_EnvTransfer_Error_SendRequest            : "Ocorreu um erro ao tentar enviar um pedido de transferência para usuário <b>%(email)</b>.",
+    LT_EnvTransfer_Error_SendRequest            : "Ocorreu um erro ao tentar enviar um pedido de transfer&ecirc;ncia para Usu&aacute;rio <b>%(email)</b>.",
 
-    LT_EnvTransfer_Error_UserNotActive          : "A transferência de ambiente <b>%(envName)</b> não é permitida devido ao status da conta <b>%(email)</b>.",
+    LT_EnvTransfer_Error_UserNotActive          : "A transfer&ecirc;ncia de ambiente <b>%(envName)</b> n&atilde;o é permitida devido ao status da conta <b>%(email)</b>.",
 
-    LT_EnvTransfer_Error_QuotaLimitReached      : "A transferência do ambiente <b>%(envName)</b> não é permitido devido a restrições da conta <b>%(email)</b>.",
+    LT_EnvTransfer_Error_QuotaLimitReached      : "A transfer&ecirc;ncia do ambiente <b>%(envName)</b> n&atilde;o é permitido devido a Restri&ccedil;&otilde;es da conta <b>%(email)</b>.",
 
-    LT_EnvTransfer_Error_OnlyBilling            : "Ambiente só pode ser transferida para a conta de faturação.",
+    LT_EnvTransfer_Error_OnlyBilling            : "Ambiente s&oacute; pode ser transferida para a conta de fatura&ccedil;&atilde;o.",
 
-    LT_EnvTransfer_Error_AlreadyTransferring    : "O ambiente <b>%(envName)</b> está sendo transferido.",
+    LT_EnvTransfer_Error_AlreadyTransferring    : "O ambiente <b>%(envName)</b> est&aacute; sendo transferido.",
 
-    LT_EnvTransfer_Error_UserLimitReached       : "Transferência do ambiente não é permitida devido às suas restrições de conta.",
+    LT_EnvTransfer_Error_UserLimitReached       : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta.",
 
-    LT_EnvTransfer_Error_UserQuotaEnvsCount     : "Transferência do ambiente não é permitida devido às suas restrições de conta: o número de ambientes excedeu o máximo.",
+    LT_EnvTransfer_Error_UserQuotaEnvsCount     : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o n&uacute;mero de ambientes excedeu o m&aacute;ximo.",
 
-    LT_EnvTransfer_Error_UserQuotaNodeCount     : "Transferência do ambiente não é permitida devido às suas restrições de conta: o número de contentores por ambiente excedeu o máximo.",
+    LT_EnvTransfer_Error_UserQuotaNodeCount     : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o n&uacute;mero de contentores por ambiente excedeu o m&aacute;ximo.",
 
-    LT_EnvTransfer_Error_UserQuotaCloudlet      : "Transferência do ambiente não é permitida devido às suas restrições de conta: o número de cloudlets por contêiner excedeu o máximo.",
+    LT_EnvTransfer_Error_UserQuotaCloudlet      : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o n&uacute;mero de cloudlets por cont&ecirc;iner excedeu o m&aacute;ximo.",
 
-    LT_EnvTransfer_Error_UserQuotaHA            : "Transferência do ambiente não é permitida devido às suas restrições de conta: o uso de alta disponibilidade é restrita.",
+    LT_EnvTransfer_Error_UserQuotaHA            : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o uso de alta disponibilidade é restrita.",
 
-    LT_EnvTransfer_Error_UserQuotaExtIp         : "Transferência do ambiente não é permitida devido às suas restrições de conta: o uso de IP externo é restrito.",
+    LT_EnvTransfer_Error_UserQuotaExtIp         : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o uso de IP externo é restrito.",
 
-    LT_EnvTransfer_Error_UserQuotaVds           : "Transferência do ambiente não é permitida devido às suas restrições de conta: o uso de VPS é restrito.",
+    LT_EnvTransfer_Error_UserQuotaVds           : "transfer&ecirc;ncia do ambiente n&atilde;o é permitida devido às suas Restri&ccedil;&otilde;es de conta: o uso de VPS é restrito.",
 
 
 
     LT_EnvTransfer_Info_SuccessTransfer         : "O <b>%(envName)</b> ambiente foi transferido com sucesso para sua conta.",
 
-    LT_EnvTransfer_Error_ConfirmRequest         : "Ocorreu um erro ao tentar confirmar a solicitação de transferência do ambiente.",
+    LT_EnvTransfer_Error_ConfirmRequest         : "Ocorreu um erro ao tentar confirmar a Solicita&ccedil;&atilde;o de transfer&ecirc;ncia do ambiente.",
 
-    LT_EnvTransfer_Confirm_CancelRequest        : "Você deseja cancelar o pedido de transferência do ambiente <b>%(envName)</b> para usuário %(email)?",
+    LT_EnvTransfer_Confirm_CancelRequest        : "voc&ecirc; deseja cancelar o pedido de transfer&ecirc;ncia do ambiente <b>%(envName)</b> para Usu&aacute;rio %(email)?",
 
-    LT_EnvTransfer_Info_CancelRequest           : "Pedido de transferência para o ambiente <b>%(envName)</b> foi cancelada com sucesso.",
+    LT_EnvTransfer_Info_CancelRequest           : "Pedido de transfer&ecirc;ncia para o ambiente <b>%(envName)</b> foi cancelada com sucesso.",
 
-    LT_EnvTransfer_Error_CancelRequest          : "Ocorreu um erro ao tentar cancelar o pedido de transferência para o ambiente <b>%(envName)</b>.",
+    LT_EnvTransfer_Error_CancelRequest          : "Ocorreu um erro ao tentar cancelar o pedido de transfer&ecirc;ncia para o ambiente <b>%(envName)</b>.",
 
 
 
-    LT_Warning_UseUserEmail                     : "Você não pode indicar o seu e-mail neste campo.",
+    LT_Warning_UseUserEmail                     : "voc&ecirc; n&atilde;o pode indicar o seu e-mail neste campo.",
 
     LT_Error_LoadData                           : "Ocorreu um erro ao tentar carregar os dados.",
 
 
 
-    LT_Task_Name_69                             : "Pedido de transferência do ambiente <b>%(env)</b> para %(email)",
+    LT_Task_Name_69                             : "Pedido de transfer&ecirc;ncia do ambiente <b>%(env)</b> para %(email)",
 
     LT_Task_Name_70                             : "O ambiente <b>%(env)</b> foi transferido com sucesso para a sua conta",
 
@@ -3208,7 +3208,7 @@ var GLocal = {
 
 
 
-    LT_E_Platform_703                           : "Usuário <b>%(email)</b> não existe.",
+    LT_E_Platform_703                           : "Usu&aacute;rio <b>%(email)</b> n&atilde;o existe.",
 
 
 
@@ -3228,19 +3228,19 @@ var GLocal = {
 
     LT_Error_SaveItem                           : "Ocorreu um erro ao tentar salvar o item %(name).",
 
-    LT_Error_ItemNotExist                       : "O item <b>%(name)</b> não existe.",
+    LT_Error_ItemNotExist                       : "O item <b>%(name)</b> n&atilde;o existe.",
 
-    LT_Error_NodeNotExist                       : "O nodo <b>%(node)</b> não existe no ambiente.",
+    LT_Error_NodeNotExist                       : "O nodo <b>%(node)</b> n&atilde;o existe no ambiente.",
 
 
 
-    LT_Warning_RecheckData                      : "Alguns dados não são válidos, por favor, verifique suas entradas.",
+    LT_Warning_RecheckData                      : "Alguns dados n&atilde;o s&atilde;o v&aacute;lidos, por favor, verifique suas entradas.",
 
 
 
     LT_Common_Confirm_DeleteItems               : "Remover os itens selecionados?",
 
-    LT_Common_Confirm_SaveChanges               : "Salvar alterações?",
+    LT_Common_Confirm_SaveChanges               : "Salvar altera&ccedil;&otilde;es?",
 
 
 
@@ -3262,9 +3262,9 @@ var GLocal = {
 
 
 
-    LT_HelpTip_Common                           : "Leia esta [link]documentação[/link] para saber mais detalhes.",
+    LT_HelpTip_Common                           : "Leia esta [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
 
-    LT_HelpTip_Access_AdminOwner                : "Apenas o administrador ou proprietário de um ambiente pode realizar esta ação. Leia [link]documentação[/link] para saber mais detalhes.",
+    LT_HelpTip_Access_AdminOwner                : "Apenas o administrador ou proprietário de um ambiente pode realizar esta a&ccedil;&atilde;o. Leia [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
 
 
 
@@ -3276,7 +3276,7 @@ var GLocal = {
 
 
 
-    LT_EnvAlerts_HelpTip                        : "Os alertas são enviados para o proprietário do ambiente e para os usuários deste ambiente. Leia [link]documentação[/link] para saber mais detalhes.",
+    LT_EnvAlerts_HelpTip                        : "Os alertas s&atilde;o enviados para o proprietário do ambiente e para os Usu&aacute;rios deste ambiente. Leia [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
 
 
 
@@ -3302,9 +3302,9 @@ var GLocal = {
 
 
 
-    LT_EnvAlerts_Text_Type_Cloudlets            : "Cloudlets (Memória, CPU)",
+    LT_EnvAlerts_Text_Type_Cloudlets            : "Cloudlets (mem&oacute;ria, CPU)",
 
-    LT_EnvAlerts_Text_Type_Memory               : "Memória",
+    LT_EnvAlerts_Text_Type_Memory               : "mem&oacute;ria",
 
     LT_EnvAlerts_Text_Type_CPU                  : "CPU",
 
@@ -3322,7 +3322,7 @@ var GLocal = {
 
     LT_EnvScaling_Label_CPU                     : "CPU",
 
-    LT_EnvScaling_Label_Memory                  : "Memória",
+    LT_EnvScaling_Label_Memory                  : "mem&oacute;ria",
 
     LT_EnvScaling_Label_RemoveNodes             : "Remover Nodos",
 
@@ -3330,9 +3330,9 @@ var GLocal = {
 
     LT_EnvScaling_Label_UsageCPU                : "Uso do CPU",
 
-    LT_EnvScaling_Label_UsageMemory             : "Uso de Memória",
+    LT_EnvScaling_Label_UsageMemory             : "Uso de mem&oacute;ria",
 
-    LT_EnvScaling_Label_Duration                : "Duração",
+    LT_EnvScaling_Label_Duration                : "Dura&ccedil;&atilde;o",
 
 
 
@@ -3348,17 +3348,17 @@ var GLocal = {
 
     LT_EnvScaling_Field_Count                   : "contagem",
 
-    LT_EnvScaling_Field_EmailNotification       : "Enviar notificação por email",
+    LT_EnvScaling_Field_EmailNotification       : "Enviar notifica&ccedil;&atilde;o por email",
 
 
 
-    LT_EnvScaling_Error_AlreadyExist            : "Escala Horizontal Automático já está configurado para o ambiente <b>%(envName)</b>. Por favor, atualizar os dados para ver as configurações atuais.",
+    LT_EnvScaling_Error_AlreadyExist            : "Escala Horizontal Automático já est&aacute; configurado para o ambiente <b>%(envName)</b>. Por favor, atualizar os dados para ver as configura&ccedil;&otilde;es atuais.",
 
 
 
     LT_EnvTrHistory_Field_Type                  : "Tipo",
 
-    LT_EnvTrHistory_Field_Period                : "Período",
+    LT_EnvTrHistory_Field_Period                : "Per&iacute;odo",
 
 
 
@@ -3370,7 +3370,7 @@ var GLocal = {
 
     LT_EnvTrHistory_Column_Date                 : "Data",
 
-    LT_EnvTrHistory_Column_Action               : "Ação",
+    LT_EnvTrHistory_Column_Action               : "a&ccedil;&atilde;o",
 
     LT_EnvTrHistory_Column_Name                 : "Nome",
 
@@ -3394,7 +3394,7 @@ var GLocal = {
 
     LT_EnvTrHistory_Label_RemoveNodes           : "Remover Nodos",
 
-    LT_EnvTrHistory_Label_Notification          : "Enviar Notificação",
+    LT_EnvTrHistory_Label_Notification          : "Enviar Notifica&ccedil;&atilde;o",
 
 
 
@@ -3408,11 +3408,11 @@ var GLocal = {
 
 
 
-    LT_Statistics_Button_AutoScaling            : "Escala horizontal automática",
+    LT_Statistics_Button_AutoScaling            : "Escala horizontal Autom&aacute;tica",
 
 
 
-    LT_SolutionDlg_ConfirmTitle               : "Confirmar instalação de %(name)",
+    LT_SolutionDlg_ConfirmTitle               : "Confirmar instala&ccedil;&atilde;o de %(name)",
 
 
 
@@ -3424,9 +3424,9 @@ var GLocal = {
 
 
 
-    LT_Quotas_Text_MaxEnvNodesCount             : "Número máximo de nodos por ambiente.",
+    LT_Quotas_Text_MaxEnvNodesCount             : "n&uacute;mero m&aacute;ximo de nodos por ambiente.",
 
-    LT_Quotas_Text_MaxSameNodesCount            : "Número máximo de nodos para o mesmo ambiente.",
+    LT_Quotas_Text_MaxSameNodesCount            : "n&uacute;mero m&aacute;ximo de nodos para o mesmo ambiente.",
 
 
 
@@ -3478,21 +3478,21 @@ var GLocal = {
 
 
 
-    LT_Common_Text_Domain                       : "Domínio",
+    LT_Common_Text_Domain                       : "Dom&iacute;nio",
 
 
 
-    LT_Signin_Label_SignupRestrictedEmail	    : "<b>Registo falhou </ b>. Endereço %(restrictedEmail) e-mail não é permitido para registro. Por favor, use outro e-mail ou contacte-nos <a action='contact' href=\"%(HOSTER_TRIAL_SUPPORT)\" target='_blank'>%(text)</a> para a assistência.",
+    LT_Signin_Label_SignupRestrictedEmail	    : "<b>Registo falhou </ b>. endere&ccedil;o %(restrictedEmail) e-mail n&atilde;o é permitido para registro. Por favor, use outro e-mail ou contacte-nos <a action='contact' href=\"%(HOSTER_TRIAL_SUPPORT)\" target='_blank'>%(text)</a> para a assistência.",
 
-    LT_Error_RestrictedEmail                    : "E-mail <b>%(restrictedEmail)</b> não é permitido",
-
-
-
-    LT_UserRelations_Error_NoRelation           : "Usuário %(email) foi desvinculada da sua conta.",
+    LT_Error_RestrictedEmail                    : "E-mail <b>%(restrictedEmail)</b> n&atilde;o é permitido",
 
 
 
-    LT_UserMng_Info_InviteConfirmed             : "Parabéns! Você se juntou com sucesso a colaboração.",
+    LT_UserRelations_Error_NoRelation           : "Usu&aacute;rio %(email) foi desvinculada da sua conta.",
+
+
+
+    LT_UserMng_Info_InviteConfirmed             : "Parabéns! voc&ecirc; se juntou com sucesso a colabora&ccedil;&atilde;o.",
 
 
 
@@ -3504,23 +3504,23 @@ var GLocal = {
 
 
 
-    LT_Signin_Label_Activation_Title        	: "<div class='title'>Foi enviado para o e-mail %(email) o link de activação</div>" + "<div class='note'>Vá para a sua caixa de correio e clique no link, a fim de concluir o registro.</div>",
+    LT_Signin_Label_Activation_Title        	: "<div class='title'>Foi enviado para o e-mail %(email) o link de activa&ccedil;&atilde;o</div>" + "<div class='note'>Vá para a sua caixa de correio e clique no link, a fim de concluir o registro.</div>",
 
 
 
     LT_Signin_Label_Registration				: "<div class='separator'></div><div class='steps-ct'>" +
 
-        "Se você <b>não receber o e-mail de boas-vindas</b> dentro de alguns minutos, por favor:" +
+        "Se voc&ecirc; <b>n&atilde;o receber o e-mail de boas-vindas</b> dentro de alguns minutos, por favor:" +
 
         "<ol class='steps'>" +
 
         "<li>Verifique sua pasta E-mail Spam / Lixo Eletrônico,</li>" +
 
-        "<li>Certifique-se de que o e-mail <b>%(email)</b> é válido. Se você cometeu um erro de digitação, <a action=\"sign up\">clique aqui</a> para se inscrever novamente,</li>" +
+        "<li>Certifique-se de que o e-mail <b>%(email)</b> é v&aacute;lido. Se voc&ecirc; cometeu um erro de digita&ccedil;&atilde;o, <a action=\"sign up\">clique aqui</a> para se inscrever novamente,</li>" +
 
         "<li>Use o recurso de <a action=\"reset-password\">redefinir senha</a>,</li>" +
 
-        "<li>Se você ainda não consegue acessar sua conta, entre em contato conosco <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a></li>" +
+        "<li>Se voc&ecirc; ainda n&atilde;o consegue acessar sua conta, entre em contato conosco <a class=\"email\" href=\"%(HOSTER_TRIAL_SUPPORT)\">%(text)</a></li>" +
 
         "</ol></div>",
 
@@ -3558,7 +3558,7 @@ var GLocal = {
 
     LT_AppStoreCat_CustomerSupport               : "Suporte ao cliente",
 
-    LT_AppStoreCat_Educational                   : "Educação",
+    LT_AppStoreCat_Educational                   : "Educa&ccedil;&atilde;o",
 
     LT_AppStoreCat_Music                         : "Música",
 
@@ -3586,7 +3586,7 @@ var GLocal = {
 
     LT_AppStoreCat_Analytics                     : "Analítica",
 
-    LT_AppStoreCat_AppServer                     : "Servidor de aplicação",
+    LT_AppStoreCat_AppServer                     : "Servidor de Aplica&ccedil;&atilde;o",
 
     LT_AppStoreCat_BinRepository                 : "Repositório Binário",
 
@@ -3596,11 +3596,11 @@ var GLocal = {
 
     LT_AppStoreCat_BusinessIntelligence          : "Negócios de inteligência",
 
-    LT_AppStoreCat_CodeReview                    : "Revisão de código",
+    LT_AppStoreCat_CodeReview                    : "Revis&atilde;o de C&oacute;digo",
 
-    LT_AppStoreCat_Collaboration                 : "Colaboração",
+    LT_AppStoreCat_Collaboration                 : "colabora&ccedil;&atilde;o",
 
-    LT_AppStoreCat_ContinuousIntegration         : "Integração contínua",
+    LT_AppStoreCat_ContinuousIntegration         : "Integra&ccedil;&atilde;o contínua",
 
     LT_AppStoreCat_Crm                           : "CRM",
 
@@ -3618,7 +3618,7 @@ var GLocal = {
 
     LT_AppStoreCat_TranslationTools              : "Ferramentas de tradução",
 
-    LT_AppStoreCat_Vcs                           : "Controle de versão",
+    LT_AppStoreCat_Vcs                           : "Controle de vers&atilde;o",
 
     LT_AppStoreCat_Games                         : "Jogos",
 
@@ -3632,17 +3632,17 @@ var GLocal = {
 
 
 
-    LT_Error_Label_UserNotActivated              : "O endereço de e-mail que você digitou não está ativado no sistema. Você pode <a action=\"resend-activation\">reenviar o e-mail de ativação</a>.",
+    LT_Error_Label_UserNotActivated              : "O endere&ccedil;o de e-mail que voc&ecirc; digitou n&atilde;o est&aacute; ativado no sistema. voc&ecirc; pode <a action=\"resend-activation\">reenviar o e-mail de ativa&ccedil;&atilde;o</a>.",
 
 
 
-    LT_SignupDlg_Label_ResendInfo                : "Se você não recebeu o e-mail de ativação, podemos enviar novamente para o endereço de e-mail da sua conta.",
+    LT_SignupDlg_Label_ResendInfo                : "Se voc&ecirc; n&atilde;o recebeu o e-mail de ativa&ccedil;&atilde;o, podemos enviar novamente para o endere&ccedil;o de e-mail da sua conta.",
 
     LT_SignupDlg_Label_Resend                    : "Reenviar",
 
-    LT_Process_Label_ResendingActivation         : "Enviando e-mail de ativação...",
+    LT_Process_Label_ResendingActivation         : "Enviando e-mail de ativa&ccedil;&atilde;o...",
 
-    LT_Notify_Label_ResendingActivation          : "Um novo link de ativação foi enviado para o endereço fornecido.",
+    LT_Notify_Label_ResendingActivation          : "Um novo link de ativa&ccedil;&atilde;o foi enviado para o endere&ccedil;o fornecido.",
 
 
 
@@ -3652,21 +3652,21 @@ var GLocal = {
 
     LT_Process_Label_GetProjects                 : "Obtendo ambientes...",
 
-    LT_Error_Label_UserExist                     : "O endereço de e-mail que você digitou já está registrado no sistema. Você pode <a action=\"reset-password\">redefinir sua senha</a>.",
+    LT_Error_Label_UserExist                     : "O endere&ccedil;o de e-mail que voc&ecirc; digitou já est&aacute; registrado no sistema. voc&ecirc; pode <a action=\"reset-password\">redefinir sua senha</a>.",
 
 
 
-    LT_EnvScaling_HelpTip                        : "Configurar os acionadores abaixo para adicionar automaticamente ou remover nodos de web/aplicação a partir de seu ambiente com base no consumo de recursos. Cada nodo tem as mesmas configurações de Cloudlet como os nodos web/aplicativos existentes. Leia este [link]documento[/link] para saber mais detalhes.",
+    LT_EnvScaling_HelpTip                        : "Configurar os acionadores abaixo para adicionar automaticamente ou remover nodos de web/Aplica&ccedil;&atilde;o a partir de seu ambiente com base no consumo de recursos. Cada nodo tem as mesmas configura&ccedil;&otilde;es de Cloudlet como os nodos web/aplicativos existentes. Leia este [link]documento[/link] para saber mais detalhes.",
 
-    LT_EnvScaling_Error_QuotaReached             : "Restrições à sua conta não permitem salvar a configuração atual: o número de containers por ambiente excede o máximo.",
+    LT_EnvScaling_Error_QuotaReached             : "Restri&ccedil;&otilde;es à sua conta n&atilde;o permitem salvar a Configura&ccedil;&atilde;o atual: o n&uacute;mero de cont&ecirc;ineres por ambiente excede o m&aacute;ximo.",
 
-    LT_Error_WrongActivationKey                  : "A chave de confirmação não é mais válida.",
+    LT_Error_WrongActivationKey                  : "A chave de confirma&ccedil;&atilde;o n&atilde;o é mais v&aacute;lida.",
 
-    LT_EnvTransfer_Error_NotValidKey             : "O pedido de transferência não é mais válido.",
+    LT_EnvTransfer_Error_NotValidKey             : "O pedido de transfer&ecirc;ncia n&atilde;o é mais v&aacute;lido.",
 
 
 
-    LT_EnvScaling_Field_ScaleUpTo                : "Escale até",
+    LT_EnvScaling_Field_ScaleUpTo                : "Escale at&eacute;",
 
     LT_EnvScaling_Field_ScaleDownTo              : "Reduza a",
 
@@ -3682,7 +3682,7 @@ var GLocal = {
 
     LT_SSH_Keys_Title                           : "SSH Keychain",
 
-    LT_SSH_Key_Public                           : "Público",
+    LT_SSH_Key_Public                           : "p&uacute;blico",
 
     LT_SSH_Key_Private                          : "Privado",
 
@@ -3692,7 +3692,7 @@ var GLocal = {
 
     LT_SSH_Keys_Editor_Title_Preview            : "Chave SSH",
 
-    LT_Use_Authentication                       : "Use a autenticação",
+    LT_Use_Authentication                       : "Use a Autentica&ccedil;&atilde;o",
 
     LT_Common_Access_Type                       : "Tipo de acesso",
 
@@ -3704,15 +3704,15 @@ var GLocal = {
 
     LT_SSH_Private_Keys_List_Title              : "Chaves SSH privadas",
 
-    LT_SSH_Public_Keys_HelpTip                  : "Por favor, use o seu cliente SSH: [link-ssh-uri]ssh%(sshLogin)@%(sshDomain) -p %(sshPort)[/link-ssh-uri]<br/>As configurações SSH serão aplicadas à conta. Leia esta [link-docs]documentação[/link-docs] para descobrir mais detalhes sobre o acesso SSH para os seus ambientes.",
+    LT_SSH_Public_Keys_HelpTip                  : "Por favor, use o seu cliente SSH: [link-ssh-uri]ssh%(sshLogin)@%(sshDomain) -p %(sshPort)[/link-ssh-uri]<br/>As configura&ccedil;&otilde;es SSH ser&atilde;o aplicadas à conta. Leia esta [link-docs]documenta&ccedil;&atilde;o[/link-docs] para descobrir mais detalhes sobre o acesso SSH para os seus ambientes.",
 
-    LT_SSH_Private_Keys_HelpTip                 : "Chaves SSH privadas de acesso repositórios GIT.<br/> Leia esta [link-docs]documentação [/link-docs] para saber mais detalhes sobre como acessar seus projetos remotos via SSH.",
+    LT_SSH_Private_Keys_HelpTip                 : "Chaves SSH privadas de acesso repositórios GIT.<br/> Leia esta [link-docs]documenta&ccedil;&atilde;o [/link-docs] para saber mais detalhes sobre como acessar seus projetos remotos via SSH.",
 
-    LT_SSH_General_HelpTip                      : "<b>Protocolo SSH (Secure Shell Handler)</b> é usado para estabelecer a conexão segura entre o cliente e o servidor. <br/> Jelastic usa o componente de infra-estrutura [link-overview]SSH Gateway[/link-overview], a fim de fornecer essa possibilidade.<br/> de acordo com suas necessidades, você pode adicionar suas chaves SSH <b>pública</b> ou <b>privada</b>: <br/><ul><li> chaves privadas são necessárias para autenticação[/link-git-ssh] na sua conta GIT[/link-git-ssh] a fim de obter a capacidade de clonar e atualizar o projeto hospedado a partir do seu repositório remoto.</li><li>Chaves públicas são necessários para estabelecer a conexão SSH [link-docs]para a sua conta / um container separado [/link-docs] no ambiente. Nota-se que a disponibilidade de uso 'Chaves de SSH públicas depende das configurações do seu provedor de hospedagem. Entre em contato com [link-support]suporte[/link-support] para mais informações.</li></ul>",
+    LT_SSH_General_HelpTip                      : "<b>Protocolo SSH (Secure Shell Handler)</b> é usado para estabelecer a conexão segura entre o cliente e o servidor. <br/> Jelastic usa o componente de infra-estrutura [link-overview]SSH Gateway[/link-overview], a fim de fornecer essa possibilidade.<br/> de acordo com suas necessidades, voc&ecirc; pode adicionar suas chaves SSH <b>pública</b> ou <b>privada</b>: <br/><ul><li> chaves privadas s&atilde;o necess&aacute;rias para Autentica&ccedil;&atilde;o[/link-git-ssh] na sua conta GIT[/link-git-ssh] a fim de obter a capacidade de clonar e atualizar o projeto hospedado a partir do seu repositório remoto.</li><li>Chaves públicas s&atilde;o necess&aacute;rios para estabelecer a conexão SSH [link-docs]para a sua conta / um cont&ecirc;iner separado [/link-docs] no ambiente. Nota-se que a disponibilidade de uso 'Chaves de SSH públicas depende das configura&ccedil;&otilde;es do seu provedor de hospedagem. Entre em contato com [link-support]suporte[/link-support] para mais informa&ccedil;&otilde;es.</li></ul>",
 
     LT_Common_Text_Path                         : "Caminho",
 
-    LT_BuildNode_Warning_InvalidUrl             : "URL inválida",
+    LT_BuildNode_Warning_InvalidUrl             : "URL inv&aacute;lida",
 
     LT_SSH_Keys_Access                          : "Acesso SSH",
 
@@ -3722,15 +3722,15 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Label_Docker                   : "Container",
+    LT_EnvWizard_Label_Docker                   : "cont&ecirc;iner",
 
-    LT_EnvWizard_Label_Topology_Docker          : "Docker containers",
+    LT_EnvWizard_Label_Topology_Docker          : "Docker cont&ecirc;ineres",
 
     LT_EnvWizard_Label_Topology_Extra           : "Extra",
 
     LT_EnvWizard_Hint_Dockers                   : "",
 
-    LT_EnvWizard_Button_SelectDocker            : "Selecionar Container",
+    LT_EnvWizard_Button_SelectDocker            : "Selecionar cont&ecirc;iner",
 
 
 
@@ -3740,7 +3740,7 @@ var GLocal = {
 
 
 
-    LT_AppStore_Auth_Title                      : "Autorização",
+    LT_AppStore_Auth_Title                      : "Autoriza&ccedil;&atilde;o",
 
 
 
@@ -3748,7 +3748,7 @@ var GLocal = {
 
 
 
-    LT_Confirm_RemoveApp                        : "Remover aplicação?",
+    LT_Confirm_RemoveApp                        : "Remover Aplica&ccedil;&atilde;o?",
 
     LT_AppStore_Error_RemoveApp                 : "Ocorreu um erro ao tentar remover o aplicativo",
 
@@ -3768,13 +3768,13 @@ var GLocal = {
 
 
 
-    LT_DockerRegistry_W_NotFound                : "Não é possível encontrar a imagem especificada. Por favor, verifique as entradas e tente novamente.",
+    LT_DockerRegistry_W_NotFound                : "n&atilde;o é poss&iacute;vel encontrar a imagem especificada. Por favor, verifique as entradas e tente novamente.",
 
     LT_DockerRegistry_E_NotFound                : "Ocorreu um erro ao tentar obter os dados da imagem.",
 
 
 
-    LT_Action_GetDockerTemplateTags             : "Obter templates de Docker container",
+    LT_Action_GetDockerTemplateTags             : "Obter templates de Docker cont&ecirc;iner",
 
     LT_DockerSelector_Button_Select             : "Selecionar",
 
@@ -3788,29 +3788,29 @@ var GLocal = {
 
 
 
-    LT_E_Platform_4081                          : "A imagem selecionada não pôde ser executada. Entre em contato com o suporte para obter ajuda.",
+    LT_E_Platform_4081                          : "A imagem selecionada n&atilde;o pôde ser executada. Entre em contato com o suporte para obter ajuda.",
 
-    LT_E_Platform_2348                          : "Ocorreu um erro ao tentar instalar os pacotes de software para dentro do container.",
+    LT_E_Platform_2348                          : "Ocorreu um erro ao tentar instalar os pacotes de software para dentro do cont&ecirc;iner.",
 
 
 
-    LT_EnvWizard_Hint_VDS                       : "A escala de forma dinâmica e elástica Virtual Private Server com acesso root completo, capaz de hospedar e executar qualquer código. Você pode estabelecer uma conexão SSH para este servidor usando o endereço IP público ou um gateway SSH",
+    LT_EnvWizard_Hint_VDS                       : "A escala de forma dinâmica e elástica Virtual Private Server com acesso root completo, capaz de hospedar e executar qualquer C&oacute;digo. voc&ecirc; pode estabelecer uma conexão SSH para este servidor usando o endere&ccedil;o IP p&uacute;blico ou um gateway SSH",
 
     LT_Text_VdsInfo                             :
 
-        "<p>Para trabalhar com o nodo Elastic VPS <b>com o IP externo</b> em anexo, você precisa seguir os seguintes passos:<ol>"+
+        "<p>Para trabalhar com o nodo Elastic VPS <b>com o IP externo</b> em anexo, voc&ecirc; precisa seguir os seguintes passos:<ol>"+
 
-        "<li>Encontre o seu <b>login</b>, <b>senha</b> e <b>IP Público</b> em seu endereço de e-mail</li>"+
+        "<li>Encontre o seu <b>login</b>, <b>senha</b> e <b>IP p&uacute;blico</b> em seu endere&ccedil;o de e-mail</li>"+
 
         "<li><a target=_blank href='%(url)'>Estabelecer a conexão SSH</a> para seu servidor</li>" +
 
-        "<li>Especifique as credenciais necessárias no console aberto</li></ol><p>" +
+        "<li>Especifique as credenciais necess&aacute;rias no console aberto</li></ol><p>" +
 
-        "<p>Para trabalhar com o nodo Elastic VPS <b>com o IP interno</b>, você precisa estabelecer a conexão SSH a ele através do <a href=\"%(Jelastic ASHGate)\"> Jelastic SSH gateway</a></p>",
+        "<p>Para trabalhar com o nodo Elastic VPS <b>com o IP interno</b>, voc&ecirc; precisa estabelecer a conexão SSH a ele através do <a href=\"%(Jelastic ASHGate)\"> Jelastic SSH gateway</a></p>",
 
 
 
-    LT_Menu_Applications_Applications           : "Aplicações",
+    LT_Menu_Applications_Applications           : "Aplica&ccedil;&otilde;es",
 
 
 
@@ -3820,33 +3820,33 @@ var GLocal = {
 
     LT_ExportEnv_List_Title                     : "Exportar cópias de ambites",
 
-    LT_ExportEnv_List_Empty_Text                : "Você ainda não exportou quaisquer ambientes",
+    LT_ExportEnv_List_Empty_Text                : "voc&ecirc; ainda n&atilde;o exportou quaisquer ambientes",
 
     LT_ExportEnv_Dlg_Title                      : "Exportar ambiente",
 
-    LT_ExportEnv_Dlg_TopologySettings           : "Configurações de topologia",
+    LT_ExportEnv_Dlg_TopologySettings           : "configura&ccedil;&otilde;es de topologia",
 
     LT_ExportEnv_Dlg_PrivateData                : "Dados privados",
 
-    LT_ExportEnv_Dlg_ConfigurationFiles         : "Arquivos de configuração",
+    LT_ExportEnv_Dlg_ConfigurationFiles         : "Arquivos de Configura&ccedil;&atilde;o",
 
-    LT_ExportEnv_Dlg_TopologySettings_Tip       : "Configurações de topologia e nodos de ambiente, configurados dentro do assistente do ambiente.",
+    LT_ExportEnv_Dlg_TopologySettings_Tip       : "configura&ccedil;&otilde;es de topologia e nodos de ambiente, configurados dentro do assistente do ambiente.",
 
-    LT_ExportEnv_Dlg_PrivateData_Tip            : "Diretórios com os arquivos do seu aplicativo implantado e dados armazenados dentro do seu servidor de DB(s)",
+    LT_ExportEnv_Dlg_PrivateData_Tip            : "diret&oacute;rios com os arquivos do seu aplicativo implantado e dados armazenados dentro do seu servidor de DB(s)",
 
-    LT_ExportEnv_Dlg_ConfigurationFiles_Tip     : "Os arquivos de configuração, acessível através do Gerenciador de configurações no seu painel e configurações projetos GIT/SVN (por exemplo, repositórios de links, credenciais, chaves SSH privadas em anexo)",
+    LT_ExportEnv_Dlg_ConfigurationFiles_Tip     : "Os arquivos de Configura&ccedil;&atilde;o, acessível através do Gerenciador de configura&ccedil;&otilde;es no seu painel e configura&ccedil;&otilde;es projetos GIT/SVN (por exemplo, repositórios de links, credenciais, chaves SSH privadas em anexo)",
 
-    LT_ExportEnv_Dlg_Warning_CompleteImport     : "Concluir a importação do exemplar ambiente exportado para a plataforma de destino, antes de excluir o original",
+    LT_ExportEnv_Dlg_Warning_CompleteImport     : "Concluir a importa&ccedil;&atilde;o do exemplar ambiente exportado para a plataforma de destino, antes de excluir o original",
 
-    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Perceba que atualmente Docker containers e nodos do Windows não podem ser exportados. Também recipientes Elastic VPS e Maven são exportados sem quaisquer dados dentro, então você precisará reconfigurá-los manualmente mais tarde.",
+    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Perceba que atualmente Docker cont&ecirc;ineres e nodos do Windows n&atilde;o podem ser exportados. Também recipientes Elastic VPS e Maven s&atilde;o exportados sem quaisquer dados dentro, Ent&atilde;o voc&ecirc; precisar&aacute; reconfigurá-los manualmente mais tarde.",
 
-    LT_ExportEnv_Dlg_Description                : "Você estará exportando o ambiente <b>%(envName)</b>",
+    LT_ExportEnv_Dlg_Description                : "voc&ecirc; estará exportando o ambiente <b>%(envName)</b>",
 
     LT_ExportEnv_Dlg_Select                     : "Escolha o que deve ser exportado:",
 
-    LT_ExportEnv_Settings_DetailsTips           : "Leia esta [link-docs]documentação[/link-docs] para saber mais detalhes sobre a exportação de seus ambientes.<BR>" +
+    LT_ExportEnv_Settings_DetailsTips           : "Leia esta [link-docs]documenta&ccedil;&atilde;o[/link-docs] para saber mais detalhes sobre a exporta&ccedil;&atilde;o de seus ambientes.<BR>" +
 
-        "<b>Nota:</b>: todos os arquivos de ambiente exportadas são armazenadas em seu espaço em disco, que é cobrado de acordo com a tarifa de seus prestadores de serviços de hospedagem.",
+        "<b>Nota:</b>: todos os arquivos de ambiente exportadas s&atilde;o armazenadas em seu Espa&ccedil;o em disco, que é cobrado de acordo com a tarifa de seus prestadores de servi&ccedil;os de hospedagem.",
 
     LT_ExportEnv_Error_GetEnvs                  : "Ocorreu um erro ao tentar obter a lista de ambientes exportados",
 
@@ -3868,7 +3868,7 @@ var GLocal = {
 
     LT_Environments_Status_9                    : "Exportando...",
 
-    LT_Action_ExportEnv                         : "Exportação de ambiente",
+    LT_Action_ExportEnv                         : "Exporta&ccedil;&atilde;o de ambiente",
 
     LT_Notify_Label_EnvironmentExported			: "O ambiente %(envName) foi exportado.",
 
@@ -3876,19 +3876,19 @@ var GLocal = {
 
 
 
-    LT_Import_InstallDlg_Text                   : "Você está importando para o ambiente <b>%(envName)</b>, anteriormente exportado de %(oldHost). <BR> Data de exportação: %(date)",
+    LT_Import_InstallDlg_Text                   : "voc&ecirc; est&aacute; importando para o ambiente <b>%(envName)</b>, anteriormente exportado de %(oldHost). <BR> Data de exporta&ccedil;&atilde;o: %(date)",
 
-    LT_Import_InstallDlg_MoreInfo               : "Mais informações em <a target='_blank' href='%(href)'>%(href)</a>",
+    LT_Import_InstallDlg_MoreInfo               : "Mais informa&ccedil;&otilde;es em <a target='_blank' href='%(href)'>%(href)</a>",
 
-    LT_Import_SuccessDlg_Title                  : "Seu ambiente '%(envName)' foi importado com êxito para Jelastic",
+    LT_Import_SuccessDlg_Title                  : "Seu ambiente '%(envName)' foi importado com &ecirc;xito para Jelastic",
 
-    LT_Import_SuccessDlg_Note                   : "<b>Nota:</b>: para funcionar corretamente, seu ambiente importado pode exigir a reconfiguração de acordo com as configurações do novo provedor de hospedagem (como IP público). <br/><br/><div class =\"more-info\">Mais informações em [link]%(href)[/link]</div>",
+    LT_Import_SuccessDlg_Note                   : "<b>Nota:</b>: para funcionar corretamente, seu ambiente importado pode exigir a reConfigura&ccedil;&atilde;o de acordo com as configura&ccedil;&otilde;es do novo provedor de hospedagem (como IP p&uacute;blico). <br/><br/><div class =\"more-info\">Mais informa&ccedil;&otilde;es em [link]%(href)[/link]</div>",
 
-    LT_Build_Failed_Warning                     : "Ocorreu um erro ao tentar criar o projecto. Verifique se o seu tipo de projeto está correto.",
+    LT_Build_Failed_Warning                     : "Ocorreu um erro ao tentar criar o projecto. Verifique se o seu tipo de projeto est&aacute; correto.",
 
     LT_Menu_NewEnvironment                      : "Novo ambiente",
 
-    LT_SolutionWizard_Error_ManifestIsCorrupted : "Ocorreu um erro ao tentar importar o ambiente. Certifique-se de que você escolheu o arquivo correto com os dados do ambiente exportado.",
+    LT_SolutionWizard_Error_ManifestIsCorrupted : "Ocorreu um erro ao tentar importar o ambiente. Certifique-se de que voc&ecirc; escolheu o arquivo correto com os dados do ambiente exportado.",
 
 
 
@@ -3900,25 +3900,25 @@ var GLocal = {
 
 
 
-    LT_Auto_Resolve_Conflict                    : "Resolução de conflitos automática",
+    LT_Auto_Resolve_Conflict                    : "Resolu&ccedil;&atilde;o de conflitos Autom&aacute;tica",
 
-    LT_Environments_Validation_InvalidLength    : "Nome de domínio deve ter, pelo menos, %(nLength) caracteres.",
+    LT_Environments_Validation_InvalidLength    : "Nome de Dom&iacute;nio deve ter, pelo menos, %(nLength) caracteres.",
 
 
 
-    LT_E_Platform_6000                          : "Chave SSH inválida. Por favor verifique a chave e tente novamente.",
+    LT_E_Platform_6000                          : "Chave SSH inv&aacute;lida. Por favor verifique a chave e tente novamente.",
 
-    LT_Notify_Label_VPSQuotaMismatch            : "Criação do nodo Elastic VPS com tais parâmetros não é permitido devido às suas restrições de conta. Entre em contato no <a action='contact' href=\"%(HOSTER_SUPPORT)\" target='_blank'>%(HOSTER_NAME) portal</a> para obter ajuda.",
+    LT_Notify_Label_VPSQuotaMismatch            : "Cria&ccedil;&atilde;o do nodo Elastic VPS com tais par&acirc;metros n&atilde;o é permitido devido às suas Restri&ccedil;&otilde;es de conta. Entre em contato no <a action='contact' href=\"%(HOSTER_SUPPORT)\" target='_blank'>%(HOSTER_NAME) portal</a> para obter ajuda.",
 
 
 
     LT_AppStore_Add_Custom_Docker               : "Adicionar nova Imagem",
 
-    LT_AppStore_Add_Custom_Docker_HelpTip       : "Se a imagem desejada está presente dentro do Registro Hub, ignorar o nome do host de registro (por exemplo, <span class='highlighted'> Jelastic/tomcat8</span>). Caso contrário, especifique-o no início do identificador de imagem (por exemplo, <span class='highlighted'> server.com/images/image_name</span>).<br>A lista de todas as tags de imagem disponíveis é automaticamente forçado, assim você vai ser capaz de selecionar o necessário durante a instalação adicional.",
+    LT_AppStore_Add_Custom_Docker_HelpTip       : "Se a imagem desejada est&aacute; presente dentro do Registro Hub, ignorar o nome do host de registro (por exemplo, <span class='highlighted'> Jelastic/tomcat8</span>). Caso contrário, especifique-o no início do identificador de imagem (por exemplo, <span class='highlighted'> server.com/images/image_name</span>).<br>A lista de todas as tags de imagem dispon&iacute;veis é automaticamente forçado, assim voc&ecirc; vai ser capaz de selecionar o necess&aacute;rio durante a instala&ccedil;&atilde;o adicional.",
 
 
 
-    LT_AppStore_SearchField_EmptyTx             : "Digitar nome da aplicação",
+    LT_AppStore_SearchField_EmptyTx             : "Digitar nome da Aplica&ccedil;&atilde;o",
 
     LT_AppStore_SearchField_EmptyResults        : "Nenhum resultado encontrado",
 
@@ -3926,17 +3926,17 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Config                         : "Configuração",
+    LT_EnvWizard_Config                         : "Configura&ccedil;&atilde;o",
 
 
 
-    LT_DockerSettings_Title                     : "Configuração do container Docker %(name)",
+    LT_DockerSettings_Title                     : "Configura&ccedil;&atilde;o do cont&ecirc;iner Docker %(name)",
 
 
 
     LT_DockerSettings_Item_Links                : "Links",
 
-    LT_DockerSettings_Item_EnvVars              : "Variáveis",
+    LT_DockerSettings_Item_EnvVars              : "vari&aacute;veis",
 
     LT_DockerSettings_Item_Ports                : "Portas",
 
@@ -3946,13 +3946,13 @@ var GLocal = {
 
     LT_DockerSettings_Links_Column_Alias        : "Alias",
 
-    LT_DockerSettings_Links_HelpTip             : "Leia a [link]documentação[/link] para saber mais detalhes sobre a ligação de recipientes Docker's.",
+    LT_DockerSettings_Links_HelpTip             : "Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre a liga&ccedil;&atilde;o de recipientes Docker's.",
 
     LT_DockerSettings_Links_Confirm_Remove      : "Remover os vínculos selecionados?",
 
-    LT_DockerSettings_Links_W_NoNodes           : "Não há nodos para ligação. Por favor, adicione mais nodos para obter esta possibilidade.",
+    LT_DockerSettings_Links_W_NoNodes           : "n&atilde;o há nodos para liga&ccedil;&atilde;o. Por favor, adicione mais nodos para obter esta possibilidade.",
 
-    LT_DockerSettings_Links_W_PropertyExists    : "Ligação com o alias atual já existe!",
+    LT_DockerSettings_Links_W_PropertyExists    : "Liga&ccedil;&atilde;o com o alias atual já existe!",
 
 
 
@@ -3962,11 +3962,11 @@ var GLocal = {
 
     LT_DockerSettings_EnvVars_W_PropertyExists  : "Propriedade com o nome atual já existe!",
 
-    LT_DockerSettings_EnvVars_E_GetVars         : "Ocorreu um erro ao tentar carregar variáveis de ambiente.",
+    LT_DockerSettings_EnvVars_E_GetVars         : "Ocorreu um erro ao tentar carregar vari&aacute;veis de ambiente.",
 
-    LT_DockerSettings_EnvVars_HelpTip           : "Leia [link]documentação[/link] para saber mais detalhes sobre variáveis de ambiente recipiente Docker.",
+    LT_DockerSettings_EnvVars_HelpTip           : "Leia [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre vari&aacute;veis de ambiente recipiente Docker.",
 
-    LT_DockerSettings_EnvVars_Confirm_Remove    : "Remover as variáveis selecionadas?",
+    LT_DockerSettings_EnvVars_Confirm_Remove    : "Remover as vari&aacute;veis selecionadas?",
 
 
 
@@ -3982,19 +3982,19 @@ var GLocal = {
 
     LT_DockersPanel_Search_EmptyTx              : "Tipo de nome de imagem",
 
-    LT_DockersPanel_Search_W_EmptyResults       : "Não foram encontrados resultados!<br>Tente novamente pesquisar com uma palavra-chave diferente",
+    LT_DockersPanel_Search_W_EmptyResults       : "n&atilde;o foram encontrados resultados!<br>Tente novamente pesquisar com uma palavra-chave diferente",
 
 
 
-    LT_SolutionDlg_Docker_PleaseWait            : "Container Docker está sendo instalado, por favor aguarde...",
+    LT_SolutionDlg_Docker_PleaseWait            : "cont&ecirc;iner Docker est&aacute; sendo instalado, por favor aguarde...",
 
     LT_SolutionDlg_Docker_Installing            : "Instalando %(name)",
 
 
 
-    LT_W_Only_AlphaNum                          : "Este campo deve conter apenas letras e números.",
+    LT_W_Only_AlphaNum                          : "Este campo deve conter apenas letras e n&uacute;meros.",
 
-    LT_W_Only_AlphaNumDash                      : "Este campo deve conter apenas letras, números e _.",
+    LT_W_Only_AlphaNumDash                      : "Este campo deve conter apenas letras, n&uacute;meros e _.",
 
 
 
@@ -4012,13 +4012,13 @@ var GLocal = {
 
 
 
-    LT_EnvironmentWizard_Dialog_WinCloudletsChanged : "Nodo baseado em Windows será reiniciado devido à alteração da quantidade de cloudlets. Você realmente deseja aplicar as mudanças?",
+    LT_EnvironmentWizard_Dialog_WinCloudletsChanged : "Nodo baseado em Windows ser&aacute; reiniciado devido à altera&ccedil;&atilde;o da quantidade de cloudlets. voc&ecirc; realmente deseja aplicar as mudanças?",
 
 
 
-    LT_HelpTip_Env_Required                     : "Você precisa ter pelo menos um nodo (exceto recipientes Docker) adicionado ao seu ambiente para que esse recurso funcione corretamente. [link]Clique aqui para configurar seu ambiente[/link].",
+    LT_HelpTip_Env_Required                     : "voc&ecirc; precisa ter pelo menos um nodo (exceto recipientes Docker) adicionado ao seu ambiente para que esse recurso funcione corretamente. [link]Clique aqui para configurar seu ambiente[/link].",
 
-    LT_EnvScaling_Tip                           : "Leia esta [link]documentação[/link] para saber como configurar a escala horizontal automática para qualquer outro nodo, ao lado de um computador ou de um balanceador.",
+    LT_EnvScaling_Tip                           : "Leia esta [link]documenta&ccedil;&atilde;o[/link] para saber como configurar a escala horizontal Autom&aacute;tica para qualquer outro nodo, ao lado de um computador ou de um balanceador.",
 
 
 
@@ -4026,7 +4026,7 @@ var GLocal = {
 
 
 
-    LT_LicencesCost_Text_Description            : "O custo para o uso pilhas de software depende de tarifas do seu provedor de serviço de hospedagem.<br>Se uma pilha é marcada como livre, você paga somente pelos recursos consumidos, mas não para a adição deste software ao seu ambiente.",
+    LT_LicencesCost_Text_Description            : "O custo para o uso pilhas de software depende de tarifas do seu provedor de servi&ccedil;o de hospedagem.<br>Se uma pilha é marcada como livre, voc&ecirc; paga somente pelos recursos consumidos, mas n&atilde;o para a adi&ccedil;&atilde;o deste software ao seu ambiente.",
 
 
 
@@ -4034,9 +4034,9 @@ var GLocal = {
 
 
 
-    LT_Notify_Label_MaxEnvCount                 : "Você alcançou o número máximo de ambientes para o seu tipo de conta.",
+    LT_Notify_Label_MaxEnvCount                 : "voc&ecirc; alcançou o n&uacute;mero m&aacute;ximo de ambientes para o seu tipo de conta.",
 
-    LT_Notify_Label_EnvCreateRestricted         : "Você não tem a possibilidade de criar esse tipo de ambiente. Entre em contato com o suporte para obter mais informações.",
+    LT_Notify_Label_EnvCreateRestricted         : "voc&ecirc; n&atilde;o tem a possibilidade de criar esse tipo de ambiente. Entre em contato com o suporte para obter mais informa&ccedil;&otilde;es.",
 
     LT_NodeMission_Cp                           : "Servidores App.",
 
@@ -4050,29 +4050,29 @@ var GLocal = {
 
     LT_NodeMission_Build                        : "Construir",
 
-    LT_NodeMission_Docker                       : "Containers Docker",
+    LT_NodeMission_Docker                       : "cont&ecirc;ineres Docker",
 
     LT_NodeMission_Vds                          : "VPS",
 
 
 
-    LT_W_NotAllowedChars                        : "Este campo contém caracteres que não são permitidos [%(chars)].",
+    LT_W_NotAllowedChars                        : "Este campo cont&eacute;m caracteres que n&atilde;o s&atilde;o permitidos [%(chars)].",
 
 
 
-    LT_HelpTip_Env_CPRequired                   : "Você precisa ter um nodo de computação adicionado ao seu ambiente para que esse recurso funcione corretamente. [link]Clique aqui para configurar seu ambiente[/link].",
+    LT_HelpTip_Env_CPRequired                   : "voc&ecirc; precisa ter um nodo de computa&ccedil;&atilde;o adicionado ao seu ambiente para que esse recurso funcione corretamente. [link]Clique aqui para configurar seu ambiente[/link].",
 
-    LT_HelpTip_Docker_FeatureComingSoon         : "Este recurso estará disponível para containers Docker em breve. Leia [link]documentação[/link] para saber mais detalhes.",
+    LT_HelpTip_Docker_FeatureComingSoon         : "Este recurso estará dispon&iacute;vel para cont&ecirc;ineres Docker em breve. Leia [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
 
 
 
-    LT_EnvScaling_Tip_RestrictedNodes           : "Suas restrições de conta não permitem que você adicione mais de um nodo semelhante (mesmo tipo) dentro de um ambiente, ao passo que esta função requer pelo menos dois desses nodos para funcionar corretamente. Por favor, [link-support]entre em contato com o suporte[/link-support] para remover esta limitação.",
+    LT_EnvScaling_Tip_RestrictedNodes           : "Suas Restri&ccedil;&otilde;es de conta n&atilde;o permitem que voc&ecirc; adicione mais de um nodo semelhante (mesmo tipo) dentro de um ambiente, ao passo que esta função requer pelo menos dois desses nodos para funcionar corretamente. Por favor, [link-support]entre em contato com o suporte[/link-support] para remover esta limita&ccedil;&atilde;o.",
 
 
 
     LT_Text_RDPInfo                             : "<p>Para se conectar ao nodo via RDP, siga estes passos:</p><ol>"+
 
-        "<li>Verifique se o seu e-mail recebeu a nodeâs <b>endereço do host</b> e seu acesso <b>credenciais</b></li>"+
+        "<li>Verifique se o seu e-mail recebeu a nodeâs <b>endere&ccedil;o do host</b> e seu acesso <b>credenciais</b></li>"+
 
         "<li>Abra em seu desktop <b>cliente RDP</b>:<br>" +
 
@@ -4086,25 +4086,25 @@ var GLocal = {
 
         "<li> Estabelecer a conexão com o servidor (%(rdpLink)), utilizando o login de acesso RDP e senha recebida </li></ol>" +
 
-        "<p>Para mais detalhes, consulte a nossa [link]documentação[/link]</p>",
+        "<p>Para mais detalhes, consulte a nossa [link]documenta&ccedil;&atilde;o[/link]</p>",
 
 
 
-    LT_CustomSSL_Text_ActiveState               : "O SSL personalizado está ativo atualmente. <a action='disable'>Clique aqui para desativar o SSL personalizado</a>, ou editar as configurações abaixo se você quiser fazer mudanças.",
+    LT_CustomSSL_Text_ActiveState               : "O SSL personalizado est&aacute; ativo atualmente. <a action='disable'>Clique aqui para desativar o SSL personalizado</a>, ou editar as configura&ccedil;&otilde;es abaixo se voc&ecirc; quiser fazer mudanças.",
 
-    LT_CustomSSL_Text_InactiveState             : "O SSL personalizado é atualmente inativo. <a action='enable'>Clique aqui para ativar o SSL personalizado </a>, ou editar as configurações abaixo se você quiser fazer mudanças.",
-
-
-
-    LT_Environments_Confirm_RestartContainer    : "Reiniciar container %(sType) com ID %(sNodeId)?",
-
-    LT_Environments_Confirm_RestartContainers   : "Reiniciar containers %(sType)?",
+    LT_CustomSSL_Text_InactiveState             : "O SSL personalizado é atualmente inativo. <a action='enable'>Clique aqui para ativar o SSL personalizado </a>, ou editar as configura&ccedil;&otilde;es abaixo se voc&ecirc; quiser fazer mudanças.",
 
 
 
-    LT_Menu_RestartContainer                    : "Reiniciar container",
+    LT_Environments_Confirm_Restartcont&ecirc;iner    : "Reiniciar cont&ecirc;iner %(sType) com ID %(sNodeId)?",
 
-    LT_Menu_RestartContainers                   : "Reiniciar containers",
+    LT_Environments_Confirm_Restartcont&ecirc;ineres   : "Reiniciar cont&ecirc;ineres %(sType)?",
+
+
+
+    LT_Menu_Restartcont&ecirc;iner                    : "Reiniciar cont&ecirc;iner",
+
+    LT_Menu_Restartcont&ecirc;ineres                   : "Reiniciar cont&ecirc;ineres",
 
 
 
@@ -4112,41 +4112,41 @@ var GLocal = {
 
 
 
-    LT_Text_WinDeployInfo                       :"<p> Você pode implantar seu projeto diretamente do Visual Studio IDE usando a ferramenta de implantação da Web:</p><ol>" +
+    LT_Text_WinDeployInfo                       :"<p> voc&ecirc; pode implantar seu projeto diretamente do Visual Studio IDE usando a ferramenta de implanta&ccedil;&atilde;o da Web:</p><ol>" +
 
-        "<li>Crie seu perfil de publicação</li>" +
+        "<li>Crie seu perfil de publica&ccedil;&atilde;o</li>" +
 
         "<li>Especificar os seguintes dados na guia Conexão:<ol>" +
 
-        "  <li style=\"list-style: none; margin-left: 10px;\"> Publicar Método: Web Deploy</li>"+
+        "  <li style=\"list-style: none; margin-left: 10px;\"> Publicar M&eacute;todo: Web Deploy</li>"+
 
-        "  <li style=\"list-style: none; margin-left: 10px;\">URL de serviço - %(deployLink)</li>" +
+        "  <li style=\"list-style: none; margin-left: 10px;\">URL de servi&ccedil;o - %(deployLink)</li>" +
 
-        "  <li style=\"list-style: none; margin-left: 10px;\">Site/applicação - Site Padrão/{name_of_your_app}</li>" +
+        "  <li style=\"list-style: none; margin-left: 10px;\">Site/applica&ccedil;&atilde;o - Site Padrão/{name_of_your_app}</li>" +
 
-        "  <li style=\"list-style: none; margin-left: 10px;\">Nome de usuário - obtê-lo de e-mail</li>" +
+        "  <li style=\"list-style: none; margin-left: 10px;\">Nome de Usu&aacute;rio - obtê-lo de e-mail</li>" +
 
         "  <li style=\"list-style: none; margin-left: 10px;\">Senha - obtê-la de e-mail</li></ol></li>" +
 
         "<li>Clique em Publicar!</li></ol>" +
 
-        "<p>Para mais detalhes, consulte o nosso [link]documentação[/link]</p>",
+        "<p>Para mais detalhes, consulte o nosso [link]documenta&ccedil;&atilde;o[/link]</p>",
 
 
 
-    LT_Menu_WinDeploy                           : "Publicar informações",
+    LT_Menu_WinDeploy                           : "Publicar informa&ccedil;&otilde;es",
 
 
 
-    LT_Windows_Confirm_DeployToRoot_Msg      	: "Este aplicativo será instalado em \"Site Padrão\". <br> "+
+    LT_Windows_Confirm_DeployToRoot_Msg      	: "Este aplicativo ser&aacute; instalado em \"Site Padrão\". <br> "+
 
-         "A maioria dos aplicativos são normalmente instalados em uma pasta <br> abaixo da raiz, como \"Site Padrão/Blog\". <br>Tem certeza?",
+         "A maioria dos aplicativos s&atilde;o normalmente instalados em uma pasta <br> abaixo da raiz, como \"Site Padrão/Blog\". <br>Tem certeza?",
 
-    LT_Windows_Confirm_RootUndeploy_Msg         : "Todos os projetos implantados serão removidos em caso de exclusão do contexto de raiz. Você tem certeza?",
+    LT_Windows_Confirm_RootUndeploy_Msg         : "Todos os projetos implantados ser&atilde;o removidos em caso de exclus&atilde;o do contexto de raiz. voc&ecirc; tem certeza?",
 
 
 
-    LT_SSH_Keys_List_Private_Empty_Text         : "Você não adicionou nenhuma chave privada ainda.",
+    LT_SSH_Keys_List_Private_Empty_Text         : "voc&ecirc; n&atilde;o adicionou nenhuma chave privada ainda.",
 
 
 
@@ -4156,11 +4156,11 @@ var GLocal = {
 
 
 
-    LT_SolutionWizard_Error_FilesNotAvailable   : " Ocorreu um erro ao tentar importar o ambiente. Por favor, verifique o ambiente original se ainda existe a fonte de dados necessário e tentar importar a cópia recém-exportado deste ambiente",
+    LT_SolutionWizard_Error_FilesNotAvailable   : " Ocorreu um erro ao tentar importar o ambiente. Por favor, verifique o ambiente original se ainda existe a fonte de dados necess&aacute;rio e tentar importar a cópia recém-exportado deste ambiente",
 
 
 
-    LT_SolutionWizard_Error_EnvTypeNotAllowed   : "Ocorreu um erro ao tentar configurar o ambiente com as configurações necessárias: os tipos desejados de nodos não são suportados na plataforma atual ou seu uso é restrito para o seu tipo de conta",
+    LT_SolutionWizard_Error_EnvTypeNotAllowed   : "Ocorreu um erro ao tentar configurar o ambiente com as configura&ccedil;&otilde;es necess&aacute;rias: os tipos desejados de nodos n&atilde;o s&atilde;o suportados na plataforma atual ou seu uso é restrito para o seu tipo de conta",
 
 
 
@@ -4176,63 +4176,63 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Confirm_IgnoreChanges          : "Todas as mudanças que você fez serão perdidas, continuar?",
+    LT_EnvWizard_Confirm_IgnoreChanges          : "Todas as mudanças que voc&ecirc; fez ser&atilde;o perdidas, continuar?",
 
     LT_EnvWizard_Action_Migrate                 : "Migrar...",
 
 
 
-    LT_QuotasPricing_Title                      : "Quotas e Preços",
+    LT_QuotasPricing_Title                      : "Quotas e pre&ccedil;os",
 
     LT_QuotasPricing_Item_Regions               : "Regiões",
 
-    LT_QuotasPricing_Item_Pricing               : "Preços",
+    LT_QuotasPricing_Item_Pricing               : "pre&ccedil;os",
 
 
 
-    LT_EnvRegions_HelpTip                       : "Leia a [link]documentação[/link] para saber mais detalhes sobre as regiões do ambiente.",
+    LT_EnvRegions_HelpTip                       : "Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre as regiões do ambiente.",
 
 
 
     LT_EnvRegionSelector_Item_Info              : "Mais detalhes...",
 
-    // type "[link]Mais detalhes...[/link]" na seqüência acima, se você gostaria deste item da lista drop-down para a topologia referindo-se ao link "DOCS_ENV_REGIONS" em vez de abrir as Quotas e Preços
+    // type "[link]Mais detalhes...[/link]" na seqüência acima, se voc&ecirc; gostaria deste item da lista drop-down para a topologia referindo-se ao link "DOCS_ENV_REGIONS" em vez de abrir as Quotas e pre&ccedil;os
 
 
 
     LT_EnvMigration_Title                       : "Migrar o ambiente: %(envName)",
 
-    LT_EnvMigration_Field_CurrentRegion         : "Região atual",
+    LT_EnvMigration_Field_CurrentRegion         : "Regi&atilde;o atual",
 
-    LT_EnvMigration_Field_TargetRegion          : "Região de destino",
+    LT_EnvMigration_Field_TargetRegion          : "Regi&atilde;o de destino",
 
-    LT_EnvMigration_Field_TargetRegion_EmptyText: "Selecione uma região...",
+    LT_EnvMigration_Field_TargetRegion_EmptyText: "Selecione uma Regi&atilde;o...",
 
     LT_EnvMigration_Button_Submit               : "Verificar e Migrar",
 
 
 
-    LT_EnvMigration_Error_NoHardware            : "Nós não temos nenhum hardware disponível na região <b>%(region)</b> no momento. Por favor, tente outra região.",
+    LT_EnvMigration_Error_NoHardware            : "N&oacute;s n&atilde;o temos nenhum hardware dispon&iacute;vel na Regi&atilde;o <b>%(region)</b> no momento. Por favor, tente outra Regi&atilde;o.",
 
-    LT_EnvMigration_Error_NoFreeIps             : "Não há IPs público gratuito na região <b>%(region)</b> no momento. Por favor, tente outra região.",
+    LT_EnvMigration_Error_NoFreeIps             : "n&atilde;o há IPs p&uacute;blico gratuito na Regi&atilde;o <b>%(region)</b> no momento. Por favor, tente outra Regi&atilde;o.",
 
-    LT_EnvMigration_Error_Failed                : "Ocorreu um erro ao tentar migrar o ambiente <b>%(envName)</b> para a região <b>%(region)</b>.",
+    LT_EnvMigration_Error_Failed                : "Ocorreu um erro ao tentar migrar o ambiente <b>%(envName)</b> para a Regi&atilde;o <b>%(region)</b>.",
 
-    LT_EnvMigration_Info_Success                : "O Ambiente <b>%(envName)</b> foi migrado com sucesso para região %(region).",
-
-
-
-    LT_EnvMigration_HelpTip                     : "Leia a [link]documentação[/link] para saber mais detalhes sobre a migração de ambientes.",
-
-    LT_EnvMigration_HelpTip_NoRegions           : "Atualmente não há regiões disponíveis para a migração. Por favor contato com o Suporte para obter mais informações.",
+    LT_EnvMigration_Info_Success                : "O Ambiente <b>%(envName)</b> foi migrado com sucesso para Regi&atilde;o %(region).",
 
 
 
-    LT_Action_ValidateRegion                    : "validar região %(region)",
+    LT_EnvMigration_HelpTip                     : "Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre a migra&ccedil;&atilde;o de ambientes.",
+
+    LT_EnvMigration_HelpTip_NoRegions           : "Atualmente n&atilde;o há regiões dispon&iacute;veis para a migra&ccedil;&atilde;o. Por favor contato com o Suporte para obter mais informa&ccedil;&otilde;es.",
 
 
 
-    LT_EnvSettings_Item_Migration               : "Migração",
+    LT_Action_ValidateRegion                    : "validar Regi&atilde;o %(region)",
+
+
+
+    LT_EnvSettings_Item_Migration               : "Migra&ccedil;&atilde;o",
 
 
 
@@ -4242,51 +4242,51 @@ var GLocal = {
 
 
 
-    LT_Task_Name_83                             : "Migrando ambiente %(env) para região %(hngroupname)",
+    LT_Task_Name_83                             : "Migrando ambiente %(env) para Regi&atilde;o %(hngroupname)",
 
 
 
-    LT_HelpTip_Access_Owner                     : "Somente o proprietário de um ambiente pode realizar esta ação. Leia a [link]documentação[/link] para saber mais detalhes.",
+    LT_HelpTip_Access_Owner                     : "Somente o proprietário de um ambiente pode realizar esta a&ccedil;&atilde;o. Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
 
 
 
-    LT_SolutionDlg_Label_EnvRegion              : "Região",
+    LT_SolutionDlg_Label_EnvRegion              : "Regi&atilde;o",
 
     LT_SolutionDlg_Label_Environment            : "Ambiente",
 
 
 
-    LT_Import_InstallDlg_ConfirmTitle           : "Confirmar importação do ambiente %(envName)",
+    LT_Import_InstallDlg_ConfirmTitle           : "Confirmar importa&ccedil;&atilde;o do ambiente %(envName)",
 
     LT_Import_InstallDlg_Button_Import          : "Importar",
 
 
 
-    LT_Common_Text_Region						: "Região",
+    LT_Common_Text_Region						: "Regi&atilde;o",
 
 
 
-    LT_Task_Name_2	                            : "Criação do ambiente %(env)",
+    LT_Task_Name_2	                            : "Cria&ccedil;&atilde;o do ambiente %(env)",
 
-    // adicionar o espaço reservado %(hngroupname) para a seqüência acima, se você gostaria de mostrar as informações sobre uma região na tarefa correspondente
-
-
-
-    LT_Notify_Label_HardwareOnMaintenance       : "Seu hardware está em manutenção no momento.",
-
-    LT_Notify_Label_RegionOnMaintenance         : "A região <b>%(region)</b> está passando por manutenção no momento. Por favor, tente outra região.",
+    // adicionar o Espa&ccedil;o reservado %(hngroupname) para a seqüência acima, se voc&ecirc; gostaria de mostrar as informa&ccedil;&otilde;es sobre uma Regi&atilde;o na tarefa correspondente
 
 
 
-    LT_Region_Tip_Maintenance                   : "O hardware da região está passando por manutenção.",
+    LT_Notify_Label_HardwareOnMaintenance       : "Seu hardware est&aacute; em manutenção no momento.",
+
+    LT_Notify_Label_RegionOnMaintenance         : "A Regi&atilde;o <b>%(region)</b> est&aacute; passando por manutenção no momento. Por favor, tente outra Regi&atilde;o.",
 
 
 
-    //"LT_Region_DisplayName_default_hn_group"    : "Região padrão",
+    LT_Region_Tip_Maintenance                   : "O hardware da Regi&atilde;o est&aacute; passando por manutenção.",
+
+
+
+    //"LT_Region_DisplayName_default_hn_group"    : "Regi&atilde;o padrão",
 
     "LT_Region_ShortDescription_default_hn_group": "Este conjunto de hardware é fornecido por padrão.",
 
-    "LT_Region_Description_default_hn_group"    : "<p>Este conjunto de hardware é fornecido por padrão e tem os seguintes parâmetros:</p><ul><li>Domínio: %(domain)</li><li>Capacidade de armazenamento: ilimitado</li></ul><p>Características disponíveis:</p><ul data-type=\"check\"><li>Containers Docker</li><li>Hospedgaem Windows</li></ul>",
+    "LT_Region_Description_default_hn_group"    : "<p>Este conjunto de hardware é fornecido por padrão e tem os seguintes par&acirc;metros:</p><ul><li>Dom&iacute;nio: %(domain)</li><li>Capacidade de armazenamento: ilimitado</li></ul><p>Características dispon&iacute;veis:</p><ul data-type=\"check\"><li>cont&ecirc;ineres Docker</li><li>Hospedgaem Windows</li></ul>",
 
 
 
@@ -4306,7 +4306,7 @@ var GLocal = {
 
     LT_EnvEndpoints_Column_AccessUrl            : "URL de acesso",
 
-    LT_EnvEndpoints_Settings_DetailsTips        : "Aqui você pode adicionar e gerenciar os endpoints, que podem ser usados por outros recursos para a comunicação com os seus containers",
+    LT_EnvEndpoints_Settings_DetailsTips        : "Aqui voc&ecirc; pode adicionar e gerenciar os endpoints, que podem ser usados por outros recursos para a comunica&ccedil;&atilde;o com os seus cont&ecirc;ineres",
 
     LT_EnvEndpoints_AddEndpoint_Error 	        : "Ocorreu um erro ao tentar adicionar o endpoint %(name)",
 
@@ -4318,15 +4318,15 @@ var GLocal = {
 
     LT_EnvEndpoints_EditEndpoint_Error          : "Ocorreu um erro durante a tentativa de editar o endpoint %(name)",
 
-    LT_EnvEndpoints_PortValidationHint          : "Esta porta está ocupada",
+    LT_EnvEndpoints_PortValidationHint          : "Esta porta est&aacute; ocupada",
 
-    LT_EnvEndpoints_NameValidationHint          : "Este nome está ocupado",
+    LT_EnvEndpoints_NameValidationHint          : "Este nome est&aacute; ocupado",
 
     LT_EnvEndpoints_Editor_Title                : "Aicionar Endpoint",
 
     LT_EnvEndpoints_Editor_Title_Edit           : "Editar Endpoint",
 
-    LT_EnvEndpoints_NameNotValid                : "O nome não é válido",
+    LT_EnvEndpoints_NameNotValid                : "O nome n&atilde;o é v&aacute;lido",
 
     LT_Task_Name_80                             : "Adicionando endpoint %(endpoint)",
 
@@ -4336,11 +4336,11 @@ var GLocal = {
 
     LT_EnvEndpoints_NameEmptyText               : "Digite ou selecione o nome...",
 
-    LT_EnvEndpoints_PublicPortEmptyText         : "Será definido automaticamente",
+    LT_EnvEndpoints_PublicPortEmptyText         : "ser&aacute; definido automaticamente",
 
     LT_EnvEndpoints_AccessUrlEmptyText          : "%(url):{public_port}",
 
-    LT_EnvEndpoints_NameDisabledQtipText        : "Você alcançou o valor máximo de portas mapeadas permitido para este nodo",
+    LT_EnvEndpoints_NameDisabledQtipText        : "voc&ecirc; alcançou o valor m&aacute;ximo de portas mapeadas permitido para este nodo",
 
 
 
@@ -4362,39 +4362,39 @@ var GLocal = {
 
 
 
-    LT_ExportEnv_Error_EnvDeleted               : "Os arquivos não podem ser exibidos - o ambiente foi excluído",
+    LT_ExportEnv_Error_EnvDeleted               : "Os arquivos n&atilde;o podem ser exibidos - o ambiente foi excluído",
 
-    LT_Notify_Label_EnvExportRestricted         : "Você não pode exportar o ambiente <b>%(envName)</b>. Por favor contato com o Suporte para obter mais informações.",
+    LT_Notify_Label_EnvExportRestricted         : "voc&ecirc; n&atilde;o pode exportar o ambiente <b>%(envName)</b>. Por favor contato com o Suporte para obter mais informa&ccedil;&otilde;es.",
 
 
 
-    LT_EnvMigration_Confirm_Migration           : "Por favor, confirme que você deseja migrar o ambiente <b>%(envname)</b> para a região <b>%(region)</b>.",
+    LT_EnvMigration_Confirm_Migration           : "Por favor, confirme que voc&ecirc; deseja migrar o ambiente <b>%(envname)</b> para a Regi&atilde;o <b>%(region)</b>.",
 
-    LT_EnvMigration_Field_OnlineMigration       : "Migração ao vivo",
+    LT_EnvMigration_Field_OnlineMigration       : "Migra&ccedil;&atilde;o ao vivo",
 
     LT_EnvMigration_Mark_OnlineMigration        : "LM",
 
-    LT_EnvMigration_Field_OnlineMigration_Tip   : "A migração ao vivo permite mudar os seus projectos sem reiniciar os containers e ajuda a evitar qualquer tempo de inatividade durante esta operação. [link]Mais detalhes... [/link]",
+    LT_EnvMigration_Field_OnlineMigration_Tip   : "A migra&ccedil;&atilde;o ao vivo permite mudar os seus projectos sem reiniciar os cont&ecirc;ineres e ajuda a evitar qualquer tempo de inatividade durante esta opera&ccedil;&atilde;o. [link]Mais detalhes... [/link]",
 
-    LT_EnvMigration_Field_OnlineMigration_NA    : "Não disponível entre as regiões selecionadas",
+    LT_EnvMigration_Field_OnlineMigration_NA    : "n&atilde;o dispon&iacute;vel entre as regiões selecionadas",
 
-    LT_EnvMigration_Warning_EnvDowntime         : "Os recipientes serão reiniciados e o ambiente não estará disponível durante a migração",
+    LT_EnvMigration_Warning_EnvDowntime         : "Os recipientes ser&atilde;o reiniciados e o ambiente n&atilde;o estará dispon&iacute;vel durante a migra&ccedil;&atilde;o",
 
-    LT_EnvMigration_Warning_IpChanged           : "O endereço IP será alterado",
+    LT_EnvMigration_Warning_IpChanged           : "O endere&ccedil;o IP ser&aacute; alterado",
 
 
 
-    LT_EnvMigration_Info_OnlineNotAvailable     : "A migração ao vivo entre as regiões atuais não está disponível.",
+    LT_EnvMigration_Info_OnlineNotAvailable     : "A migra&ccedil;&atilde;o ao vivo entre as regiões atuais n&atilde;o est&aacute; dispon&iacute;vel.",
 
-    LT_EnvMigration_Field_TargetRegion_Pricing  : "<a action=\"pricing\">Preços</a> pode ser diferente na região de destino",
+    LT_EnvMigration_Field_TargetRegion_Pricing  : "<a action=\"pricing\">pre&ccedil;os</a> pode ser diferente na Regi&atilde;o de destino",
 
 
 
     LT_Action_LoadDockerManifest                : "carregar dados de imagem",
 
-    LT_Use_ZDTModule                            : "Habilitar [link-docs]implantação de tempo de inatividade zero[/link-docs]",
+    LT_Use_ZDTModule                            : "Habilitar [link-docs]implanta&ccedil;&atilde;o de tempo de inatividade zero[/link-docs]",
 
-    LT_ExportEnv_Settings_ErrorDetailsTips      : "Este recurso não está disponível para containers baseados em Windows e Docker. Leia esta [link-docs]documentação [/link-docs] para saber mais detalhes sobre a exportação de seus ambientes",
+    LT_ExportEnv_Settings_ErrorDetailsTips      : "Este recurso n&atilde;o est&aacute; dispon&iacute;vel para cont&ecirc;ineres baseados em Windows e Docker. Leia esta [link-docs]documenta&ccedil;&atilde;o [/link-docs] para saber mais detalhes sobre a exporta&ccedil;&atilde;o de seus ambientes",
 
 
 
@@ -4444,7 +4444,7 @@ var GLocal = {
 
     LT_EnvWizard_ChangeDockerTag                : "Alterar tag",
 
-    LT_EnvWizard_Confirm_DockerImgReplace       : "Por favor, confirme que você deseja substituir a imagem <b>%(current)</b>.",
+    LT_EnvWizard_Confirm_DockerImgReplace       : "Por favor, confirme que voc&ecirc; deseja substituir a imagem <b>%(current)</b>.",
 
     LT_EnvWizard_Info_UnusedExtra               : "Por favor, use o bloco adicional inserido anteriormente em primeiro lugar.",
 
@@ -4456,7 +4456,7 @@ var GLocal = {
 
 
 
-    LT_DockerSelector_Title                     : "Selecione Container",
+    LT_DockerSelector_Title                     : "Selecione cont&ecirc;iner",
 
     LT_DockerSelector_Button_Next               : "Próximo",
 
@@ -4466,21 +4466,21 @@ var GLocal = {
 
     LT_DockerSettings_Item_Volumes              : "Volumes",
 
-    LT_DockerSettings_Item_RunArgs              : "Executar Configuração",
+    LT_DockerSettings_Item_RunArgs              : "Executar Configura&ccedil;&atilde;o",
 
     LT_DockerSettings_Field_EntryPoint          : "Ponto de entrada",
 
     LT_DockerSettings_Field_RunArgs             : "Comando de execução",
 
-    LT_DockerSettings_Field_EmptyText           : "(não definido por padrão)",
+    LT_DockerSettings_Field_EmptyText           : "(n&atilde;o definido por padrão)",
 
     LT_DockerSettings_Tip_ResetToDefault        : "Restaurar ao padrão",
 
-    LT_DockerSettings_Vols_HelpTip              : "Leia a [link]documentação[/link] para descobrir mais detalhes sobre o volume de container Docker.",
+    LT_DockerSettings_Vols_HelpTip              : "Leia a [link]documenta&ccedil;&atilde;o[/link] para descobrir mais detalhes sobre o volume de cont&ecirc;iner Docker.",
 
-    LT_DockerSettings_Vols_W_Empty              : "Não há volumes de dados predefinidos ligados.",
+    LT_DockerSettings_Vols_W_Empty              : "n&atilde;o há volumes de dados predefinidos ligados.",
 
-    LT_DockerSettings_RunArgs_HelpTip           : "Leia a [link]documentação[/link] para saber mais detalhes sobre opções de execução de container Docker.",
+    LT_DockerSettings_RunArgs_HelpTip           : "Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes sobre opções de execução de cont&ecirc;iner Docker.",
 
 
 
@@ -4500,15 +4500,15 @@ var GLocal = {
 
     LT_DockersPanel_Search_Label_Hub            : "Docker Hub",
 
-    LT_DockersPanel_Search_HelpTip              : "<p>Use as guias abaixo para saber como gerenciar containers Docker em Jelastic: </p> <ul><li>[link-manage]adicionar container[/link-manage]ao ambiente </li><li>conjunto básico [link-config]configurações[/link-config]</li><li>[link-ssh]acessar container[/link-ssh] via SSH</li><li>[link-redeploy]atualizar o imagem implantada[/link-redeploy]com outra tag</li></ul>",
+    LT_DockersPanel_Search_HelpTip              : "<p>Use as guias abaixo para saber como gerenciar cont&ecirc;ineres Docker em Jelastic: </p> <ul><li>[link-manage]adicionar cont&ecirc;iner[/link-manage]ao ambiente </li><li>conjunto básico [link-config]configura&ccedil;&otilde;es[/link-config]</li><li>[link-ssh]acessar cont&ecirc;iner[/link-ssh] via SSH</li><li>[link-redeploy]atualizar o imagem implantada[/link-redeploy]com outra tag</li></ul>",
 
-    LT_DockersPanel_Custom_HelpTip              : "Aqui você pode armazenar suas imagens personalizadas do Docker, colocadas em um registro privado ou Registry Hub, para ser facilmente acessado. [link]Mais detalhes[/link]",
+    LT_DockersPanel_Custom_HelpTip              : "Aqui voc&ecirc; pode armazenar suas imagens personalizadas do Docker, colocadas em um registro privado ou Registry Hub, para ser facilmente acessado. [link]Mais detalhes[/link]",
 
-    LT_DockerSettings_Ports_HelpTip             : "Graças à tecnologia de virtualização baseada em container avançado, alavancado pelo Jelastic, você não precisa expor as portas em containers Docker - a porta necessária pode ser ligada diretamente para o endereço IP interno ou externo com que o container foi provisionado.<br><br>Você pode mapear a porta necessária via [link-endpoints]endpoint[/link-endpoints] (por ser acessível através LB Shared) ou anexar [link-docs-pubip]IP externo[/link-docs-pubip] dirigirá ao container apropriado. Então, dependendo do caminho escolhido, basta ligar o seu serviço (app ouvinte) para o endereço interno ou externo recebido.<br><br> Leia a [link-docs]documentação[/link-docs] para descobrir mais detalhes sobre o gerenciamento portas de container Docker.",
+    LT_DockerSettings_Ports_HelpTip             : "Graças à tecnologia de virtualiza&ccedil;&atilde;o baseada em cont&ecirc;iner avançado, alavancado pelo Jelastic, voc&ecirc; n&atilde;o precisa expor as portas em cont&ecirc;ineres Docker - a porta necessária pode ser ligada diretamente para o endere&ccedil;o IP interno ou externo com que o cont&ecirc;iner foi provisionado.<br><br>voc&ecirc; pode mapear a porta necessária via [link-endpoints]endpoint[/link-endpoints] (por ser acessível através LB Shared) ou anexar [link-docs-pubip]IP externo[/link-docs-pubip] dirigir&aacute; ao cont&ecirc;iner apropriado. Ent&atilde;o, dependendo do caminho escolhido, basta ligar o seu servi&ccedil;o (app ouvinte) para o endere&ccedil;o interno ou externo recebido.<br><br> Leia a [link-docs]documenta&ccedil;&atilde;o[/link-docs] para descobrir mais detalhes sobre o gerenciamento portas de cont&ecirc;iner Docker.",
 
 
 
-    LT_AppStore_Auth_Label_Name                 : "Nome de usuário",
+    LT_AppStore_Auth_Label_Name                 : "Nome de Usu&aacute;rio",
 
 
 
@@ -4522,9 +4522,9 @@ var GLocal = {
 
 
 
-    LT_Menu_RedeployContainer                   : "Implantar container",
+    LT_Menu_Redeploycont&ecirc;iner                   : "Implantar cont&ecirc;iner",
 
-    LT_Menu_RedeployContainers                  : "Implantar containers",
+    LT_Menu_Redeploycont&ecirc;ineres                  : "Implantar cont&ecirc;ineres",
 
 
 
@@ -4532,27 +4532,27 @@ var GLocal = {
 
 
 
-    LT_RedeployContainer_Title                  : "Reimplantar containers %(nodeName)",
+    LT_Redeploycont&ecirc;iner_Title                  : "Reimplantar cont&ecirc;ineres %(nodeName)",
 
-    LT_RedeployContainer_Column_Node            : "Nodo",
+    LT_Redeploycont&ecirc;iner_Column_Node            : "Nodo",
 
-    LT_RedeployContainer_Column_Tag             : "Tag",
+    LT_Redeploycont&ecirc;iner_Column_Tag             : "Tag",
 
-    LT_RedeployContainer_Field_DeployType       : "Implantação seqüencial",
+    LT_Redeploycont&ecirc;iner_Field_DeployType       : "implanta&ccedil;&atilde;o seqüencial",
 
-    LT_RedeployContainer_Field_DeployType_Tip   : "Se ativado, os containers serão implantados um a um, garantindo a disponibilidade do serviço. Caso contrário, todas elas serão atualizadas simultaneamente, fazendo com que ocorrerá inatividade temporária.",
+    LT_Redeploycont&ecirc;iner_Field_DeployType_Tip   : "Se ativado, os cont&ecirc;ineres ser&atilde;o implantados um a um, garantindo a disponibilidade do servi&ccedil;o. Caso contrário, todas elas ser&atilde;o atualizadas simultaneamente, fazendo com que ocorrerá inatividade temporária.",
 
-    LT_RedeployContainer_Button_Submit          : "Reimplantar",
+    LT_Redeploycont&ecirc;iner_Button_Submit          : "Reimplantar",
 
-    LT_RedeployContainer_HelpTip                : "A persistente dentro de volumes de dados é salva e permanece disponível após a reimplantação. [link]Saiba mais[/link]",
+    LT_Redeploycont&ecirc;iner_HelpTip                : "A persistente dentro de volumes de dados é salva e permanece dispon&iacute;vel Ap&oacute;s a reimplanta&ccedil;&atilde;o. [link]Saiba mais[/link]",
 
-    LT_RedeployContainer_Confirm_Redeploy       : "Por favor, confirme que você deseja implementar o(s) container(s) <b>%(nodeName)</b> para a tag <b>%(tag)</b>.",
+    LT_Redeploycont&ecirc;iner_Confirm_Redeploy       : "Por favor, confirme que voc&ecirc; deseja implementar o(s) cont&ecirc;iner(s) <b>%(nodeName)</b> para a tag <b>%(tag)</b>.",
 
-    LT_RedeployContainer_Info_Success           : "Containers no ambiente <b>%(envName)</b> foram implantados com sucesso para tag <b>%(tag)</b>.",
+    LT_Redeploycont&ecirc;iner_Info_Success           : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram implantados com sucesso para tag <b>%(tag)</b>.",
 
-    LT_RedeployContainer_Error_Failed           : "Ocorreu um erro durante a tentativa de implantar containers no ambiente <b>%(envName)</b> para a tag <b>%(tag)</b>.",
+    LT_Redeploycont&ecirc;iner_Error_Failed           : "Ocorreu um erro durante a tentativa de implantar cont&ecirc;ineres no ambiente <b>%(envName)</b> para a tag <b>%(tag)</b>.",
 
-    LT_RedeployContainer_Logs_Title             : "%(sAppName) : reimplantar",
+    LT_Redeploycont&ecirc;iner_Logs_Title             : "%(sAppName) : reimplantar",
 
 
 
@@ -4562,13 +4562,13 @@ var GLocal = {
 
     LT_Task_Name_94                             : "Implantando o nodo %(name) e ID %(nodeid) de %(env) a tag %(tag)",
 
-    LT_Task_Name_95                             : "A implantação de containers %(name) de %(env) para a tag %(tag)",
+    LT_Task_Name_95                             : "A implanta&ccedil;&atilde;o de cont&ecirc;ineres %(name) de %(env) para a tag %(tag)",
 
     LT_Task_Name_96	                            : "Ligando os nodos de %(targetnodename) e ID %(targetnodeid) e %(sourcenodename) e ID %(sourcenodeid) com o alias %(alias) em %(env)",
 
     LT_Task_Name_97	                            : "Desligando os nodos de %(targetnodename) e ID %(targetnodeid) e %(sourcenodename) e ID %(sourcenodeid) com o alias %(alias) em %(env)",
 
-    LT_Task_Name_98	                            : "Definir variáveis para o nodo %(name) de ID %(nodeid) em %(env)",
+    LT_Task_Name_98	                            : "Definir vari&aacute;veis para o nodo %(name) de ID %(nodeid) em %(env)",
 
     LT_Task_Name_99	                            : "Definir comando de partida para o nodo %(name) de ID %(nodeid) em %(env)",
 
@@ -4584,23 +4584,23 @@ var GLocal = {
 
 
 
-    LT_Error_AddVCSProject_InvalidPath          : "URL do projeto inválido. Por favor verifique a URL e tente novamente",
+    LT_Error_AddVCSProject_InvalidPath          : "URL do projeto inv&aacute;lido. Por favor verifique a URL e tente novamente",
 
-    LT_AppStoreCat_ManagementAndMonitoring      : "Administração e Monitoramento",
+    LT_AppStoreCat_ManagementAndMonitoring      : "Administra&ccedil;&atilde;o e Monitoramento",
 
 
 
     LT_Common_Text_Reinstall                    : "Reinstalar",
 
-    LT_Addon_Confirm_Reinstall                  : "O add-on será reinstalado, continuar?",
+    LT_Addon_Confirm_Reinstall                  : "O add-on ser&aacute; reinstalado, continuar?",
 
-    LT_Addon_Env_Install_Not_Allowed            : "O ambiente selecionado não tem nodos adequados para a instalação add-on",
+    LT_Addon_Env_Install_Not_Allowed            : "O ambiente selecionado n&atilde;o tem nodos adequados para a instala&ccedil;&atilde;o add-on",
 
-    LT_Addon_Disabled_Node_Qtip                 : "A instalação do Add-on não é permitida para este nodo",
+    LT_Addon_Disabled_Node_Qtip                 : "A instala&ccedil;&atilde;o do Add-on n&atilde;o é permitida para este nodo",
 
     LT_Addon_EnvNodes_Name_Field                : "Nodos",
 
-    LT_Addon_Disabled_Env_Qtip                  : "A instalação do Add-on não é permitida para este ambiente",
+    LT_Addon_Disabled_Env_Qtip                  : "A instala&ccedil;&atilde;o do Add-on n&atilde;o é permitida para este ambiente",
 
 
 
@@ -4616,13 +4616,13 @@ var GLocal = {
 
     LT_ManifestImp_TabFile                      : "Arquivo local",
 
-    LT_ManifestImp_ManifestDesc                 : "Carregar arquivos .json com descrição do ambiente de cloud necessária e detalhes sobre sua topologia, configurações e aplicativos a serem implantados aqui",
+    LT_ManifestImp_ManifestDesc                 : "Carregar arquivos .json com descrição do ambiente de cloud necessária e detalhes sobre sua topologia, configura&ccedil;&otilde;es e aplicativos a serem implantados aqui",
 
-    LT_ManifestImp_MoreInfo                     : "Mais informações em <a target='_blank' href='%(href)'>%(href)</a>",
+    LT_ManifestImp_MoreInfo                     : "Mais informa&ccedil;&otilde;es em <a target='_blank' href='%(href)'>%(href)</a>",
 
 
 
-    LT_Process_Label_CheckAuthentication        : "Autenticação...",
+    LT_Process_Label_CheckAuthentication        : "Autentica&ccedil;&atilde;o...",
 
     LT_Process_Label_ConnectingToCloud          : "Conectando com o cloud...",
 
@@ -4632,7 +4632,7 @@ var GLocal = {
 
     LT_AppStoreCat_Addons                       : "Add-ons",
 
-    LT_AppStoreCat_Dockers                      : "Containers",
+    LT_AppStoreCat_Dockers                      : "cont&ecirc;ineres",
 
     LT_AppStore_SearchField_AddonEmptyTx        : "Digite o nome do add-on",
 
@@ -4648,7 +4648,7 @@ var GLocal = {
 
     LT_DockerSettings_Vols_LockedFiles_Title    : "%(name) : arquivos bloqueados",
 
-    LT_DockerSettings_Vols_W_PathRestricted     : "Adicionando volume com tal caminho não é permitido!",
+    LT_DockerSettings_Vols_W_PathRestricted     : "Adicionando volume com tal caminho n&atilde;o é permitido!",
 
 
 
@@ -4660,7 +4660,7 @@ var GLocal = {
 
     LT_EnvSettings_Item_History                 : "Histórico de Eventos",
 
-    LT_Log_Archive_CannotBeRead                 : "O arquivo não pode ser visualizado. Para ver o seu conteúdo, por favor, conecte-se a seu container via SSH e baixe este arquivo.",
+    LT_Log_Archive_CannotBeRead                 : "O arquivo n&atilde;o pode ser visualizado. Para ver o seu conte&uacute;do, por favor, conecte-se a seu cont&ecirc;iner via SSH e baixe este arquivo.",
 
 
 
@@ -4672,15 +4672,15 @@ var GLocal = {
 
 
 
-    LT_Notify_FileRenameNotPermitted            : "O item não tem permissão para ser renomeado",
+    LT_Notify_FileRenameNotPermitted            : "O item n&atilde;o tem permiss&atilde;o para ser renomeado",
 
-    LT_Notify_ContainerIsNotRunning             : "O comando não pode ser executado. O container não está em execução",
+    LT_Notify_cont&ecirc;inerIsNotRunning             : "O comando n&atilde;o pode ser executado. O cont&ecirc;iner n&atilde;o est&aacute; em execução",
 
-    LT_Notify_FileDeleteNotPermitted            : "O item não tem permissão para ser apagado",
+    LT_Notify_FileDeleteNotPermitted            : "O item n&atilde;o tem permiss&atilde;o para ser apagado",
 
 
 
-    LT_Notify_CommandCantBeExecuted             : "A operação não pode ser realizada. Provavelmente, um dos diretórios do sistema foi excluído ou renomeado. Entre em contato com o suporte para a assistência.",
+    LT_Notify_CommandCantBeExecuted             : "A opera&ccedil;&atilde;o n&atilde;o pode ser realizada. Provavelmente, um dos diret&oacute;rios do sistema foi excluído ou renomeado. Entre em contato com o suporte para a assistência.",
 
 
 
@@ -4698,7 +4698,7 @@ var GLocal = {
 
     LT_AppStoreCat_Clusters                     : "Clusters",
 
-    LT_AppStoreCat_ContentManagement            : "Gerenciamento de conteúdo",
+    LT_AppStoreCat_ContentManagement            : "Gerenciamento de conte&uacute;do",
 
     LT_AppStoreCat_SalesMarketing               : "Vendas e Marketing",
 
@@ -4724,7 +4724,7 @@ var GLocal = {
 
     LT_TutorSlider_Text_Welcome                 : "Bem vindo ao PaaS %(logo)",
 
-    LT_TutorSlider_Text_PrAdvantages            : "Preço de Vantagem do Jelastic Public Cloud",
+    LT_TutorSlider_Text_PrAdvantages            : "pre&ccedil;o de Vantagem do Jelastic Public Cloud",
 
     LT_TutorSlider_Text_OtherVendors            : "Outros fornecedores de Cloud",
 
@@ -4738,11 +4738,11 @@ var GLocal = {
 
 
 
-    LT_TutorSlider_Text_Containers              : "CONTAINERS",
+    LT_TutorSlider_Text_cont&ecirc;ineres              : "cont&ecirc;ineres",
 
     LT_TutorSlider_Text_LB                      : "Balanceador de carga",
 
-    LT_TutorSlider_Text_CP                      : "Servidor de aplicação",
+    LT_TutorSlider_Text_CP                      : "Servidor de Aplica&ccedil;&atilde;o",
 
     LT_TutorSlider_Text_DB                      : "Servidor de banco de dados",
 
@@ -4750,7 +4750,7 @@ var GLocal = {
 
     LT_TutorSlider_Ballons_Limited              : "Limite de escalonamento",
 
-    LT_TutorSlider_Label_UpTo                   : "até ",
+    LT_TutorSlider_Label_UpTo                   : "at&eacute; ",
 
     LT_TutorSlider_Label_Cloudlets	   	        : "cloudlet(s)",
 
@@ -4760,7 +4760,7 @@ var GLocal = {
 
     LT_TutorSlider_Hour          	   	        : "hora",
 
-    LT_TutorSlider_Descr_Other    	   	        : "Em outros Clouds você sempre pagará por limite de escalonamento",
+    LT_TutorSlider_Descr_Other    	   	        : "Em outros Clouds voc&ecirc; sempre pagará por limite de escalonamento",
 
     LT_TutorSlider_Cloudlet    	   	            : "cloudlet",
 
@@ -4780,7 +4780,7 @@ var GLocal = {
 
     LT_TutorSlider_Feature_LANGS 	   	        : "Plataforma multilingue com suporte Docker",
 
-    LT_TutorSlider_Feature_SCALING 	   	        : "Escala horizontal e vertical automáticas",
+    LT_TutorSlider_Feature_SCALING 	   	        : "Escala horizontal e vertical Autom&aacute;ticas",
 
     LT_TutorSlider_Feature_BALANCER 	   	    : "Alta disponibilidade e balanceamento de carga",
 
@@ -4790,9 +4790,9 @@ var GLocal = {
 
     LT_TutorSlider_Feature_CLOUD 	   	        : "Cloud híbrido dentro de vários data centers",
 
-    LT_TutorSlider_Feature_CICD 	   	        : "Integração e entrega contínuas",
+    LT_TutorSlider_Feature_CICD 	   	        : "Integra&ccedil;&atilde;o e entrega contínuas",
 
-    LT_TutorSlider_Feature_MARKETPLACE 	   	    : "Marketplace com aplicações e add-ons",
+    LT_TutorSlider_Feature_MARKETPLACE 	   	    : "Marketplace com aplica&ccedil;&otilde;es e add-ons",
 
 
 
@@ -4804,19 +4804,19 @@ var GLocal = {
 
 
 
-    LT_Balloons_Wizard_Text                     : "Selecione as pilhas necessárias e clique em <b>Criar</b> ambiente.",
+    LT_Balloons_Wizard_Text                     : "Selecione as pilhas necess&aacute;rias e clique em <b>Criar</b> ambiente.",
 
-    LT_Balloons_TasksPanel_Text                 : "O ambiente está sendo criado. Veja o progresso no <b>Painel de Tarefas</b>.",
+    LT_Balloons_TasksPanel_Text                 : "O ambiente est&aacute; sendo criado. Veja o progresso no <b>Painel de Tarefas</b>.",
 
-    LT_Balloons_EnvCreated_Text                 : "<b>Parabéns!</b> O seu ambiente está pronto! Agora vamos implantar um aplicativo. Basta clicar em <b>Implantar</b> e selecione seu ambiente dentro da lista drop-down.",
+    LT_Balloons_EnvCreated_Text                 : "<b>Parabéns!</b> O seu ambiente est&aacute; pronto! Agora vamos implantar um aplicativo. Basta clicar em <b>Implantar</b> e selecione seu ambiente dentro da lista drop-down.",
 
     LT_Balloons_DeployDialog_Text               : "Clique em <b>Implantar</b> para lançar o seu aplicativo.",
 
-    LT_Balloons_Deploying_Text                  : "A implantação será concluída em poucos segundos.",
+    LT_Balloons_Deploying_Text                  : "A implanta&ccedil;&atilde;o ser&aacute; concluída em poucos segundos.",
 
 
 
-    LT_EnvWizard_Pricing_MaxLimit_Descr         : "O custo máximo possível para o período escolhido (ou seja, se todos os nodos no ambiente consumir todos os recursos, alocados para cada servidor via limite de escala).",
+    LT_EnvWizard_Pricing_MaxLimit_Descr         : "O custo m&aacute;ximo poss&iacute;vel para o Per&iacute;odo escolhido (ou seja, se todos os nodos no ambiente consumir todos os recursos, alocados para cada servidor via limite de escala).",
 
 
 
@@ -4856,7 +4856,7 @@ var GLocal = {
 
 
 
-    LT_EnvScaling_Tip_DiskIOPS                  : "Taxa de entrada/saída de Disco (em operações por segundo)",
+    LT_EnvScaling_Tip_DiskIOPS                  : "Taxa de entrada/saída de Disco (em opera&ccedil;&otilde;es por segundo)",
 
     LT_EnvScaling_Tip_DiskIO                    : "Taxa de entrada/saída de disco (em bytes)",
 
@@ -4866,7 +4866,7 @@ var GLocal = {
 
     LT_EnvScaling_Tip_RAM                       : "Uso de RAM(em bytes)",
 
-    LT_EnvScaling_Label_Operations              : "Operações",
+    LT_EnvScaling_Label_Operations              : "opera&ccedil;&otilde;es",
 
     LT_EnvScaling_Label_Bytes                   : "Bytes",
 
@@ -4882,7 +4882,7 @@ var GLocal = {
 
     LT_Task_Name_104	                        : "Adicionando gatilho para %(env)",
 
-    LT_Task_Name_105	                        : "Editando configurações de gatilhos em %(env)",
+    LT_Task_Name_105	                        : "Editando configura&ccedil;&otilde;es de gatilhos em %(env)",
 
     LT_Task_Name_106	                        : "Alterar o estado de gatilhos em %(env)" ,
 
@@ -4890,95 +4890,95 @@ var GLocal = {
 
 
 
-    LT_EnvAlerts_Label_Notification_Frequency   : "Frequência de notificação",
+    LT_EnvAlerts_Label_Notification_Frequency   : "Frequência de notifica&ccedil;&atilde;o",
 
     LT_EnvAlerts_Hours                          : "hora(s)",
 
 
 
-    LT_EnvWizard_Warning_UpgradeAccount         : "Você atingiu os limites padrões. Entre em contato conosco para aumentar os limites.",
+    LT_EnvWizard_Warning_UpgradeAccount         : "voc&ecirc; atingiu os limites padrões. Entre em contato conosco para aumentar os limites.",
 
-    LT_EnvWizard_Warning_HA_Off                 : "O recurso de alta disponibilidade será desativado, pois requer um nodo balanceador de carga NGINX, para ser adicionado ao seu ambiente para que funcione corretamente.",
+    LT_EnvWizard_Warning_HA_Off                 : "O recurso de alta disponibilidade ser&aacute; desativado, pois requer um nodo balanceador de carga NGINX, para ser adicionado ao seu ambiente para que funcione corretamente.",
 
     LT_EnvWizard_Warning_OwnerLimits            : "O proprietário atingiu os limites de conta padrão.",
 
     LT_EnvWizard_Warning_Cloudlets              : "A quantidade mínima de cloudlets recomendada para <b>%(node)</b> é <b><i>%(count)</i></b>.",
 
-    LT_EnvWizard_Warning_HA_Usage               : "Você precisa ter um nodo NGINX balanceador de carga adicionado ao seu ambiente, para que o recurso de cluster de alta disponibilidade trabalhe corretamente",
+    LT_EnvWizard_Warning_HA_Usage               : "voc&ecirc; precisa ter um nodo NGINX balanceador de carga adicionado ao seu ambiente, para que o recurso de cluster de alta disponibilidade trabalhe corretamente",
 
-    LT_EnvWizard_Warning_FTP_Off                : "Você precisa de IP público para acessar o nodo via FTP. <a action='ftp_off'>Leia mais</a>",
+    LT_EnvWizard_Warning_FTP_Off                : "voc&ecirc; precisa de IP p&uacute;blico para acessar o nodo via FTP. <a action='ftp_off'>Leia mais</a>",
 
-    LT_EnvWizard_Warning_On_ExternalIP_Off      : "SSL personalizado ficará indisponível. <a action='custom_ssl_off'>Leia mais</a>.",
+    LT_EnvWizard_Warning_On_ExternalIP_Off      : "SSL personalizado ficará indispon&iacute;vel. <a action='custom_ssl_off'>Leia mais</a>.",
 
-    LT_EnvWizard_Warning_CreateOff              : "Você não tem permissão para criar mais ambientes devido às suas restrições de conta. Por favor, entre em contato conosco para alterar os limites de sua conta.",
+    LT_EnvWizard_Warning_CreateOff              : "voc&ecirc; n&atilde;o tem permiss&atilde;o para criar mais ambientes devido às suas Restri&ccedil;&otilde;es de conta. Por favor, entre em contato conosco para alterar os limites de sua conta.",
 
-    LT_EnvWizard_Warning_MaxResources           : "Você alcançou o limite de recursos para a sua conta. Por favor, entre em contato conosco para solicitar recursos adicionais.",
+    LT_EnvWizard_Warning_MaxResources           : "voc&ecirc; alcançou o limite de recursos para a sua conta. Por favor, entre em contato conosco para solicitar recursos adicionais.",
 
     LT_EnvWizard_Warning_MinBalance             : "O saldo da conta Jelastic ficou sem valores. Por favor, recarregue sua conta para criar um ambiente.",
 
-    LT_EnvWizard_Warning_MaxEnvsCount           : "Você atingiu o número máximo de ambientes permitidos, definidos por padrão. Por favor, entre em contato conosco para aumentar os limites de sua conta.",
+    LT_EnvWizard_Warning_MaxEnvsCount           : "voc&ecirc; atingiu o n&uacute;mero m&aacute;ximo de ambientes permitidos, definidos por padrão. Por favor, entre em contato conosco para aumentar os limites de sua conta.",
 
 
 
     LT_EnvWizard_W_HA_SingleBalancer            : "O seu ambiente deve conter um único nodo balanceador para o cluster de alta disponibilidade para trabalhar corretamente.",
 
-    LT_EnvWizard_W_NodeNotValid                 : "<b>%(node)</b> não pode ser criado. Por favor tente novamente ou contacte-nos se esta falha continuar.",
+    LT_EnvWizard_W_NodeNotValid                 : "<b>%(node)</b> n&atilde;o pode ser criado. Por favor tente novamente ou contacte-nos se esta falha continuar.",
 
-    LT_EnvWizard_W_TariffMinCld                 : "De acordo com o seu plano tarifário, o tamanho mínimo do servidor deve ser %(count) cloudlet(s).",
+    LT_EnvWizard_W_TariffMinCld                 : "De acordo com o seu plano tarifário, o tamanho m&iacute;nimo do servidor deve ser %(count) cloudlet(s).",
 
-    LT_EnvWizard_Warning_Demo_LockedCompute     : "Para o propósito desta demonstração, nós adicionamos uma instância de servidor de aplicativo para o seu ambiente.",
+    LT_EnvWizard_Warning_Demo_LockedCompute     : "Para o propósito desta demonstra&ccedil;&atilde;o, N&oacute;s adicionamos uma inst&acirc;ncia de servidor de aplicativo para o seu ambiente.",
 
-    LT_Menu_CloneEnvironment_Disabled           : "Você atingiu o número máximo de ambientes permitidos. Por favor, entre em contato conosco para aumentar os limites de sua conta.",
+    LT_Menu_CloneEnvironment_Disabled           : "voc&ecirc; atingiu o n&uacute;mero m&aacute;ximo de ambientes permitidos. Por favor, entre em contato conosco para aumentar os limites de sua conta.",
 
-    LT_EnvWizard_Warning_EditOff                : "A configuração do ambiente pedida excede seus limites de conta. Por favor, entre em contato conosco se você gostaria de aumentar os limites de sua conta.",
+    LT_EnvWizard_Warning_EditOff                : "A Configura&ccedil;&atilde;o do ambiente pedida excede seus limites de conta. Por favor, entre em contato conosco se voc&ecirc; gostaria de aumentar os limites de sua conta.",
 
-    LT_EnvWizard_Warning_CustomSSL_Off          : "SSL personalizado ficarão indisponíveis.",
+    LT_EnvWizard_Warning_CustomSSL_Off          : "SSL personalizado ficarão indispon&iacute;veis.",
 
-    LT_EnvWizard_Hint_HA                        : "O número máximo de instâncias é igual a %(nTotal) (%(nGroupsCount)x2HA).",
+    LT_EnvWizard_Hint_HA                        : "O n&uacute;mero m&aacute;ximo de inst&acirc;ncias é igual a %(nTotal) (%(nGroupsCount)x2HA).",
 
 
 
-    LT_EnvWizard_Warning_MaxResources_Trial     : "A configuração pedida excede os limites de conta de teste. Por favor, atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_Warning_MaxResources_Trial     : "A Configura&ccedil;&atilde;o pedida excede os limites de conta de teste. Por favor, atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
     LT_EnvWizard_Warning_MinBalance_Trial       : "O saldo da sua conta de teste foi esgotado. Por favor, atualize agora para adicionar fundos para a conta e continuar a utilizar Jelastic.",
 
-    LT_EnvWizard_Warning_MaxEnvsCount_Trial     : "Você atingiu o número máximo permitido de ambientes para a conta de teste. Por favor, atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_Warning_MaxEnvsCount_Trial     : "voc&ecirc; atingiu o n&uacute;mero m&aacute;ximo permitido de ambientes para a conta de teste. Por favor, atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_Warning_UpgradeAccount_Trial   : "A configuração pedida excede os limites de conta teste. Por favor, atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_Warning_UpgradeAccount_Trial   : "A Configura&ccedil;&atilde;o pedida excede os limites de conta teste. Por favor, atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_MaxCloudlets_Trial           : "O tamanho do servidor para contas de avaliação é limitado a %(count) cloudlet(s). Atualize agora para aumentar este limite.",
+    LT_EnvWizard_W_MaxCloudlets_Trial           : "O tamanho do servidor para contas de avalia&ccedil;&atilde;o é limitado a %(count) cloudlet(s). Atualize agora para aumentar este limite.",
 
-    LT_EnvWizard_W_ExtIp_Trial                  : "Os endereços IP públicos não estão disponíveis para contas de avaliação. Atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_ExtIp_Trial                  : "Os endere&ccedil;os IP p&uacute;blicos n&atilde;o est&atilde;o dispon&iacute;veis para contas de avalia&ccedil;&atilde;o. Atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_HA_Trial                     : "O agrupamento de alta disponibilidade não está disponível para contas de avaliação. Atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_HA_Trial                     : "O agrupamento de alta disponibilidade n&atilde;o est&aacute; dispon&iacute;vel para contas de avalia&ccedil;&atilde;o. Atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_Enabled_Trial                : "Elastic Virtual Private Servers estão disponíveis apenas para contas pagas. Por favor, atualize agora para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_Enabled_Trial                : "Elastic Virtual Private Servers est&atilde;o dispon&iacute;veis apenas para contas pagas. Por favor, atualize agora para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_MaxEnvNodes_Trial            : "O número total de instâncias dos servidores é limitado a %(count) para ambientes de teste. Atualize agora para remover esta limitação.",
+    LT_EnvWizard_W_MaxEnvNodes_Trial            : "O n&uacute;mero total de inst&acirc;ncias dos servidores é limitado a %(count) para ambientes de teste. Atualize agora para remover esta limita&ccedil;&atilde;o.",
 
-    LT_EnvWizard_W_MaxSameNodes_Trial           : "O número de nodos dentro de uma camada ambiente individual é limitado a %(count) para ambientes de teste. Atualize agora para remover esta limitação.",
+    LT_EnvWizard_W_MaxSameNodes_Trial           : "O n&uacute;mero de nodos dentro de uma camada ambiente individual é limitado a %(count) para ambientes de teste. Atualize agora para remover esta limita&ccedil;&atilde;o.",
 
 
 
-    LT_EnvWizard_W_MaxResources_TrialRegistered : "A configuração pedida excede os limites de conta teste. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_MaxResources_TrialRegistered : "A Configura&ccedil;&atilde;o pedida excede os limites de conta teste. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_MaxEnvsCount_TrialRegistered : "Você atingiu o número máximo permitido de ambientes para a sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_MaxEnvsCount_TrialRegistered : "voc&ecirc; atingiu o n&uacute;mero m&aacute;ximo permitido de ambientes para a sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_MaxCloudlets_TrialRegistered : "tamanho do servidor é limitada a %(count) cloudlet(s). Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_MaxCloudlets_TrialRegistered : "tamanho do servidor é limitada a %(count) cloudlet(s). Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_Enabled_TrialRegistered      : "Elastic Virtual Private Servers não estão disponíveis para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_Enabled_TrialRegistered      : "Elastic Virtual Private Servers n&atilde;o est&atilde;o dispon&iacute;veis para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_FillAcc_TrialRegistered      : "A configuração pedida excede os limites de conta teste. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_FillAcc_TrialRegistered      : "A Configura&ccedil;&atilde;o pedida excede os limites de conta teste. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_HA_TrialRegistered           : "O agrupamento de alta disponibilidade não está disponível para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_HA_TrialRegistered           : "O agrupamento de alta disponibilidade n&atilde;o est&aacute; dispon&iacute;vel para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
-    LT_EnvWizard_W_ExtIp_TrialRegistered        : "Os endereços de IP públicos não estão disponíveis para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limitação</a>.",
+    LT_EnvWizard_W_ExtIp_TrialRegistered        : "Os endere&ccedil;os de IP p&uacute;blicos n&atilde;o est&atilde;o dispon&iacute;veis para sua conta. Por favor, preencha seu saldo para remover esta <a action='limits'>limita&ccedil;&atilde;o</a>.",
 
     LT_EnvWizard_W_MinBalance_TrialRegistered   : "O saldo da conta foi esgotado. Por favor, preencha seu saldo para continuar usando Jelastic.",
 
-    LT_EnvWizard_W_MaxEnvNodes_TrialRegistered  : "O número total de servidores instâncias por ambiente é limitada a %(count) para a sua conta. Por favor, preencha seu saldo para remover esta limitação.",
+    LT_EnvWizard_W_MaxEnvNodes_TrialRegistered  : "O n&uacute;mero total de servidores inst&acirc;ncias por ambiente é limitada a %(count) para a sua conta. Por favor, preencha seu saldo para remover esta limita&ccedil;&atilde;o.",
 
-    LT_EnvWizard_W_MaxSameNodes_TrialRegistered : "O número de nodos dentro de uma camada ambiente é limitada a %(count) para a sua conta. Por favor, preencha seu saldo para remover esta limitação.",
+    LT_EnvWizard_W_MaxSameNodes_TrialRegistered : "O n&uacute;mero de nodos dentro de uma camada ambiente é limitada a %(count) para a sua conta. Por favor, preencha seu saldo para remover esta limita&ccedil;&atilde;o.",
 
 
 
@@ -4994,21 +4994,21 @@ var GLocal = {
 
 
 
-    LT_E_Platform_4095                          : "A autorização falhou ao tentar obter dados de imagem <b>%(image)</b> do registro. Por favor, verifique os dados especificados e tente novamente.",
+    LT_E_Platform_4095                          : "A autoriza&ccedil;&atilde;o falhou ao tentar obter dados de imagem <b>%(image)</b> do registro. Por favor, verifique os dados especificados e tente novamente.",
 
-    LT_E_Platform_4098                          : "A imagem <b>%(image)</b> não pode ser obtida devido a problemas técnicos temporários. Por favor, tente novamente mais tarde ou entre em contato com o suporte.",
-
-
-
-    LT_AppStore_Field_Tag_W_TagNotExist         : "O tag <b>%(tag)</b> não existe. Por favor, selecione outra tag.",
+    LT_E_Platform_4098                          : "A imagem <b>%(image)</b> n&atilde;o pode ser obtida devido a problemas técnicos temporários. Por favor, tente novamente mais tarde ou entre em contato com o suporte.",
 
 
 
-    LT_Task_Name_108	                        : "Iniciando %(name) no container ID %(nodeid) de %(env)",
+    LT_AppStore_Field_Tag_W_TagNotExist         : "O tag <b>%(tag)</b> n&atilde;o existe. Por favor, selecione outra tag.",
 
 
 
-    LT_W_DockerImagesNotFound                   : "Não existem imagens no repositório %(repository). Por favor verifique suas entradas.",
+    LT_Task_Name_108	                        : "Iniciando %(name) no cont&ecirc;iner ID %(nodeid) de %(env)",
+
+
+
+    LT_W_DockerImagesNotFound                   : "n&atilde;o existem imagens no repositório %(repository). Por favor verifique suas entradas.",
 
 
 
@@ -5018,7 +5018,7 @@ var GLocal = {
 
     LT_EnvAlerts_Label_Type_Cloudlets           : "Cloudlets",
 
-    LT_EnvAlerts_Label_Type_Memory              : "Memória",
+    LT_EnvAlerts_Label_Type_Memory              : "mem&oacute;ria",
 
     LT_EnvAlerts_Label_Type_CPU                 : "CPU",
 
@@ -5026,7 +5026,7 @@ var GLocal = {
 
     LT_EnvAlerts_Label_Type_INodes              : "Inodes",
 
-    
+
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -5070,7 +5070,7 @@ var GLocal = {
 
     LT_EnvironmentWizard_Label_TotalDaily	    : "Custo total por dia",
 
-    LT_SolutionWizard_Error_Cant_Download_File  : "Não é possível baixar o arquivo da URL. Por favor verifique a URL e tente novamente.",
+    LT_SolutionWizard_Error_Cant_Download_File  : "n&atilde;o é poss&iacute;vel baixar o arquivo da URL. Por favor verifique a URL e tente novamente.",
 
 
 
@@ -5080,9 +5080,9 @@ var GLocal = {
 
 
 
-    LT_UserMng_Warning_UserInviteNotAllowed     : "A conta <b>%(email)</b> não pode ser convidado para a colaboração",
+    LT_UserMng_Warning_UserInviteNotAllowed     : "A conta <b>%(email)</b> n&atilde;o pode ser convidado para a colabora&ccedil;&atilde;o",
 
-    LT_EnvTransfer_Error_UserTransferNotAllowed : "A transferência do ambiente <b>%(envName)</b> para a conta <b>%(email)</b> não é permitida.",
+    LT_EnvTransfer_Error_UserTransferNotAllowed : "A transfer&ecirc;ncia do ambiente <b>%(envName)</b> para a conta <b>%(email)</b> n&atilde;o é permitida.",
 
 
 
@@ -5116,11 +5116,11 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Descr_Total    	   	        : "Custo total <span class=\"marked\">100%</span> de carga em <span class=\"marked\">TODOS</span> os containers",
+    LT_EnvWizard_Descr_Total    	   	        : "Custo total <span class=\"marked\">100%</span> de carga em <span class=\"marked\">TODOS</span> os cont&ecirc;ineres",
 
-    LT_EnvWizard_Descr_UsagePay  	   	        : "Você não paga por recursos não utilizados",
+    LT_EnvWizard_Descr_UsagePay  	   	        : "voc&ecirc; n&atilde;o paga por recursos n&atilde;o utilizados",
 
-    LT_EnvWizard_Descr_TotalReserved    	   	: "Você paga o preço fixo para os recursos reservados",
+    LT_EnvWizard_Descr_TotalReserved    	   	: "voc&ecirc; paga o pre&ccedil;o fixo para os recursos reservados",
 
 
 
@@ -5128,19 +5128,19 @@ var GLocal = {
 
     LT_EnvWizard_PriceBalloon_To                : "PARA",
 
-    LT_EnvWizard_PriceBalloon_Fixed             : "PREÇO FIXO",
+    LT_EnvWizard_PriceBalloon_Fixed             : "pre&ccedil;o FIXO",
 
 
 
     LT_EnvWizard_Hint_ReservedCloudlets		    : "<div class='dfn'>Cloudlets Reservados</div>" +
 
-        "<p>Reserve os cloudlets para pagar um preço fixo. Quanto mais você reservar, maior o desconto é!</p>%(illustration)",
+        "<p>Reserve os cloudlets para pagar um pre&ccedil;o fixo. Quanto mais voc&ecirc; reservar, maior o desconto é!</p>%(illustration)",
 
 
 
     LT_EnvWizard_Hint_DynamicCloudlets		    : "<div class='dfn'>Limite de escalonamento</div>" +
 
-        "<p>Definir a quantidade máxima de recursos para a escala vertical automática com base em mudanças de carga</p>%(illustration)",
+        "<p>Definir a quantidade máxima de recursos para a escala vertical Autom&aacute;tica com base em mudanças de carga</p>%(illustration)",
 
 
 
@@ -5152,7 +5152,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Price_Quotas                   : "Quotas e Preços",
+    LT_EnvWizard_Price_Quotas                   : "Quotas e pre&ccedil;os",
 
 
 
@@ -5166,13 +5166,13 @@ var GLocal = {
 
     LT_DetailsHint_Label_FreeResPrice           : "LIVRE",
 
-    LT_EnvWizard_Pricing_PricingDocs            : "Como Funcionam os Preços",
+    LT_EnvWizard_Pricing_PricingDocs            : "Como Funcionam os pre&ccedil;os",
 
     LT_EnvWizard_Pricing_DisabledClds           : "Desativado",
 
 
 
-    LT_EnvWizard_Hint_PricingDoc                : "Mais detalhes sobre preços podem ser encontradas na documentação",
+    LT_EnvWizard_Hint_PricingDoc                : "Mais detalhes sobre pre&ccedil;os podem ser encontradas na documenta&ccedil;&atilde;o",
 
 
 
@@ -5188,7 +5188,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_PricingDetails_Price           : "Preço",
+    LT_EnvWizard_PricingDetails_Price           : "pre&ccedil;o",
 
     LT_EnvWizard_PricingDetails_Save            : "Salvar",
 
@@ -5204,11 +5204,11 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_PricingDetails_RestRes         : "[link-storage]Armazenamento[/link-storage] e [link-traffic]Tráfego[/link-traffic] são cobrados separadamente com base no consumo",
+    LT_EnvWizard_PricingDetails_RestRes         : "[link-storage]Armazenamento[/link-storage] e [link-traffic]Tráfego[/link-traffic] s&atilde;o cobrados separadamente com base no consumo",
 
-    LT_EnvWizard_Text_TrialPrices               : "*Gratuitamente durante o período de testes",
+    LT_EnvWizard_Text_TrialPrices               : "*Gratuitamente durante o Per&iacute;odo de testes",
 
-    LT_EnvWizard_Text_BetaPrices                : "*Gratuitamente para o período beta",
+    LT_EnvWizard_Text_BetaPrices                : "*Gratuitamente para o Per&iacute;odo beta",
 
 
 
@@ -5216,7 +5216,7 @@ var GLocal = {
 
 
 
-    LT_TutorSlider_Descr_Total    	   	        : "Custo total <span class=\"red\">100%</span> de carga em <span class=\"red\">TODOS</span> os containers",
+    LT_TutorSlider_Descr_Total    	   	        : "Custo total <span class=\"red\">100%</span> de carga em <span class=\"red\">TODOS</span> os cont&ecirc;ineres",
 
     LT_TutorSlider_Label_From  	   	            : "De",
 
@@ -5228,7 +5228,7 @@ var GLocal = {
 
 
 
-    LT_EnvWizard_Hint_Pricing                   : "Clique para ver informações detalhadas sobre quotas e preços",
+    LT_EnvWizard_Hint_Pricing                   : "Clique para ver informa&ccedil;&otilde;es detalhadas sobre quotas e pre&ccedil;os",
 
 
 
@@ -5262,7 +5262,7 @@ var GLocal = {
     LT_Common_Button_LearnMore                  : "Aprenda mais",
     LT_Common_Button_EnvSettings                : "Configura&ccedil;&otilde;es de ambiente",
     LT_Common_Button_IncreaseLimits             : "Aumentar limites",
-    LT_SolutionDlg_Docker_PleaseWait            : "Docker está sendo instalado.<br>Por favor, aguarde...",
+    LT_SolutionDlg_Docker_PleaseWait            : "Docker est&aacute; sendo instalado.<br>Por favor, aguarde...",
 
     TEXT_CONTACT_SUPPORT                        : "[ACTION_HOSTER_SUPPORT]Entre em contato[/ACTION_HOSTER_SUPPORT] para ajuda.",
 
@@ -5344,12 +5344,12 @@ var GLocal = {
 
     LT_Quotas_Text_Network_Limit                : "Largura de banda de rede externa",
     LT_Units_Mbps                               : "Mbps",
-    
+
     LT_Task_Name_111                            : "Adicionando a chave SSH privada %(title)",
     LT_Task_Name_112                            : "Adicionando a chave SSH p&#250;blica %(title)",
 
     LT_EnvWizard_PricingDetails_Count           : "Contagem",
-    LT_EnvWizard_PricingDetails_Containers      : "Containers",
+    LT_EnvWizard_PricingDetails_cont&ecirc;ineres      : "cont&ecirc;ineres",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Shared Storage
@@ -5368,7 +5368,7 @@ var GLocal = {
 
     LT_E_Platform_2030                          : "O caminho %(path)j&#225; est&#225; montado.",
     LT_E_Platform_FOLDER_MOUNT_FAILED           : "Cria&#231;&#227;o de ponto de montagem em %(path) falharam. Por favor, verifique a disponibilidade adequada do servidor, a conformidade de permiss&#245;es e configura&#231;&#245;es de firewall.",
-    LT_E_Platform_NFS_SERVER_NOT_SUPPORTED      : "O escolhido <b>%(node)</b> container n&#227;o suporta a capacidade de ser tratado como um servidor NFS para armazenar dados. Tente o modelo padr&#227;o de Jelastic Storage.",
+    LT_E_Platform_NFS_SERVER_NOT_SUPPORTED      : "O escolhido <b>%(node)</b> cont&ecirc;iner n&#227;o suporta a capacidade de ser tratado como um servidor NFS para armazenar dados. Tente o modelo padr&#227;o de Jelastic Storage.",
     LT_E_Platform_FILE_MANAGER_PERMISSION_DENIDED : "Acesso negado! Por favor, verifique as permiss&#245;es para o diret&#243;rio apropriado.",
     LT_E_Platform_FILE_EXPORT_OF_MOUNTED_DIRECTORY : "Exporta&#231;&#227;o do diret&#243;rio <b>%(path)</b> j&#225; montado &#233; proibida.",
     LT_E_Platform_FILE_MOUNT_OF_EXPORTED_DIRECTORY : "&#201; proibido adicionar ponto de montagem para o diret&#243;rio exportado.",
@@ -5405,7 +5405,7 @@ var GLocal = {
 
     LT_Confirm_IgnoreDependenciesCheck          : "N&#227;o foi poss&#237;vel verificar as depend&#234;ncias de ambiente. Continuar mesmo assim?",
     LT_Common_Text_AffectDependentCmp           : "As defini&#231;&#245;es utilizadas podem afetar um trabalho adequado dos componentes, os quais dependem do nodo ambiente atual.",
-    LT_Common_Text_EnvDependOn                  : "Nodo ambiente atual depende de alguns componentes externos e pode não funcionar corretamente sem eles sendo executados.",
+    LT_Common_Text_EnvDependOn                  : "Nodo ambiente atual depende de alguns componentes externos e pode n&atilde;o funcionar corretamente sem eles sendo executados.",
 
     // uses like 'action' placeholder in LT_Common_Text_AffectDependentCmp
     LT_Confirm_ApplyChanges                     : "Aplicar mudan&#231;as?",
@@ -5415,26 +5415,26 @@ var GLocal = {
     LT_EnvClone_Field_KeepMounts                : "Manter montagens externas",
     LT_EnvClone_Field_KeepMounts_Tip            : "Se ativado, todos os pontos de montagem para servidores em outros ambientes ser&#227;o replicadas dentro de recipientes clonados.",
 
-    LT_RedeployContainer_Field_KeepVols         : "Manter dados relativos aos volumes",
-    LT_RedeployContainer_Field_KeepVols_Tip     : "Se ativado, todos os dados dentro de volumes de containers, ser&#227;o salvos e permanecem dispon&#237;veis ap&#243;s a sua reorienta&#231;&#227;o.",
+    LT_Redeploycont&ecirc;iner_Field_KeepVols         : "Manter dados relativos aos volumes",
+    LT_Redeploycont&ecirc;iner_Field_KeepVols_Tip     : "Se ativado, todos os dados dentro de volumes de cont&ecirc;ineres, ser&#227;o salvos e permanecem dispon&#237;veis ap&#243;s a sua reorienta&#231;&#227;o.",
     //TODO: ????? ???????????? ? ????? ? ??????????? ????? ????? "Manter dados relativos aos volumes"
-    LT_RedeployContainer_HelpTip                : "Aqui voc&#234; pode atualizar os Docker container(s) escolhidos para outro tag sem perder seus dados e configura&#231;&#245;es personalizadas.  [URL_DOCS_DOCKER_REDEPLOY]%(LT_Common_Button_LearnMore)[/URL_DOCS_DOCKER_REDEPLOY]",
+    LT_Redeploycont&ecirc;iner_HelpTip                : "Aqui voc&#234; pode atualizar os Docker cont&ecirc;iner(s) escolhidos para outro tag sem perder seus dados e configura&#231;&#245;es personalizadas.  [URL_DOCS_DOCKER_REDEPLOY]%(LT_Common_Button_LearnMore)[/URL_DOCS_DOCKER_REDEPLOY]",
 
     LT_UploadFiles_Title_Dialog                 : "Fazer upload de arquivos",
     LT_UploadFiles_Label_Empty_Text			    : "Selecionar arquivo(s)",
 
-    LT_NodeMission_Storage                      : "Container de armazenamento",
+    LT_NodeMission_Storage                      : "cont&ecirc;iner de armazenamento",
 
     //LT_EnvWizard_Storage                        : "Armazenamento",
     LT_EnvWizard_Field_StorageLimits            : "Limite de armazenamento",
     LT_EnvWizard_Field_StorageLimits_Tip        : "Ver limites",
-    LT_EnvWizard_Hint_Storage                   : "Tipo de container especial para armazenar dados.",
+    LT_EnvWizard_Hint_Storage                   : "Tipo de cont&ecirc;iner especial para armazenar dados.",
 
     //TODO: ????? ???????????? - ????? ??????????? ?? ??? ??????, ?????? ?????: "O n&#250;mero m&#225;ximo de nodos para o mesmo ambiente.",
     LT_Quotas_Text_MaxSameNodesCount            : "O n&#250;mero m&#225;ximo de nodo por grupo de nodos (camada).",
     LT_Quotas_Text_MaxCloudlets                 : "Tamanho m&#225;ximo do servidor em cloudlets.",
     LT_Quotas_Text_MaxDiskSpacePerNode          : "Espa&#231;o m&#225;ximo dispon&#237;vel em disco por nodo.",
-    LT_Quotas_Text_MaxDiskSpacePerStorageNode   : "Espaço máximo disponível em disco por nodo de armazenamento.",
+    LT_Quotas_Text_MaxDiskSpacePerStorageNode   : "Espa&ccedil;o m&aacute;ximo dispon&iacute;vel em disco por nodo de armazenamento.",
 
     //LT_DockerSettings_Text_PredefinedValue      : "Item pr&#233;-definido em imagem.",
     //LT_DockerSettings_Text_UserValue            : "",
@@ -5449,7 +5449,7 @@ var GLocal = {
     LT_DockerSettings_Vols_W_AlreadyMounted     : "O volume %(path) j&#225; est&#225; montado.",
     LT_DockerSettings_Vols_W_Predefined         : "Volumes predefinidos n&#227;o podem ser exclu&#237;dos.",
     LT_DockerSettings_Vols_W_AddDublicate       : "Volume com tal caminho j&#225; est&#225; <br> presente na lista!",
-    LT_DockerSettings_Vols_W_AddAlreadyMounted  : "O volume j&#225; est&#225; montado e vai ser remontado para o <br> container de dados seleccionado.",
+    LT_DockerSettings_Vols_W_AddAlreadyMounted  : "O volume j&#225; est&#225; montado e vai ser remontado para o <br> cont&ecirc;iner de dados seleccionado.",
 
     LT_Common_Label_Right_ReadWrite             : "rw",
     LT_Common_Label_Right_ReadWrite_Tip         : "Permiss&#227;o de leitura/grava&#231;&#227;o",
@@ -5458,7 +5458,7 @@ var GLocal = {
 
 
     LT_VolFrom_Field_SourceNode                 : "Node",
-    LT_VolFrom_Field_SourceNode_EmptyText       : "Por favor seleccione um container",
+    LT_VolFrom_Field_SourceNode_EmptyText       : "Por favor seleccione um cont&ecirc;iner",
     LT_VolFrom_Field_Volumes                    : "Volumes",
 
     LT_EnvNodesCombo_Label_CurrentEnv           : "%(envName) (atual)",
@@ -5467,7 +5467,7 @@ var GLocal = {
     // LT_Common_Text_MoreDetails                  : "Mais detalhes...",
 
     //TODO: VK - %(LT_Common_Button_LearnMore)
-    LT_EnvMounts_Editor_HelpTip                 : "Aqui voc&#234; pode [URL_DOCS_ENV_MOUNTS]adicionar um ponto de montagem [/URL_DOCS_ENV_MOUNTS] - diret&#243;rio no sistema de arquivos do container, que est&#225; ligado ao servidor de armazenamento remoto para a utiliza&#231;&#227;o de dados a partir dele.",
+    LT_EnvMounts_Editor_HelpTip                 : "Aqui voc&#234; pode [URL_DOCS_ENV_MOUNTS]adicionar um ponto de montagem [/URL_DOCS_ENV_MOUNTS] - diret&#243;rio no sistema de arquivos do cont&ecirc;iner, que est&#225; ligado ao servidor de armazenamento remoto para a utiliza&#231;&#227;o de dados a partir dele.",
 
     //LT_EnvMounts_Editor_HelpTip                 : "Leia a [link]documenta&#231;&#227;o[/link] para saber mais detalhes sobre pontos de montagem.",
 
@@ -5476,20 +5476,20 @@ var GLocal = {
     LT_EnvMounts_Editor_Field_Server_EmptyText  : "Servidor de dom&#237;nio ou IP",
     LT_EnvMounts_Editor_Field_Path              : "Caminho remoto",
     LT_EnvMounts_Editor_Field_MountPoint        : "Ponto de montagem",
-    //LT_EnvMounts_Editor_Field_MountPoint_Tip    : "Ponto de montagem &#233; o diret&#243;rio no sistema de arquivos do container com o armazenamento de dados adicional a ser montado a partir do local remoto.",
+    //LT_EnvMounts_Editor_Field_MountPoint_Tip    : "Ponto de montagem &#233; o diret&#243;rio no sistema de arquivos do cont&ecirc;iner com o armazenamento de dados adicional a ser montado a partir do local remoto.",
     LT_EnvMounts_Editor_Field_MountType         : "Fonte",
     LT_EnvMounts_Editor_Field_AllNodes          : "Montar a todos os nodes",
     LT_EnvMounts_Editor_Field_AllNodes_Tip      : "Se ativado, o novo ponto de montagem ser&#225; adicionado a todos os recipientes do grupo nodes atual (camada).",
     LT_EnvMounts_Editor_Field_ReadOnly          : "Somente leitura",
 
     LT_EnvMounts_Type_LocalFS                   : "Sistema de arquivos local",
-    LT_EnvMounts_Type_DataContainer             : "Container de Dados",
-    LT_EnvMounts_Type_MasterContainer           : "Container Principal",
+    LT_EnvMounts_Type_Datacont&ecirc;iner             : "cont&ecirc;iner de Dados",
+    LT_EnvMounts_Type_Mastercont&ecirc;iner           : "cont&ecirc;iner Principal",
     LT_EnvMounts_Type_External                  : "Servidor Externo",
 
-    LT_EnvMounts_Type_LocalFS_HelpTip           : "Todos os dados ser&#227;o armazenados dentro do container [link]sistema de arquivos local[link] atual e continuam presentes ap&#243;s o seu rein&#237;cio ou reimplanta&#231;&#227;o.",
-    LT_EnvMounts_Type_DataContainer_HelpTip     : "Escolha de um [link]container separado[/link] dentro de qualquer um dos seus ambientes para os dados serem armazenados.",
-    LT_EnvMounts_Type_MasterContainer_HelpTip   : "Todos os nodos dentro da camada, incluindo os mais adicionados, ser&#227;o montados ao [link]recipiente principal[/link] (ou seja. O nodo criado inicialmente de uma camada).",
+    LT_EnvMounts_Type_LocalFS_HelpTip           : "Todos os dados ser&#227;o armazenados dentro do cont&ecirc;iner [link]sistema de arquivos local[link] atual e continuam presentes ap&#243;s o seu rein&#237;cio ou reimplanta&#231;&#227;o.",
+    LT_EnvMounts_Type_Datacont&ecirc;iner_HelpTip     : "Escolha de um [link]cont&ecirc;iner separado[/link] dentro de qualquer um dos seus ambientes para os dados serem armazenados.",
+    LT_EnvMounts_Type_Mastercont&ecirc;iner_HelpTip   : "Todos os nodos dentro da camada, incluindo os mais adicionados, ser&#227;o montados ao [link]recipiente principal[/link] (ou seja. O nodo criado inicialmente de uma camada).",
     LT_EnvMounts_Type_External_HelpTip          : "Todos os nodos no interior da camada ser&#227;o montados para um [link]servidor externo[/link], destinado a armazenar os dados. Note-se que, neste caso, &#233; fortemente recomendado o uso de endere&#231;o IP externo para os nodos, a fim de evitar quaisquer problemas de seguran&#231;a.",
     LT_EnvMounts_Type_VolumesFrom_HelpTip       : "Selecione o nodo que voc&#234; gostaria de copiar os ajustes de volumes a partir de modo a mont&#225;-los no recipiente atual.",
 
@@ -5500,7 +5500,7 @@ var GLocal = {
     LT_Volume_Editor_Confirm_KeepMount          : "O caminho %(path) j&#225; foi montado. Mantenha-o presente?",
 
     LT_EnvMounts_Editor_W_EnvNotRunning         : "Ambiente n&#227;o est&#225; em execu&#231;&#227;o.",
-    LT_EnvMounts_Info_MountSuccess              : "O caminho %(path) foi montado com êxito.",
+    LT_EnvMounts_Info_MountSuccess              : "O caminho %(path) foi montado com &ecirc;xito.",
 
     // file manager
     LT_ConfigManager_Item_Root                  : "Root",
@@ -5565,10 +5565,10 @@ var GLocal = {
     LT_Task_Name_105	                        : "Editando configura&#231;&#245;es de gatilho %(triggerName) para %(env)",
     LT_Task_Name_106	                        : "Alterar estado do gatilho %(triggerName) para %(env)",
     LT_Task_Name_107	                        : "Excluindo gatilho %(triggerName) de %(env)",
-    LT_Task_Name_109                            : "Execu&#231;&#227;o de comando no ID %(nodeid) do conteiner %(name) de %(env)",
+    LT_Task_Name_109                            : "Execu&#231;&#227;o de comando no ID %(nodeid) do  %(name) de %(env)",
 
     LT_Common_Button_Search						: "Pesquisa",
-    
+
     LT_CodeEditor_Previous                      : "Combina&#231;&#227;o anterior",
     LT_CodeEditor_Next                          : "Pr&#243;xima combina&#231;&#227;o",
     LT_CodeEditor_MatchCase                     : "Caso de compatibilidade",
@@ -5581,14 +5581,14 @@ var GLocal = {
     LT_Log_File_Truncated                       : "O arquivo %(file) foi corrompido",
 
     LT_Settings_Label_EnterDomain			  	: "1. Digite seu dom&#237;nio externo (por exemplo meudominio.com) no campo abaixo para lig&#225;-lo ao ambiente",
-    LT_Settings_Label_CName					  	: "2. Em seu painel de DNS, adicionar um registro CNAME para o domínio especificado, e apontar para o endereço <b>%(sDomain)</b> (<u><a href='%(sDocUrl)' target='_blank'>mostre-me como</a></u>)",
+    LT_Settings_Label_CName					  	: "2. Em seu painel de DNS, adicionar um registro CNAME para o Dom&iacute;nio especificado, e apontar para o endere&ccedil;o <b>%(sDomain)</b> (<u><a href='%(sDocUrl)' target='_blank'>mostre-me como</a></u>)",
 
     LT_Units_KiB                                : "KiB",
     LT_Units_MiB                                : "MiB",
     LT_Units_GiB                                : "GiB",
     LT_Units_TiB                                : "TiB",
 
-    LT_EnvEndpoints_Settings_DetailsTips        : "Aqui você pode [link]adicionar e gerenciar endpoints[/link], que podem ser usados por outros recursos para a comunicação com os seus containers",
+    LT_EnvEndpoints_Settings_DetailsTips        : "Aqui voc&ecirc; pode [link]adicionar e gerenciar endpoints[/link], que podem ser usados por outros recursos para a comunica&ccedil;&atilde;o com os seus cont&ecirc;ineres",
 
     LT_Environments_Status_13                   : "Parando...",
     LT_Environments_Status_14                   : "Colocando para dormir...",
@@ -5596,508 +5596,508 @@ var GLocal = {
     LT_Process_Label_WaitFewMinutes             : "O processo pode demorar alguns minutos...",
 
     LT_E_Platform_DOCKER_DAEMON_FAILED          : "A imagem <b>%(image)</b> n&#227;o pode ser obtida devido a problemas t&#233;cnicos tempor&#225;rios. Por favor, tente novamente mais tarde ou [ACTION_HOSTER_SUPPORT]contate o suporte[/ACTION_HOSTER_SUPPORT].",
-    LT_E_Platform_COULD_NOT_DETECT_OS           : "A imagem <b>%(image)</b> e baseada em modelo de OS não-suportado . [TEXT_CONTACT_SUPPORT/]",
+    LT_E_Platform_COULD_NOT_DETECT_OS           : "A imagem <b>%(image)</b> e baseada em modelo de OS n&atilde;o-suportado . [TEXT_CONTACT_SUPPORT/]",
     LT_E_Platform_COULD_NOT_FIND_DOCKER_IMAGE   : "A imagem <b>%(image)</b> n&#227;o p&#244;de ser encontrada. Por favor verifique suas entradas.",
 
     LT_Common_Button_Docs 						: "Docs",
 
-    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Perceba que, atualmente, containers Docker e nodos do Windows n&#227;o podem ser exportados. Tamb&#233;m conteiners de armazenamento, Elastic VPS e Maven s&#227;o exportados sem quaisquer dados dentro, ent&#227;o voc&#234; precisar&#225; reconfigur&#225;-los manualmente mais tarde.",
+    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Perceba que, atualmente, cont&ecirc;ineres Docker e nodos do Windows n&#227;o podem ser exportados. Tamb&#233;m s de armazenamento, Elastic VPS e Maven s&#227;o exportados sem quaisquer dados dentro, ent&#227;o voc&#234; precisar&#225; reconfigur&#225;-los manualmente mais tarde.",
     LT_ExportEnv_Settings_Error_EmptyNodesList  : "N&#227;o h&#225; recipientes que possam ser exportados. [URL_DOCS_ENV_EXPORT]%(LT_Common_Button_LearnMore)[/URL_DOCS_ENV_EXPORT]",
 
     LT_Environments_Column_Usage_QTip           : "CPU: %(cpu)<br /> Mem: %(mem)<br /> HDD: %(disk)<br /> Net: %(net_in)/%(net_out) Mb",
-    LT_RestartContainer_Info_Success            : "Containers no ambiente <b>%(envName)</b> foram reiniciados com sucesso.",
+    LT_Restartcont&ecirc;iner_Info_Success            : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram reiniciados com sucesso.",
 
     LT_DockerSettings_Title                     : "configura&#231;&#245;es de camadas Docker %(name)",
 
     LT_EnvScaling_ThresholdDiff_Tip             : "A diferen&#231;a m&#237;nima permitida entre os limites de gatilhos &#233; %(diff)%",
 
-    LT_E_Platform_PLATFORM_LICENSE_EXPIRED      : "Parece que existe um problema de licen�a neste cluster. Fa�a login no OPS Panel como administrador para corrigi-lo.",
+    LT_E_Platform_PLATFORM_LICENSE_EXPIRED      : "Parece que existe um problema de licen&ccedil;a neste cluster. fa&ccedil;a login no OPS Panel como administrador para corrigi-lo.",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 4.8
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_ManifestImp_TabJSON_Beautify_Tip         : "Apply proper JSON formatting with indentations and line feeds",
-    LT_ManifestImp_TabJSON_WordWrap_Tip         : "Wrap lines",
-    LT_EnvWizard_Info_AvailableForBillingAcc    : "This engine support is provided for billing accounts only. [ACTION_UPGRADE_ACCOUNT]Upgrade[/ACTION_UPGRADE_ACCOUNT] your account or [ACTION_HOSTER_SUPPORT]contact us[/ACTION_HOSTER_SUPPORT] to remove this limitation.",
+    LT_ManifestImp_TabJSON_Beautify_Tip         : "Aplicar formata&ccedil;&atilde;o JSON adequada com indenta&ccedil;&otilde;es e feeds de linha.",
+    LT_ManifestImp_TabJSON_WordWrap_Tip         : "Linhas envolvidas",
+    LT_EnvWizard_Info_AvailableForBillingAcc    : "Seu suporte &eacute; fornecido apenas para contas pagas. Fa&ccedil;a o [ACTION_UPGRADE_ACCOUNT]Upgrade[/ACTION_UPGRADE_ACCOUNT] da sua conta ou entre em [ACTION_HOSTER_SUPPORT]contato[/ACTION_HOSTER_SUPPORT] para remover essa limita&ccedil;&atilde;o.",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Disabled price
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_EnvMounts_Editor_Title_Export            : "Export Path From",
-    LT_EnvMounts_Editor_Tab_Title_Export        : "Export Directory",
-    LT_EnvMounts_Editor_Field_SourceServer      : "From NFS",
-    LT_ConfigManager_Button_Export              : "Export",
-    LT_EnvMounts_Editor_Field_TargetServer      : "To Container(s)",
-    LT_EnvMounts_Type_Export_HelpTip            : "Choose source and target containers to share the data across.",
+    LT_EnvMounts_Editor_Title_Export            : "Exportar caminho de",
+    LT_EnvMounts_Editor_Tab_Title_Export        : "Exportar diret&oacute;rio",
+    LT_EnvMounts_Editor_Field_SourceServer      : "De NFS",
+    LT_ConfigManager_Button_Export              : "Exportar",
+    LT_EnvMounts_Editor_Field_TargetServer      : "Para cont&ecirc;iner(s)",
+    LT_EnvMounts_Type_Export_HelpTip            : "Escolha os cont&ecirc;iners de origem e destino para compartilhar os dados.",
 
     LT_EnvWizard_Baloon_CPU_Resources           : "%(cpu) CPU",
     LT_EnvWizard_Baloon_RAM_Resources           : "%(ram) RAM",
-    LT_EnvWizard_Pricing_Label_TrafficLimit     : "Traffic Limit per Node",
-    LT_EnvWizard_Pricing_ViewLimits_Tip         : "View limits",
-    LT_Menu_OpenExtBillingPanel                 : "Billing portal",
-    LT_EnvWizard_PriceSlider_TotalResources     : "Total Resources",
-    LT_QuotasWindow_Title                       : "Quotas",
-    LT_EnvMigration_Text_TargetRegion_Pricing   : "Prices can differ in target region",
+    LT_EnvWizard_Pricing_Label_TrafficLimit     : "Limite de trafego por node",
+    LT_EnvWizard_Pricing_ViewLimits_Tip         : "Ver limites",
+    LT_Menu_OpenExtBillingPanel                 : "Portal de pagamento",
+    LT_EnvWizard_PriceSlider_TotalResources     : "Total de recursos",
+    LT_QuotasWindow_Title                       : "Cotas",
+    LT_EnvMigration_Text_TargetRegion_Pricing   : "Os pre&ccedil;os podem ser diferentes dependendo da regi&atilde;o",
 
-    LT_RedeployContainer_Field_RedeployDelay    : "Redeploy delay",
-    LT_RedeployContainer_Field_Delay_Unit       : "seconds",
-    LT_RedeployContainer_Field_Delay_Hint       : "Time frame between redeployment of two containers in nodes layer",
+    LT_Redeploycont&ecirc;iner_Field_RedeployDelay    : "Reimplantar atraso",
+    LT_Redeploycont&ecirc;iner_Field_Delay_Unit       : "segundos",
+    LT_Redeploycont&ecirc;iner_Field_Delay_Hint       : "Per&iacute;odo de tempo entre a reimplanta&ccedil;&atilde;o de dois cont&ecirc;ineres na camada de nodes",
 
     LT_Common_Text_Id                           : "ID",
 
-    LT_Environments_Validation_InvalidName      : "The name is invalid. Please specify a different name.",
-    LT_Environments_Validation_ForbiddenSymbols : "The name contains characters, which are not allowed for being used in Internet domain names. Please specify a different name.",
+    LT_Environments_Validation_InvalidName      : "O nome é inv&aacute;lido. Por favor especifique um nome diferente.",
+    LT_Environments_Validation_ForbiddenSymbols : "O nome contem caracteres, os quais n&atilde;o s&atilde;o permitidos em nomes de dom&iacute;nio. Por favor especifique um nome diferente.",
 
-    LT_Upload_FileExists                        : "The %(folder) folder already contains such file(s): %(files). Overwrite?",
-    LT_Task_Name_43	                            : "Creating file %(fileName) at %(env)",
-    LT_Task_Name_44	                            : "Deleting file %(fileName) from %(env)",
-    LT_Task_Name_45	                            : "Renaming %(oldFileName) file to %(newFileName) in %(env)",
-    LT_Task_Name_47	                            : "Reading file %(fileName) on %(env)",
-    LT_Task_Name_48	                            : "Saving file %(fileName) on %(env)",
+    LT_Upload_FileExists                        : "A %(folder) pasta j&aacute; contem esse arquivo(s): %(files). Substituir?",
+    LT_Task_Name_43	                            : "Criando arquivo %(fileName) em %(env)",
+    LT_Task_Name_44	                            : "Deletando arquivo %(fileName) de %(env)",
+    LT_Task_Name_45	                            : "Renomeando %(oldFileName) arquivo para %(newFileName) no %(env)",
+    LT_Task_Name_47	                            : "Lendo arquivo %(fileName) em %(env)",
+    LT_Task_Name_48	                            : "Salvando arquivo %(fileName) em %(env)",
 
-    LT_W_ContainBeginEndSpaces                  : "File name can't begin or end with a whitespace",
-    LT_E_Platform_FILE_MOUNT_NO_INTERNAL_ROUTE  : "Mounting between the chosen nodes is not available due to the internal IP address absence at one of them.",
+    LT_W_ContainBeginEndSpaces                  : "O nome do arquivo n&atilde;o pode come&ccedil;ar ou terminar com um espa&ccedil;o em branco",
+    LT_E_Platform_FILE_MOUNT_NO_INTERNAL_ROUTE  : "A montagem entre os nodes escolhidos n&atilde;o est&aacute; dispon&iacute;vel devido a aus&ecirc;ncia de endere&ccedil;o IP interno em um deles.",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 4.9
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_Common_Text_Unit_Seconds                 : "seconds",
-    LT_Common_Button_Restart                    : "Restart",
-    LT_RestartNodes_Field_SequentialRestartDelay: "Sequential restart delay",
-    LT_RestartNodes_Field_Delay_Hint            : "Time frame (in seconds) between restart of two containers within one layer",
-    LT_RestartNodes_Info                        : "All containers within the layer will be restarted one by one. Use the spinner below to set the delay between these restart operations in order to avoid service downtime.",
-    LT_Context_Sequential_Deploy_Hint           : "Time frame between redeployment of two nodes (containers) in one node group (layer)",
-    LT_Context_Sequential_Delay                 : "Sequential deployment delay",
-    LT_Upload_FtpLoginFailed                    : "FTP login failed! Please, recheck specified FTP credentials and try again.",
+    LT_Common_Text_Unit_Seconds                 : "segundos",
+    LT_Common_Button_Restart                    : "Reiniciar",
+    LT_RestartNodes_Field_SequentialRestartDelay: "Atraso de reinicializa&ccedil;&atilde;o sequencial",
+    LT_RestartNodes_Field_Delay_Hint            : "Prazo (em segundos) entre o rein&iacute;cio de dois recipientes dentro de uma camada",
+    LT_RestartNodes_Info                        : "Todos os cont&ecirc;ineres dentro da camada ser&atilde;o iniciados um por um. Use o spinner abaixo para definir o atraso entre essas opera&ccedil;&otilde;es de reinicializa&ccedil;&atilde;o, a fim de evitar o tempo ocioso do servi&ccedil;o.",
+    LT_Context_Sequential_Deploy_Hint           : "Per&iacute;odo de tempo entre a reimplanta&ccedil;&atilde;o de dois nodes (cont&ecirc;ineres) em um grupo de node (camada)",
+    LT_Context_Sequential_Delay                 : "Atraso de implanta&ccedil;&atilde;o sequencial",
+    LT_Upload_FtpLoginFailed                    : "Falha no login do FTP! Por favor, verifique novamente as credenciais de FTP especificadas e tente novamente.",
 
-    LT_Quotas_Days                              : "%(count) day(s)",
+    LT_Quotas_Days                              : "%(count) dias(s)",
 
-    LT_Common_Button_ViewLogs                   : "View logs",
-    LT_Import_ViewLogs_Tip                      : "View logs",
+    LT_Common_Button_ViewLogs                   : "Ver logs",
+    LT_Import_ViewLogs_Tip                      : "Ver logs",
 
     LT_Quotas_Text_SSL                          : "%(PLATFORM_VENDOR_NAME) SSL",
-    LT_Quotas_Error_SSL                         : "%(PLATFORM_VENDOR_NAME) SSL is not enabled for your account. [TEXT_INCREASE_LIMITS/]",
+    LT_Quotas_Error_SSL                         : "%(PLATFORM_VENDOR_NAME) SSL n&atilde;o est&aacute; habilitado para a sua conta. [TEXT_INCREASE_LIMITS/]",
 
-    LT_EnvScaling_Field_ScaleUpTo               : "Scale out to",
-    LT_EnvScaling_Field_ScaleDownTo             : "Scale in to",
+    LT_EnvScaling_Field_ScaleUpTo               : "Escala para",
+    LT_EnvScaling_Field_ScaleDownTo             : "Escala para",
     LT_EnvScaling_Column_Nodes                  : "Nodes",
-    LT_EnvScaling_Column_AddCondition           : "Scale Out",
-    LT_EnvScaling_Column_RemoveCondition        : "Scale In",
-    LT_EnvScaling_W_TriggerExist                : "Trigger for this resource type already exists",
-    LT_EnvScaling_W_NodeMaxTriggerCountReached  : "You've reached the maximum available number of triggers.",
-    LT_EnvScaling_W_BuildNode                   : "This feature is not available for the build-node environment layer.",
+    LT_EnvScaling_Column_AddCondition           : "Escala para fora",
+    LT_EnvScaling_Column_RemoveCondition        : "Escala para dentro",
+    LT_EnvScaling_W_TriggerExist                : "Trigger para este tipo de recurso j&aacute; existe",
+    LT_EnvScaling_W_NodeMaxTriggerCountReached  : "Voc&ecirc; alcan&ccedil;ou o n&uacute;mero m&aacute;ximo dispon&iacute;vel de triggers.",
+    LT_EnvScaling_W_BuildNode                   : "Esse recurso n&atilde;o est&aacute; dispon&iacute;vel para a layer de ambiente de build-node.",
     // LT_EnvScaling_W_CPRequired                  : "Within non-Docker environments, this option is available for web/application nodes only.",
     // LT_EnvScaling_HelpTip_CPRequired            : "You need to have a web/application node for this feature to work properly. [link]Click here to configure your environment[/link].",
-    LT_EnvScaling_HelpTip                       : "Configure the triggers below to automatically add and remove nodes from your environment based on resources consumption. Cloudlet settings for each added node will be copied from the existing instance(s). Read this [link]documentation[/link] to find out more details.",
-    LT_Docs_ZDTModule                           : "Read more about [link-docs]zero-downtime deployment[/link-docs] options.",
-    LT_Wizard_Warning_Restart_Group             : "Container(s) within this layer will be restarted in a sequence with predefined delay.",
-    LT_ExtDomains_Error_Quota                   : "Custom domains binding is not available for your account. [TEXT_INCREASE_LIMITS/]",
-    LT_Quotas_Text_ExtDomains                   : "Custom domains",
-    LT_Context_Sequential_Deploy_VCS_Hint       : "Time frame (in seconds) between redeployment of two nodes within one node group (layer)",
-    LT_SequentialMavenDeploy_Info               : "All containers within the node group (layer) will be redeployed one by one. Use the spinner below to set the delay between these deployment operations in order to avoid service downtime.",
+    LT_EnvScaling_HelpTip                       : "Configure os triggers abaixo para adicionar e remover automaticamente os nodes do seu ambiente com base no consumo de recursos. As configura&ccedil;&otilde;es de Cloudlet para cada node adicionado ser&atilde;o copiados da inst&acirc;ncia existente. Leia a [link]documenta&ccedil;&atilde;o[/link] para saber mais detalhes.",
+    LT_Docs_ZDTModule                           : "Leia mais sobre as op&ccedil;&otilde;es de [link-docs]inatividade zero da implementa&ccedil;&atilde;o[/link-docs].",
+    LT_Wizard_Warning_Restart_Group             : "Os cont&ecirc;ineres(s) dentro desta layer ser&atilde;o reiniciados em uma sequencia com atraso predefinido.",
+    LT_ExtDomains_Error_Quota                   : "A vincula&ccedil;&atilde;o de dom&iacute;nios personalizados n&atilde;o est&aacute; dispon&iacute;vel para a sua conta. [TEXT_INCREASE_LIMITS/]",
+    LT_Quotas_Text_ExtDomains                   : "Dom&iacute;nios personalizados",
+    LT_Context_Sequential_Deploy_VCS_Hint       : "Per&iacute;odo de tempo (em segundos) entre a reimplanta&ccedil;&atilde;o de dois nodes dentro de um grupo de node (layer)",
+    LT_SequentialMavenDeploy_Info               : "Todos os cont&ecirc;ineres dentro do grupo de node (layer) ser&atilde;o reimplantados um por um. Use o spinner abaixo para definir o atraso entre essas opera&ccedil;&otilde;es de implanta&ccedil;&atilde;o, a fim de evitar o tempo de inatividade do servi&ccedil;o.",
 
-    LT_Context_Sequential_Update_Delay          : "Sequential update delay",
-    LT_SequentialVcsUpdate_Info                 : "All containers within the layer will be updated one by one. Use the spinner below to set the delay between these update operations in order to avoid service downtime.",
-    LT_Common_Button_SequentialUpdate           : "Update",
+    LT_Context_Sequential_Update_Delay          : "Atraso de atualiza&ccedil;&atilde;o sequencial",
+    LT_SequentialVcsUpdate_Info                 : "Todos os cont&ecirc;ineres dentro da layer ser&atilde;o atualizados um a um. Use o spinner abaixo para definir o atraso entre essas opera&ccedil;&otilde;es de atualiza&ccedil;&atilde;o, a fim de evitar o tempo ocioso do servi&ccedil;o.",
+    LT_Common_Button_SequentialUpdate           : "Atualiza&ccedil;&atilde;o",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 4.9.5
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_TaskManager_Status_NoTasks               : "No active tasks",
-    LT_TaskManager_Status_ActiveTasks           : "%(count) active task(s)",
-    LT_Import_Link_Examples                     : "Examples",
-    LT_Tasks_Column_Performer                   : "User",
-    LT_EnvWizard_Label_Topology_Docker          : "Docker Containers",
-    LT_Notify_Label_NoFreeInternalIps           : "There are no free IP addresses at the moment. Please, [ACTION_HOSTER_SUPPORT]contact support[/ACTION_HOSTER_SUPPORT] to negotiate their addition.",
-    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Note that currently Windows nodes, Storage, Elastic VPS, Maven and Docker containers are exported without any data inside, so you’ll need to transfer the required files and configurations manually afterwards.",
+    LT_TaskManager_Status_NoTasks               : "Nenhuma tarefa ativa",
+    LT_TaskManager_Status_ActiveTasks           : "%(count) tarefa(s) ativa(s)",
+    LT_Import_Link_Examples                     : "Exemplos",
+    LT_Tasks_Column_Performer                   : "Usu&aacute;rio",
+    LT_EnvWizard_Label_Topology_Docker          : "Cont&ecirc;ineres Docker",
+    LT_Notify_Label_NoFreeInternalIps           : "N&atilde;o existem endere&ccedil;os IP gratuitos no momento. Por favor, entre em [ACTION_HOSTER_SUPPORT]contato[/ACTION_HOSTER_SUPPORT] com o suporte para negociar essa adi&ccedil;&atilde;o.",
+    LT_ExportEnv_Dlg_Warning_WhatNotExported    : "Observe que os nodes do Windows, Armazenamento, Elastic VPS, Maven e Docker cont&ecirc;ineres s&atilde;o exportados sem quaisquer dados dentro, Ent&atilde;o voc&ecirc; precisar&aacute; transferir os arquivos e configura&ccedil;&otilde;es necess&aacute;rios manualmente depois.",
 
-    LT_E_Platform_4060                          : "Deploy failed. Please, check logs to find out more details.",
-    LT_BuildUpload_Failed_Warning               : "An error occurred while trying to build the project",
+    LT_E_Platform_4060                          : "Falha do Deploy. Por favor, Verifique os logs para saber mais.",
+    LT_BuildUpload_Failed_Warning               : "Um erro ocorreu enquanto tentava implantar o projeto",
 
-    LT_TrialToPaid_WelcomeDlg_Title             : "Welcome!",
-    LT_TrialToPaid_WelcomeDlg_Text              : "Thank you for your interest in our product. You are just one step away to create your account and get the full access to the platform.",
+    LT_TrialToPaid_WelcomeDlg_Title             : "Bem vindo!",
+    LT_TrialToPaid_WelcomeDlg_Text              : "Obrigado pelo seu interesse em nosso produto. Voc&ecirc; est&aacute; a apenas um passo de criar a sua conta e obter pleno acesso &agrave; plataforma.",
     LT_TrialToPaid_WelcomeDlg_Button_Continue   : "Continue",
 
-    LT_Process_Label_Waiting4Conversion         : "Waiting for conversion...",
+    LT_Process_Label_Waiting4Conversion         : "Aguardando a convers&atilde;o...",
 
-    LT_Error_SuspendedAccount_Trial             : "Your trial period has expired and your account has been deactivated. Please [ACTION_UPGRADE_ACCOUNT]upgrade your account[/ACTION_UPGRADE_ACCOUNT] if you'd like to continue using the service.",
-    LT_Error_Account_Destroyed                  : "Your account has been destroyed. [TEXT_CONTACT_SUPPORT/]",
+    LT_Error_SuspendedAccount_Trial             : "Seu per&iacute;odo trial expirou e a sua conta foi desativada. Por favor fa&ccedil;a o [ACTION_UPGRADE_ACCOUNT]upgrade da sua conta[/ACTION_UPGRADE_ACCOUNT] Se voc&ecirc; quiser continuar a utilizar os nossos servi&ccedil;os.",
+    LT_Error_Account_Destroyed                  : "Sua conta foi destruida. [TEXT_CONTACT_SUPPORT/]",
 
-    LT_CustomSSL_Text_NotImplemented            : "Custom SSL for %(nodeName) is not supported. Consider using load balancer node as an SSL-proxy.",
+    LT_CustomSSL_Text_NotImplemented            : "SSl personalizado para %(nodeName) n&atilde;o &eacute; suportado. Considere o uso do node balancer com um Proxy SSl.",
 
-    LT_ConfigManager_Button_CopyPath            : "Copy Path",
-    LT_ConfigManager_OldBrowser_Info            : "Press Cmd/Ctrl+C to copy",
+    LT_ConfigManager_Button_CopyPath            : "Copiar caminho",
+    LT_ConfigManager_OldBrowser_Info            : "Pressione Cmd/Ctrl+C para copiar",
 
-    LT_Task_Name_110                            : "Executing command for %(name) in %(env)",
-    AutoRefill_ConfirmEdit                      : "Change sum of auto-refill payment from %(currentAmount) to %(pureAmount)?",
+    LT_Task_Name_110                            : "Executando comando para %(name) em %(env)",
+    AutoRefill_ConfirmEdit                      : "Alterar a soma do pagamento de recarga automatica %(currentAmount) para %(pureAmount)?",
 
-    LT_Error_EnvironmentClone_Timeout           : "An error occurred while trying to clone the node",
+    LT_Error_EnvironmentClone_Timeout           : "Um erro ocorreu enquanto tentava clonar o node",
 
-    LT_AppStoreCat_Dockers                      : "Docker Containers",
+    LT_AppStoreCat_Dockers                      : "Cont&ecirc;ineres Docker",
 
     // FILE_MANAGER_DOWNLOAD_NOT_EXISTS
-    LT_E_Platform_2050                          : "File not exists.",
+    LT_E_Platform_2050                          : "Arquivo inexistente.",
 
     // FILE_MANAGER_DOWNLOAD_FILE_SIZE_LIMIT
-    LT_Error_MaximumFileSize                    : "File is too large. Download file size limit is %(size)",
+    LT_Error_MaximumFileSize                    : "Arquivo &eacute; muito grande. O tamanho limite do arquivo &eacute; %(size)",
 
-    LT_Action_DownloadFile                      : "download file",
+    LT_Action_DownloadFile                      : "Baixar arquivo",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 4.10
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     LT_Units_sec                                : "sec",
-    LT_NodeMission_Storage                      : "Storage Containers",
-    LT_EnvWizard_Field_StorageLimits            : "Disk Limit",
-    LT_EnvWizard_Pricing_Label_StorageLimit     : "Disk Limit per Node",
+    LT_NodeMission_Storage                      : "Armazenamento de cont&ecirc;ineres",
+    LT_EnvWizard_Field_StorageLimits            : "Limite de disco",
+    LT_EnvWizard_Pricing_Label_StorageLimit     : "Limite de disco por node",
 
     LT_EnvWizard_PricingFixed_Resources         : "{0} RAM + {1} CPU + {2} Disk",
     LT_EnvWizard_PricingDetails_Clds            : "Cloudlets (RAM, CPU)",
-    LT_EnvWizard_PricingDetails_Reserved        : "Reserved",
-    LT_EnvWizard_PricingDetails_Disk            : "Disk Space",
-    LT_EnvWizard_Link_PricingVideo              : "[URL_VIDEO_PRICING_MODEL]How to track your spendings?[/URL_VIDEO_PRICING_MODEL]",
+    LT_EnvWizard_PricingDetails_Reserved        : "Reservado",
+    LT_EnvWizard_PricingDetails_Disk            : "Espa&ccedil;o do disco",
+    LT_EnvWizard_Link_PricingVideo              : "[URL_VIDEO_PRICING_MODEL]Como rastrear seus gastos?[/URL_VIDEO_PRICING_MODEL]",
 
-    LT_Task_Name_115                            : "Setting disk size for the %(name) ID %(nodeid) node of %(env)",
-    LT_Task_Name_116                            : "Setting disk size for %(name) nodes in %(env)",
+    LT_Task_Name_115                            : "Configurar tamanho do disco para %(name) ID %(nodeid) node do %(env)",
+    LT_Task_Name_116                            : "Configurar tamanho do disco para %(name) nodes em %(env)",
 
-    LT_EnvWizard_Warning_Cloudlets              : "The minimum cloudlet number for <b>%(node)</b> is <b><i>%(count)</b></i>.",
-    LT_E_Platform_ENV_NODE_DISK_MIN_LIMIT       : "The minimum allowed disk size is <b>%(USER_QUOTA_NODE_DISK_MIN_LIMIT)</b>.",
-    LT_E_Platform_ENV_NODE_DISK_MAX_LIMIT       : "The maximum available disk size per server is <b>%(USER_QUOTA_NODE_DISK_MAX_LIMIT)</b>. [TEXT_INCREASE_LIMITS/]",
-    LT_E_Platform_ENV_STORAGE_NODE_DISK_MAX_LIMIT : "The maximum available disk size per Storage server is <b>%(USER_QUOTA_STORAGE_NODE_DISK_MAX_LIMIT)</b>. [TEXT_INCREASE_LIMITS/]",
+    LT_EnvWizard_Warning_Cloudlets              : "O m&iacute;nimo do n&uacute;mero de Cloudlets para <b>%(node)</b> &eacute; <b><i>%(count)</b></i>.",
+    LT_E_Platform_ENV_NODE_DISK_MIN_LIMIT       : "O tamanho m&iacute;nimo de disco permitido &eacute; <b>%(USER_QUOTA_NODE_DISK_MIN_LIMIT)</b>.",
+    LT_E_Platform_ENV_NODE_DISK_MAX_LIMIT       : "O tamanho m&aacute;ximo de disco dispon&iacute;vel por servidor &eacute; <b>%(USER_QUOTA_NODE_DISK_MAX_LIMIT)</b>. [TEXT_INCREASE_LIMITS/]",
+    LT_E_Platform_ENV_STORAGE_NODE_DISK_MAX_LIMIT : "O tamanho m&aacute;ximo de disco por servidor de armazenamento dispon&iacute;vel &eacute; <b>%(USER_QUOTA_STORAGE_NODE_DISK_MAX_LIMIT)</b>. [TEXT_INCREASE_LIMITS/]",
 
-    LT_Window_Title                             : "%(HOSTER_NAME) Dashboard",
+    LT_Window_Title                             : "Painel %(HOSTER_NAME)",
 
-    LT_Error_Install_Support                    : "Please, contact support to enable this possibility.",
-    LT_Error_Install_Upgrade                    : "Please, upgrade your account to enable this possibility.",
-    LT_Error_Solution_Docker_Enable             : "Custom Docker containers are not enabled for your account. [TEXT_INCREASE_LIMITS/]",
-    LT_Error_Vds_Int_Ip_Disabled                : "Private IP address for VPS is not enabled for your account. [TEXT_INCREASE_LIMITS/]",
-    LT_EnvEndpoints_NameNoInternalIpText        : "Unavailable for nodes without private IP address",
+    LT_Error_Install_Support                    : "Por favor, entre em contato com o suporte para habilitar essa possibilidade.",
+    LT_Error_Install_Upgrade                    : "Por favor, fa&ccedil;a o upgrade da sua conta para habilitar essa possibilidade.",
+    LT_Error_Solution_Docker_Enable             : "Cont&ecirc;ineres de Docker personalizado n&atilde;o est&atilde;o habilitados para a sua conta. [TEXT_INCREASE_LIMITS/]",
+    LT_Error_Vds_Int_Ip_Disabled                : "IP privado para VPS n&atilde;o est&aacute; habilitado para a sua conta. [TEXT_INCREASE_LIMITS/]",
+    LT_EnvEndpoints_NameNoInternalIpText        : "Indispon&iacute;vel para nodes sem IP privado",
 
     LT_Menu_Toolbar_Tutorial                    : "Tutorial",
     LT_Menu_Toolbar_Api_Docs					: "API",
 
-    LT_Common_Text_Manage                       : "Manage",
+    LT_Common_Text_Manage                       : "Gerenciar",
 
-    LT_Menu_CreateEnvironment                   : "New environment",
+    LT_Menu_CreateEnvironment                   : "Novo ambiente",
     LT_Environments_Column_Tags                 : "Tags",
-    LT_Environments_Owner_HelpTip               : "Owner: %(email)",
-    LT_Environments_EnvGroupsBtn_Edit_HelpTip   : "Edit Env Groups",
-    LT_Environments_EnvGroupsBtn_Add_Text       : "+ Add to Env Group",
+    LT_Environments_Owner_HelpTip               : "Proprietario: %(email)",
+    LT_Environments_EnvGroupsBtn_Edit_HelpTip   : "Editar grupos Env",
+    LT_Environments_EnvGroupsBtn_Add_Text       : "+ Adicionar para grupo Env",
 
-    LT_Environments_NavItem_Root                : "Env Groups",
-    LT_Environments_NavItem_Region              : "Region",
-    LT_Environments_NavItem_SharedEnvs          : "Shared with Me",
+    LT_Environments_NavItem_Root                : "Env Grupos",
+    LT_Environments_NavItem_Region              : "Regi&atilde;o",
+    LT_Environments_NavItem_SharedEnvs          : "Compartilhado comigo",
 
-    LT_Common_Button_CreateNew                  : "Create New",
+    LT_Common_Button_CreateNew                  : "Criar novo",
     // LT_Environments_NavItem_EditGroup           : "Edit",
     // LT_Environments_NavItem_RemoveGroup         : "Remove",
-    LT_Environments_NavItem_CreateSubGroup      : "Add Child",
+    LT_Environments_NavItem_CreateSubGroup      : "Adicionar filho",
     // LT_Environments_NavItem_ManageGroups        : "Manage..."
 
-    LT_EnvGroups_Panel_Title                    :  "Environment Groups",
-    LT_EnvGroups_Dlg_Title_Add                  :  "Add Group",
-    LT_EnvGroups_Dlg_Title_Edit                 :  "Edit Group: %(name)",
-    LT_EnvGroups_Dlg_Field_Parent               :  "Parent Group",
-    LT_EnvGroups_Dlg_Field_Parent_EmptyText     :  "Type a name for new or select the existing",
-    LT_EnvGroups_Dlg_Field_Environments         :  "Environments",
-    LT_EnvGroups_Dlg_Field_Groups               :  "Groups",
-    LT_EnvGroups_Selector_Title                 :  "Environment Groups: %(name)",
-    LT_EnvGroups_W_NestingCharacter             :  "The \"%(separator)\" character should be only used to define Env Groups nesting.",
+    LT_EnvGroups_Panel_Title                    :  "Grupos de ambiente",
+    LT_EnvGroups_Dlg_Title_Add                  :  "Adicionar Grupo",
+    LT_EnvGroups_Dlg_Title_Edit                 :  "Editar grupo: %(name)",
+    LT_EnvGroups_Dlg_Field_Parent               :  "Grupo pai",
+    LT_EnvGroups_Dlg_Field_Parent_EmptyText     :  "Digite nome para um novo ou selecione um existente",
+    LT_EnvGroups_Dlg_Field_Environments         :  "Ambientes",
+    LT_EnvGroups_Dlg_Field_Groups               :  "Grupos",
+    LT_EnvGroups_Selector_Title                 :  "Grupos de ambiente: %(name)",
+    LT_EnvGroups_W_NestingCharacter             :  "O \"%(separator)\" caractere deve ser usado apenas para definir grupos Env aninhados.",
 
-    LT_CustomSSL_Label_UpTo                     : "till",
-    LT_CustomSSL_Label_Certificates             : "Valid",
+    LT_CustomSSL_Label_UpTo                     : "At&eacute;",
+    LT_CustomSSL_Label_Certificates             : "V&aacute;lido",
 
     LT_Import_Code_Mode_Json                    : "JSON",
     LT_Import_Code_Mode_Yaml                    : "YAML",
     LT_ManifestImp_TabManifest                  : "JPS",
-    LT_ManifestImp_TabManifest_Editor_EmptyText : "Input your JSON or YAML code here...",
+    LT_ManifestImp_TabManifest_Editor_EmptyText : "Digite seu C&oacute;digo JSON ou YAML aqui...",
 
-    LT_E_Platform_DOWNLOAD_COUNT_LIMIT_REACHED  : "The maximum number of concurrent downloads has been reached. Please wait until the current downloads are finished to add new ones.",
-    LT_E_Platform_SERVICE_INTERNAL_ERROR        : "An internal service error has occurred. [TEXT_CONTACT_SUPPORT/]",
+    LT_E_Platform_DOWNLOAD_COUNT_LIMIT_REACHED  : "O m&aacute;ximo de downloads simultâneos foi atingido. Por favor, aguarde at&eacute; que os downloads atuais sejam concluidos para adicionar novos.",
+    LT_E_Platform_SERVICE_INTERNAL_ERROR        : "Um erro de servi&ccedil;o interno ocorreu. [TEXT_CONTACT_SUPPORT/]",
 
-    LT_ManifestImp_ManifestDesc                 : "Specify JSON or YAML manifest to automatically deploy the appropriate JPS package into environment with predefined topology and configurations.<br>Use <a target='_blank' href='%(href)'>%(PLATFORM_VENDOR_NAME) JPS Collection</a> to find the ready-to-go solution you need.",
+    LT_ManifestImp_ManifestDesc                 : "Especifique o manifest JSON or YAML para fazer o Deploy apropriado em ambiente com topologia e configura&ccedil;&otilde;es.<br>Use <a target='_blank' href='%(href)'>%(PLATFORM_VENDOR_NAME) Cole&ccedil;&atilde;o JPS</a> para encontra a solu&ccedil;&atilde;o que voc&ecirc; precisa.",
 
 
-    LT_EnvAlerts_Text_Type_OOMKiller            : "Out of memory (OOM) kill occurs",
-    LT_EnvAlerts_Text_Type_OOMKillerCondition   : "OOM kill",
-    LT_EnvTrHistory_Field_NodeGroup             : "Node group",
+    LT_EnvAlerts_Text_Type_OOMKiller            : "Fora da mem&oacute;ria (OOM) morte ocorreu",
+    LT_EnvAlerts_Text_Type_OOMKillerCondition   : "Morte OOM",
+    LT_EnvTrHistory_Field_NodeGroup             : "Grupo de node",
     LT_EnvTrHistory_Field_ResourceType          : "Trigger",
     LT_EnvTrHistory_Condition_OOM               : "Killed",
-    LT_EnvTrHistory_OOM_Condition               : "OOM kill",
-    LT_EnvTrHistory_Header_ProcessName          : "Process Name",
-    LT_EnvTrHistory_Header_ProcessId            : "Process ID",
-    LT_EnvTrHistory_Header_ProcessNodeId        : "Node ID",
-    LT_EnvTrHistory_Details_Table_Title         : "Killed processes:",
-    LT_EnvTrHistory_Filters_Title               : "Filters",
-    LT_EnvAlerts_Notify_Immediately             : "Immediately",
-    LT_EnvTrHistory_Column_Result               : "Info",
+    LT_EnvTrHistory_OOM_Condition               : "Morte OOM",
+    LT_EnvTrHistory_Header_ProcessName          : "Nome do processo",
+    LT_EnvTrHistory_Header_ProcessId            : "ID do processo",
+    LT_EnvTrHistory_Header_ProcessNodeId        : "Id do node",
+    LT_EnvTrHistory_Details_Table_Title         : "Mortes processadas:",
+    LT_EnvTrHistory_Filters_Title               : "Filtros",
+    LT_EnvAlerts_Notify_Immediately             : "Imediatamente",
+    LT_EnvTrHistory_Column_Result               : "Informa&ccedil;&atilde;o",
 
-    LT_EnvMigration_TargetRegion_Validation     :  "Selected region is not available for migration",
+    LT_EnvMigration_TargetRegion_Validation     :  "A regi&atilde;o selecionada n&atilde;o está dispon&iacute;vel para a migra&ccedil;&atilde;o",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 5.0.5
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_Task_Name_117                            : "Switching engine for %(name) node(s) in %(env)",
-    LT_ManifestImp_TabURL_UntrustedSource       : "Please ensure the manifest source is trusted to avoid malefactors impact",
+    LT_Task_Name_117                            : "Trocar motor para %(name) node(s) em %(env)",
+    LT_ManifestImp_TabURL_UntrustedSource       : "Verifique se a fonte de manifest &eacute; confi&aacute;vel para evitar impactos negativos",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 5.0.6
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_EnvWizard_Tip_ChangeVersion              : "Change version",
+    LT_EnvWizard_Tip_ChangeVersion              : "Mudar vers&atilde;o",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 5.1
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_EnvGroups_Dlg_Text_EmptyList             : "No items to display. To create a new group, type name for it and press Enter.",
+    LT_EnvGroups_Dlg_Text_EmptyList             : "Nenhum item para visualizar. Para criar um novo grupo, digite um novo nome e pressione enter.",
 
     // actions: ACTION_SHOW_ENV_WIZARD, ACTION_SHOW_COLLABORATION_PANEL, ACTION_SHOW_MARKETPLACE
-    LT_Environments_EmptyText                   : "<p>Let's get started!</p>[ACTION_SHOW_ENV_WIZARD]Create New Environment[/ACTION_SHOW_ENV_WIZARD] [ACTION_SHOW_COLLABORATION_PANEL]Collaborate on<br> Shared Environment[/ACTION_SHOW_COLLABORATION_PANEL] [ACTION_SHOW_MARKETPLACE]Deploy Solution<br> from Marketplace[/ACTION_SHOW_MARKETPLACE]",
+    LT_Environments_EmptyText                   : "<p>Vamos come&ccedil;ar!</p>[ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_SHOW_COLLABORATION_PANEL]Collaborate on<br> Compartilhar ambiente[/ACTION_SHOW_COLLABORATION_PANEL] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do mercado[/ACTION_SHOW_MARKETPLACE]",
     // actions: ACTION_SHOW_ENV_WIZARD, ACTION_ATTACH_ENVS_TO_GROUP
-    LT_Environments_EnvGroup_EmptyText          : "<p>Start using this group now!</p> [ACTION_SHOW_ENV_WIZARD]Create New Environment[/ACTION_SHOW_ENV_WIZARD] [ACTION_ATTACH_ENVS_TO_GROUP]Add Environment<br> to This Group[/ACTION_ATTACH_ENVS_TO_GROUP] [ACTION_SHOW_MARKETPLACE]Deploy Solution<br> from Marketplace[/ACTION_SHOW_MARKETPLACE]",
+    LT_Environments_EnvGroup_EmptyText          : "<p>Comece a usar esse grupo agora!</p> [ACTION_SHOW_ENV_WIZARD]Criar novo ambiente[/ACTION_SHOW_ENV_WIZARD] [ACTION_ATTACH_ENVS_TO_GROUP]Adicionar ambientet<br> para esse grupo[/ACTION_ATTACH_ENVS_TO_GROUP] [ACTION_SHOW_MARKETPLACE]Implantar solu&ccedil;&atilde;o<br> do mercado[/ACTION_SHOW_MARKETPLACE]",
 
     LT_BillingHistory_ExportToFile              : "Download CSV",
-    LT_ErrorBillingHistory_ExportToFile         : "An error occurred while trying to download the file",
-    LT_BillingHistory_IntervalNotValid          : "This interval can be used only for %(value) period",
+    LT_ErrorBillingHistory_ExportToFile         : "Um erro ocorreu ao tentar fazer o download do arquivo",
+    LT_BillingHistory_IntervalNotValid          : "Este intervalo pode ser usado apenas pelo per&iacute;odo de %(value)",
 
-    LT_Common_Text_Interval_Days                : "days",
-    LT_Common_Text_Interval_Weeks               : "weeks",
-    LT_Common_Text_Interval_Year                : "year",
-    LT_Common_Text_Interval_Years               : "years",
+    LT_Common_Text_Interval_Days                : "dias",
+    LT_Common_Text_Interval_Weeks               : "semanas",
+    LT_Common_Text_Interval_Year                : "ano",
+    LT_Common_Text_Interval_Years               : "anos",
 
-    LT_Config_Tab_Title                         : "%(sType) : config",
-    LT_Log_Tab_Title							: "%(sType) : log",
-    LT_Statistics_Tab_Title                     : "%(sType) : statistics",
-    LT_RedeployContainer_Logs_Tab_Title         : "%(sType) : redeploy",
+    LT_Config_Tab_Title                         : "%(sType) : Configura&ccedil;&atilde;o",
+    LT_Log_Tab_Title							: "%(sType) : Log",
+    LT_Statistics_Tab_Title                     : "%(sType) : Estat&iacute;sticas",
+    LT_Redeploycont&ecirc;iner_Logs_Tab_Title         : "%(sType) : Reimplanta&ccedil;&atilde;o",
 
-    LT_Settings_Tab_Title                       : "Settings",
-    LT_Tasks_Tab_Title                         	: "Tasks",
+    LT_Settings_Tab_Title                       : "Configura&ccedil;&otilde;es",
+    LT_Tasks_Tab_Title                         	: "Notas",
 
 
-    LT_Menu_DeployToEnvironment_NoRights        : "Deployment to this environment is not available due to the limited collaboration permissions.",
+    LT_Menu_DeployToEnvironment_NoRights        : "A implanta&ccedil;&atilde;o nesse ambiente n&atilde;o est&aacute; dispon&iacute;vel devido &agrave;s permiss&otilde;es de colabora&ccedil;&atilde;o limitadas.",
 
-    LT_AppStore_Error_ManifestIsCorrupted       : "An error occurred while trying to retrieve application data. Please ensure you've chosen the proper JPS file",
+    LT_AppStore_Error_ManifestIsCorrupted       : "Um erro ocorreu ao tentar recuperar dados do aplicativo. Por favor, certifique-se de ter escolhido o arquivo JPS adequado.",
 
-    LT_DockerSettings_Ports_HelpTip_Top         : "Ports %(ports) are opened by default. <br><br>Use [link-endpoints]Endpoints[/link-endpoints] to open any other port outside via Shared Load Balancer or use [link-docs-pubip]Public IP[/link-docs-pubip] to have direct access to all ports of your container." ,
-    LT_DockerSettings_Ports_SchemeCaption       : "Environment Network",
-    LT_DockerSettings_Ports_SchemeLegend_1      : "Open port by default",
-    LT_DockerSettings_Ports_SchemeLegend_2      : "<span class='text-box'>Endpoint</span>&nbsp;randomly assigned port",
-    LT_DockerSettings_Ports_SchemeLegend_3      : "Dead (closed) port by default",
-    LT_DockerSettings_Ports_SchemeLegend_4      : "Shared Load Balancer",
-    LT_DockerSettings_Ports_HelpTip_Bottom      : "Read [link-docs]documentation[/link-docs] to find out more details on managing Docker container ports.",
+    LT_DockerSettings_Ports_HelpTip_Top         : "As portas %(ports) s&atilde;o abertas por padr&atilde;o. <br><br>Use [link-endpoints]Endpoints[/link-endpoints] para abrir qualquer outra porta via balanceador de carga compartilhada ou usar [link-docs-pubip]IP publico[/link-docs-pubip] para ter acesso a todas as portas do seu cont&ecirc;iner." ,
+    LT_DockerSettings_Ports_SchemeCaption       : "Rede do ambiente",
+    LT_DockerSettings_Ports_SchemeLegend_1      : "Abrir porta por padr&atilde;o",
+    LT_DockerSettings_Ports_SchemeLegend_2      : "<span class='text-box'>Endpoint</span>&nbsp;porta atribu&iacute;da aleatoriamente",
+    LT_DockerSettings_Ports_SchemeLegend_3      : "Porta fechada por padr&atilde;o",
+    LT_DockerSettings_Ports_SchemeLegend_4      : "Balanceador de carga compartilhado",
+    LT_DockerSettings_Ports_HelpTip_Bottom      : "Leia a [link-docs]documenta&ccedil;&atilde;o[/link-docs] para saber mais detalhes de como gerencias as portas do Docker cont&ecirc;iner.",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 5.2
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    LT_Task_Name_122                            : "Setting variables for %(name) node(s) in %(env)",
-    LT_Menu_Toolbar_ConvertAccount              : "Upgrade account",
+    LT_Task_Name_122                            : "Configurar vari&aacute;veis para %(name) node(s) em %(env)",
+    LT_Menu_Toolbar_ConvertAccount              : "Upgrade de conta",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Release: 5.3
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     LT_Log_Button_Download                      : "Download",
-    LT_Log_Archive_CannotBeRead                 : "Archive files cannot be viewed. To see such file content, either download or open it via SSH.",
+    LT_Log_Archive_CannotBeRead                 : "Arquivo de arquivos N&atilde;o podem ser visualizados. Para ver esse conte&uacute;do de arquivo, fa&ccedil;a o download ou abra via SSH.",
     LT_Deploy_VCS_Panel_Title                   : "Git / SVN",
-    LT_Deploy_VCS_Panel_Archive                 : "Archive",
-    LT_Deploy_VCS_Column_Name                   : "Name",
+    LT_Deploy_VCS_Panel_Archive                 : "Arquivo",
+    LT_Deploy_VCS_Column_Name                   : "Nome",
     LT_Deploy_VCS_Column_Url                    : "URL",
-    LT_Deploy_VCS_Btn_Add_Project               : "Add Project",
+    LT_Deploy_VCS_Btn_Add_Project               : "Adicionar projeto",
     LT_Title_Git                                : "Git",
     LT_Title_SVN                                : "SVN",
-    LT_Deploy_VCS_SSH_Empty_Text                : "Select...",
-    LT_Deploy_VCS_Dlg_Deploy_Title              : "Deploy %(name)",
-    LT_Common_Button_Deploy                     : "Deploy",
-    LT_Common_Button_AddDeploy                  : "Add and Deploy",
-    LT_AddBuild_Option_Existing                 : "Use the existing node",
-    LT_AddBuild_Option_New                      : "Add a new node",
-    LT_AddBuild_Option_New_Tip                  : "A new node will be added to the selected environment",
-    LT_Deploy_VCS_Add_Dlg_Success               : "The project %(name) was successfully added.<br> Now you can deploy it",
-    LT_Deploy_Grid_Empty_Text                   : "There are no projects to display",
-    LT_Common_Button_BuildDeploy                : "Build and Deploy",
-    LT_Deploy_Require_Maven_Text                : "A Maven node is required to build & deploy your project",
-    LT_Deploy_Maven_AutoAdd_Text                : "A Maven node is required to build & deploy your project. It will be automatically added to the selected environment.",
-    LT_Deploy_Title                             : "Deployment Manager",
-    LT_Deploy_VCS_Title_AddProject              : "Add Git / SVN Project",
-    LT_Deploy_VCS_Title_EditProject             : "Edit Git / SVN Project",
-    LT_Deploy_VCS_Title_DeployProject           : "Deploy from Git / SVN",
-    LT_Deploy_Archive_Title_DeployProject       : "Deploy archive",
-    LT_Deploy_URL_Title_DeployProject           : "Deploy from URL",
-    LT_Deploy_VCS_Post_Deploy_Hook              : "Post-Deploy Hook",
-    LT_Deploy_VCS_Post_Deploy_Hook_Empty_Text   : "Enter your script",
-    LT_Deploy_VCS_Confirm_Delete                : "Delete <b>%(name)</b> project?",
-    LT_Deploy_VCS_Remove_Project_Error          : "An error occurred while trying to remove the project",
-    LT_Deploy_VCS_Add_Project_Error             : "An error occurred while trying to add the project",
-    LT_Deploy_VCS_Edit_Project_Error            : "An error occurred while trying to edit the project",
-    LT_Deploy_VCS_Deploy_Project_Error          : "An error occurred while trying to deploy the project",
-    LT_Task_Name_128                            : "Deploying %(projectName) project to %(env)",
-    LT_Process_Label_Removing_Item              : "Removing...",
-    LT_Deploy_Tip_AddProject                    : "Add a project",
-    LT_Deploy_Tip_AddDeployProject              : "Add and Deploy a project",
-    LT_Deploy_Tip_ApplyDeployProject            : "Apply changes and Deploy the project",
-    LT_Deploy_Tip_ApplyProject                  : "Apply changed project settings",
-    LT_Common_Button_Back                       : "Back",
-    LT_Environments_Label_Deployments           : "Deployments",
-    LT_Common_Title_Deploy                      : "Deploy",
-    LT_Common_Text_Project						: "Project",
-    LT_Common_Combo_SelectOrAdd_Text            : "Select existing or add a new one",
-    LT_Deploy_AddNewProject_Rec                 : "Add new project",
-    LT_Common_Label_SelectOrTypeNew             : "Select existing or type a new one",
-    LT_UpdateProject_Interval                   : "Check and auto-deploy updates every",
+    LT_Deploy_VCS_SSH_Empty_Text                : "Selecionar...",
+    LT_Deploy_VCS_Dlg_Deploy_Title              : "Implementar %(name)",
+    LT_Common_Button_Deploy                     : "Implementar",
+    LT_Common_Button_AddDeploy                  : "Adicionar e Implementar",
+    LT_AddBuild_Option_Existing                 : "Use o node existnte",
+    LT_AddBuild_Option_New                      : "Add um novo node",
+    LT_AddBuild_Option_New_Tip                  : "Um novo node ser&aacute; adicionado ao ambiente selecionado",
+    LT_Deploy_VCS_Add_Dlg_Success               : "O projeto %(name) foi adicionado com sucesso.<br> Agora voc&ecirc; pode implement&aacute;-lo",
+    LT_Deploy_Grid_Empty_Text                   : "N&atilde;o h&aacute; projetos para serem exibidos",
+    LT_Common_Button_BuildDeploy                : "Construir e implementar",
+    LT_Deploy_Require_Maven_Text                : "Um node Maven é necess&aacute;rio para construir e implantar seu projeto",
+    LT_Deploy_Maven_AutoAdd_Text                : "Um node Maven é necess&aacute;rio para construir e implantar seu projeto. Ele ser&aacute; automaticamente adicionado ao ambiente selecionado.",
+    LT_Deploy_Title                             : "Gestor de implanta&ccedil;&atilde;o",
+    LT_Deploy_VCS_Title_AddProject              : "Adicionar projeto Git / SVN",
+    LT_Deploy_VCS_Title_EditProject             : "Editar projeto Git / SVN",
+    LT_Deploy_VCS_Title_DeployProject           : "Implementar de Git / SVN",
+    LT_Deploy_Archive_Title_DeployProject       : "Implementar arquivo",
+    LT_Deploy_URL_Title_DeployProject           : "Implementar de URL",
+    LT_Deploy_VCS_Post_Deploy_Hook              : "Gancho p&oacute;s-implanta&ccedil;&atilde;o",
+    LT_Deploy_VCS_Post_Deploy_Hook_Empty_Text   : "Digite seu script",
+    LT_Deploy_VCS_Confirm_Delete                : "Deletar o projeto <b>%(name)</b>?",
+    LT_Deploy_VCS_Remove_Project_Error          : "Um erro ocorreu enquanto tentava deletar o projeto",
+    LT_Deploy_VCS_Add_Project_Error             : "Um erro ocorreu enquanto tentava adicionar o projeto",
+    LT_Deploy_VCS_Edit_Project_Error            : "Um erro ocorreu enquanto tentava editar o projeto",
+    LT_Deploy_VCS_Deploy_Project_Error          : "Um erro ocorreu enquanto tentava implantar o projeto",
+    LT_Task_Name_128                            : "Implementando %(projectName) projeto para %(env)",
+    LT_Process_Label_Removing_Item              : "Removendo...",
+    LT_Deploy_Tip_AddProject                    : "Adicionar um projeto",
+    LT_Deploy_Tip_AddDeployProject              : "Adicionar e implementar um projeto",
+    LT_Deploy_Tip_ApplyDeployProject            : "Aplicar altera&ccedil;&otilde;es e implementar projeto",
+    LT_Deploy_Tip_ApplyProject                  : "Aplicar configura&ccedil;&otilde;es de projeto alteradas",
+    LT_Common_Button_Back                       : "Voltar",
+    LT_Environments_Label_Deployments           : "Implementa&ccedil;&otilde;es",
+    LT_Common_Title_Deploy                      : "Implementar",
+    LT_Common_Text_Project						: "Projeto",
+    LT_Common_Combo_SelectOrAdd_Text            : "Selecione existente ou adicione um novo",
+    LT_Deploy_AddNewProject_Rec                 : "Adicionar novo projeto",
+    LT_Common_Label_SelectOrTypeNew             : "Selecionar existente um digite um novo",
+    LT_UpdateProject_Interval                   : "Verifique e implante automaticamente atualiza&ccedil;&otilde;es a cada",
 
     // LT_Common_Text_Action_Unavailable           : "This action is unavailable at the moment. Please wait until the current actions are finished.",
 
-    LT_Pricing_Column_UnitHourPrice             : "%(sUnit) / hour",
-    LT_Pricing_Column_UnitMonthPrice            : "%(sUnit) / month*",
+    LT_Pricing_Column_UnitHourPrice             : "%(sUnit) / hora",
+    LT_Pricing_Column_UnitMonthPrice            : "%(sUnit) / m&ecirc;s*",
 
-    LT_Quotas_Text_ExternalIP                   : "Public IPv4 addresses.",
-    LT_Quotas_Text_ExternalIPv6                 : "Public IPv6 addresses.",
+    LT_Quotas_Text_ExternalIP                   : "Endere&ccedil;os IPv4 p&uacute;blicos.",
+    LT_Quotas_Text_ExternalIPv6                 : "Endere&ccedil;os IPv6 p&uacute;blicos.",
 
-    LT_Quotas_Text_ExtIPv4MaxCount              : "Maximum number of Public IPv4 addresses per environment.",
-    LT_Quotas_Text_ExtIPv6MaxCount              : "Maximum number of Public IPv6 addresses per environment.",
+    LT_Quotas_Text_ExtIPv4MaxCount              : "Número m&aacute;ximo de endere&ccedil;os IPv4 p&uacute;blicos por ambiente.",
+    LT_Quotas_Text_ExtIPv6MaxCount              : "Número m&aacute;ximo de endere&ccedil;os IPv6 p&uacute;blicos por ambiente.",
 
-    LT_Quotas_Text_ExtIPv4MaxCountPerNode       : "Maximum number of Public IPv4 addresses per node.",
-    LT_Quotas_Text_ExtIPv6MaxCountPerNode       : "Maximum number of Public IPv6 addresses per node.",
+    LT_Quotas_Text_ExtIPv4MaxCountPerNode       : "Número m&aacute;ximo de endere&ccedil;os IPv4 p&uacute;blicos por node.",
+    LT_Quotas_Text_ExtIPv6MaxCountPerNode       : "Número m&aacute;ximo de endere&ccedil;os IPv6 p&uacute;blicos por node.",
 
-    LT_OptionsCost_Text_IPv6_Desc               : "This is an external IPv6 address which is directly accessible from outside of the cluster. The charge is taken hourly.",
+    LT_OptionsCost_Text_IPv6_Desc               : "Este &eacute; um endere&ccedil;o IPv6 externo que est&aacute; diretamente acess&iacute;vel de fora do cluster. A carga &eacute; tomada por hora.",
 
-    LT_Common_Text_ExtIP                        : "Public IP",
-    LT_Common_Text_ExtIPv4                      : "Public IPv4",
-    LT_Common_Text_ExtIPv6                      : "Public IPv6",
+    LT_Common_Text_ExtIP                        : "IP P&uacute;blico",
+    LT_Common_Text_ExtIPv4                      : "IPv4 P&uacute;blico",
+    LT_Common_Text_ExtIPv6                      : "IPv6 P&uacute;blico",
 
-    LT_EnvNodeSettings_Label_ExtIPv4            : "Number of attached Public IPv4 addresses",
-    LT_EnvNodeSettings_Label_ExtIPv6            : "Number of attached Public IPv6 addresses",
+    LT_EnvNodeSettings_Label_ExtIPv4            : "N&uacute;mero de endere&ccedil;os IPv4 p&uacute;blicos anexados",
+    LT_EnvNodeSettings_Label_ExtIPv6            : "N&uacute;mero de endere&ccedil;os IPv6 p&uacute;blicos anexados",
 
-    LT_Menu_AttachDetachIP                      : "Attach/Detach IP(s)",
-    LT_Menu_DetachIP                            : "Detach IP",
-    LT_Menu_DetachPrimaryIPRestricted           : "Primary IP should be detached last",
+    LT_Menu_AttachDetachIP                      : "Anexar/Destacar IP(s)",
+    LT_Menu_DetachIP                            : "Destacar IP",
+    LT_Menu_DetachPrimaryIPRestricted           : "IP prim&aacute;rio deve ser desanexado do &uacute;ltimo",
 
-    LT_Confirm_DetachIP                         : "Detach <b>%(ip)</b> IP?",
-    LT_Confirm_DetachIPs                        : "Detach all Public IPs from current node?",
+    LT_Confirm_DetachIP                         : "Destacar o IP <b>%(ip)</b>?",
+    LT_Confirm_DetachIPs                        : "Destacar todos os IPs p&uacute;blicos do node atual?",
 
-    LT_Common_Title_NodeSettings    		    : "Node %(nodeId) Settings",
+    LT_Common_Title_NodeSettings    		    : "Configura&ccedil;&otilde;es do node %(nodeId)",
 
-    LT_Common_Label_Copy2Clipboard              : "Copy to clipboard",
-    LT_Common_Label_Copied                      : "Copied!",
+    LT_Common_Label_Copy2Clipboard              : "Copiar para transfer&ecirc;ncia",
+    LT_Common_Label_Copied                      : "Copiado!",
     LT_Common_Label_Copy4OldBrowser             : "%(LT_ConfigManager_OldBrowser_Info)",
 
-    LT_Task_Name_31	                            : "Attaching Public IP for %(name) to %(env)",
-    LT_Task_Name_52	                            : "Detaching %(ip) Public IP from %(name) in %(env)",
-    LT_Task_Name_127                            : "Setting the amount of Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] addresses to %(count) for %(name) node with ID %(nodeid) in %(env)",
+    LT_Task_Name_31	                            : "Anexando IP p&uacute;blico para %(name) para %(env)",
+    LT_Task_Name_52	                            : "Destacando IP p&uacute;blico %(ip) de %(name) em %(env)",
+    LT_Task_Name_127                            : "Definindo a quantidade de endere&ccedil;os de [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico para %(count) para o node %(name) com ID%(name) em %(env)",
 
-    LT_Info_ExtIPCountUpdated                   : "Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] amount for <b>%(node)</b> node has been successfully updated.",
-    LT_Info_ExtIPDetached                       : "Public IP %(ip) has been successfully detached from <b>%(node)</b> node.",
-    LT_Info_ExtIPsDetached                      : "Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] has been successfully detached from <b>%(node)</b> node.",
+    LT_Info_ExtIPCountUpdated                   : "Quantidade de [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico  para o node <b>%(node)</b> foi atualizado com sucesso.",
+    LT_Info_ExtIPDetached                       : "IP p&uacute;blico %(ip) foi destacado com sucesso do node <b>%(node)</b>.",
+    LT_Info_ExtIPsDetached                      : "[FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico foi destacado com sucesso do node <b>%(node)</b>.",
 
-    LT_Action_DetachIP                          : "detach IP %(ip) from %(node) node",
-    LT_Action_DetachIPs                         : "detach IPs from %(node) node",
-    LT_Action_SetExtIPCount                     : "update the amount of Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] for %(node) node",
+    LT_Action_DetachIP                          : "Destacando IP %(ip) do node %(node)",
+    LT_Action_DetachIPs                         : "IPs destacados do node %(node)",
+    LT_Action_SetExtIPCount                     : "atualizando a quantidade de [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico para o node %(node)",
 
-    LT_AddonWarning_ConvertAcc                  : "Public IP addresses are available for billing users only. Please upgrade your account to use Public IP.",
-    LT_AddonWarning_ContactSupport              : "You are not allowed to use Public IP address(es) due to your account restrictions. Please contact our support team to remove this limitation.",
-    LT_AddonWarning_externalip                  : "Public IP will be added to your environment automatically.",
+    LT_AddonWarning_ConvertAcc                  : "Os endere&ccedil;os de IP p&uacute;blico est&atilde;o dispon&iacute;veis apenas para contas pagas. Fa&ccedil;a o upgrade da sua conta para usar um IP p&uacute;blico.",
+    LT_AddonWarning_ContactSupport              : "N&atilde;o &eacute; poss&iacute;vel utilizar o endere&ccedil;o de p&uacute;blico devido &agrave;s restri&ccedil;&otilde;es da conta. Por favor entre em contato com o suporte para remover essa restri&ccedil;&atilde;o.",
+    LT_AddonWarning_externalip                  : "O IP p&uacute;blico ser&aacute; adicionado ao seu ambiente automaticamente.",
 
-    LT_E_Platform_ENV_EXT_IP_REQUIRED           : "Public IP is required for the <b>%(node)</b> node.",
+    LT_E_Platform_ENV_EXT_IP_REQUIRED           : "IP p&uacute;blico &eacute; necess&aacute;rio para o node <b>%(node)</b>.",
 
-    LT_Common_Text_ExtIPNotAllowed              : "Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] addresses usage is  not allowed for your account.",
+    LT_Common_Text_ExtIPNotAllowed              : "Endere&ccedil;os [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico n&atilde;o &eacute; permitido para a sua conta.",
     LT_E_Platform_ENV_EXT_IPV4_NOT_ALLOWED      : "[TPL]LT_Common_Text_ExtIPNotAllowed, {type: 'EXT_IP_TYPE_V4'}[/TPL]",
     LT_E_Platform_ENV_EXT_IPV6_NOT_ALLOWED      : "[TPL]LT_Common_Text_ExtIPNotAllowed, {type: 'EXT_IP_TYPE_V6'}[/TPL]",
 
-    LT_Common_Text_MaxExtIPPerEnv               : "The maximum amount of Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] addresses per environment is <b>%(maxcount)</b>. [TEXT_INCREASE_LIMITS/].",
+    LT_Common_Text_MaxExtIPPerEnv               : "A quantidade m&aacute;xima de endere&ccedil;os [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico por ambiente &eacute; <b>%(maxcount)</b>. [TEXT_INCREASE_LIMITS/].",
     LT_E_Platform_ENV_EXT_IPV4_MAXCOUNT         : "[TPL]LT_Common_Text_MaxExtIPPerEnv, {type: 'EXT_IP_TYPE_V4', maxcount: 'QUOTA_ENV_EXT_IPV4_MAXCOUNT'}[/TPL]",
     LT_E_Platform_ENV_EXT_IPV6_MAXCOUNT         : "[TPL]LT_Common_Text_MaxExtIPPerEnv, {type: 'EXT_IP_TYPE_V6', maxcount: 'QUOTA_ENV_EXT_IPV6_MAXCOUNT'}[/TPL]",
 
-    LT_Common_Text_MaxExtIPPerNode              : "The maximum amount of Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] addresses per server is <b>%(maxcount)</b>. [TEXT_INCREASE_LIMITS/].",
+    LT_Common_Text_MaxExtIPPerNode              : "A quantidade m&aacute;xima de endere&ccedil;os [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico por servidor &eacute; <b>%(maxcount)</b>. [TEXT_INCREASE_LIMITS/].",
     LT_E_Platform_ENV_NODE_EXT_IPV4_MAXCOUNT    : "[TPL]LT_Common_Text_MaxExtIPPerNode, {type: 'EXT_IP_TYPE_V4', maxcount: 'QUOTA_ENV_NODE_EXT_IPV4_MAXCOUNT'}[/TPL]",
     LT_E_Platform_ENV_NODE_EXT_IPV6_MAXCOUNT    : "[TPL]LT_Common_Text_MaxExtIPPerNode, {type: 'EXT_IP_TYPE_V6', maxcount: 'QUOTA_ENV_NODE_EXT_IPV6_MAXCOUNT'}[/TPL]",
 
-    LT_EnvMigration_Error_Title                 : "Environment %(envName) migration",
+    LT_EnvMigration_Error_Title                 : "Migra&ccedil;&atilde;o do ambiente %(envName)",
 
-    TEXT_ENV_NODE_IP_CONTACT_SUPPORT            : "New IP addresses will be available soon. Please try again later or [ACTION_HOSTER_SUPPORT]contact support[/ACTION_HOSTER_SUPPORT].",
-    TEXT_ENV_MIGRATION_CONTACT_SUPPORT          : "Please select another region or [ACTION_HOSTER_SUPPORT]contact support[/ACTION_HOSTER_SUPPORT].",
+    TEXT_ENV_NODE_IP_CONTACT_SUPPORT            : "Novos endere&ccedil;os de IP estar&atilde;o dispon&iacute;veis em breve. Por favor tente novamente mais tarde ou entre em [ACTION_HOSTER_SUPPORT]contato com o suporte[/ACTION_HOSTER_SUPPORT].",
+    TEXT_ENV_MIGRATION_CONTACT_SUPPORT          : "Por favor selecione uma outra regi&atilde;o ou entre em [ACTION_HOSTER_SUPPORT]contato com o suporte[/ACTION_HOSTER_SUPPORT].",
 
-    LT_Common_Text_NoFreeIntIP                  : "There are no free IP addresses in the <b>%(region)</b> region at the moment.",
+    LT_Common_Text_NoFreeIntIP                  : "N&atilde;o existem endere&ccedil;os IPs gratuitos na regi&atilde;o <b>%(region)</b> no momento.",
     LT_E_Platform_ENV_NO_FREE_INTERNAL_IP       : "%(LT_Common_Text_NoFreeIntIP) [TEXT_ENV_NODE_IP_CONTACT_SUPPORT/]",
     LT_E_EnvMigration_ENV_NO_FREE_INTERNAL_IP   : "%(LT_Common_Text_NoFreeIntIP) [TEXT_ENV_MIGRATION_CONTACT_SUPPORT/]",
 
-    LT_Common_Text_NoFreeExtIP                  : "There are no free Public [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] in the <b>%(region)</b> region at the moment.",
+    LT_Common_Text_NoFreeExtIP                  : "N&atilde;o h&aacute; nenhum [FORMAT_IP_TYPE]%(type)[/FORMAT_IP_TYPE] p&uacute;blico livre na regi&atilde;o <b>%(region)</b> no momento.",
     LT_E_Platform_ENV_NO_FREE_EXT_IPV4          : "[TPL]LT_Common_Text_NoFreeExtIP, {type: 'EXT_IP_TYPE_V4'}[/TPL] [TEXT_ENV_NODE_IP_CONTACT_SUPPORT/]",
     LT_E_Platform_ENV_NO_FREE_EXT_IPV6          : "[TPL]LT_Common_Text_NoFreeExtIP, {type: 'EXT_IP_TYPE_V6'}[/TPL] [TEXT_ENV_NODE_IP_CONTACT_SUPPORT/]",
     LT_E_EnvMigration_ENV_NO_FREE_EXT_IPV4      : "[TPL]LT_Common_Text_NoFreeExtIP, {type: 'EXT_IP_TYPE_V4'}[/TPL] [TEXT_ENV_MIGRATION_CONTACT_SUPPORT/]",
     LT_E_EnvMigration_ENV_NO_FREE_EXT_IPV6      : "[TPL]LT_Common_Text_NoFreeExtIP, {type: 'EXT_IP_TYPE_V6'}[/TPL] [TEXT_ENV_MIGRATION_CONTACT_SUPPORT/]",
 
-    LT_E_Platform_ENV_EXT_IP_PRIMARY_DETACH_RESTRICTED : "Primary IP should be detached last",
+    LT_E_Platform_ENV_EXT_IP_PRIMARY_DETACH_RESTRICTED : "IP prim&aacute;rio deve ser desanexado da &uacute;ltima",
 
-    LT_EnvProgress_Clone_Title_Failed			: "Cloning of the <b>%(name)</b> environment has failed.",
+    LT_EnvProgress_Clone_Title_Failed			: "Erro ao clonar o ambiente <b>%(name)</b>",
 
-    LT_DockerSettings_EnvVars_HelpTip           : "Read [URL_DOCS_DOCKER_ENV_VARS]documentation[/URL_DOCS_DOCKER_ENV_VARS] to find out more details on Docker container environment variables.",
-    LT_DockerSettings_Links_HelpTip             : "Read [URL_DOCS_DOCKER_LINKS]documentation[/URL_DOCS_DOCKER_LINKS] to find out more details on Docker containers' linking.",
-    LT_DockerSettings_Vols_HelpTip              : "Read [URL_DOCS_DOCKER_VOLUMES]documentation[/URL_DOCS_DOCKER_VOLUMES] to find out more details on Docker container volumes.",
-    LT_DockerSettings_RunArgs_HelpTip           : "Read [URL_DOCS_DOCKER_RUN_ARGS]documentation[/URL_DOCS_DOCKER_RUN_ARGS] to find out more details on Docker container run options.",
+    LT_DockerSettings_EnvVars_HelpTip           : "Leia a [URL_DOCS_DOCKER_ENV_VARS]documenta&ccedil;&atilde;o[/URL_DOCS_DOCKER_ENV_VARS] para encontrar mais detalhes sobre vari&aacute;veis de ambiente do Docker cont&ecirc;iner.",
+    LT_DockerSettings_Links_HelpTip             : "Leia a [URL_DOCS_DOCKER_LINKS]documenta&ccedil;&atilde;o[/URL_DOCS_DOCKER_LINKS] para encontrar mais detalhes sobre vincula&ccedil;&atilde;o do Docker cont&ecirc;ineres.",
+    LT_DockerSettings_Vols_HelpTip              : "Leia a [URL_DOCS_DOCKER_VOLUMES]documenta&ccedil;&atilde;o[/URL_DOCS_DOCKER_VOLUMES] para encontrar mais detalhes sobre volumes do Docker cont&ecirc;iner.",
+    LT_DockerSettings_RunArgs_HelpTip           : "Leia a [URL_DOCS_DOCKER_RUN_ARGS]documenta&ccedil;&atilde;o[/URL_DOCS_DOCKER_RUN_ARGS] para encontrar mais detalhes sobre opções de run no Docker cont&ecirc;iner.",
 
-    LT_TutorSlider_Text_PrAdvantages            : "Enjoy Pricing Advantages",
+    LT_TutorSlider_Text_PrAdvantages            : "Desfrute das vantagens dos pre&ccedil;os",
 
-    LT_TutorSlider_Title_Benefits    	   	    : "The Benefits of %(PLATFORM_VENDOR_NAME) PaaS",
-    LT_TutorSlider_Title_SaveMoney    	   	    : "Tune Your Resource Consumption",
-    LT_TutorSlider_Title_Build    	   	        : "Build Your Application Topology",
+    LT_TutorSlider_Title_Benefits    	   	    : "Os beneficios da PaaS %(PLATFORM_VENDOR_NAME)",
+    LT_TutorSlider_Title_SaveMoney    	   	    : "Sintonize o consumo de recursos",
+    LT_TutorSlider_Title_Build    	   	        : "Criar a topologia do aplicativo",
 
-    LT_TutorSlider_Build_Left_Container 	   	: "Container",
-    LT_TutorSlider_Build_Left_Layer 	   	    : "Layer",
-    LT_TutorSlider_Build_Left_Environment 	   	: "Environment",
-    LT_TutorSlider_Build_Left_Application 	   	: "Application",
+    LT_TutorSlider_Build_Left_cont&ecirc;iner 	   	: "cont&ecirc;iner",
+    LT_TutorSlider_Build_Left_Layer 	   	    : "Camada",
+    LT_TutorSlider_Build_Left_Environment 	   	: "Ambiente",
+    LT_TutorSlider_Build_Left_Application 	   	: "Aplica&ccedil;&atilde;o",
 
-    LT_TutorSlider_Build_Right_Balancer 	   	: "Balancer (BL)",
-    LT_TutorSlider_Build_Right_Compute 	   	    : "Compute (CP)",
-    LT_TutorSlider_Build_Right_Database 	   	: "Database (DB)",
-    LT_TutorSlider_Build_Right_Storage 	   	    : "Storage (ST)",
+    LT_TutorSlider_Build_Right_Balancer 	   	: "Balanceador (BL)",
+    LT_TutorSlider_Build_Right_Compute 	   	    : "Computar (CP)",
+    LT_TutorSlider_Build_Right_Database 	   	: "Banco de dados (DB)",
+    LT_TutorSlider_Build_Right_Storage 	   	    : "Armazenamento (ST)",
 
     LT_E_Platform_ENV_EXT_DOMAIN_NOT_ALLOWED    : "%(LT_ExtDomains_Error_Quota)",
 
-    LT_Menu_Billing_Btn_Billing                 : "Billing",
+    LT_Menu_Billing_Btn_Billing                 : "Faturamentp",
 
-    LT_EnvWizard_PricingDetails_RestRes         : "[link-storage]Disk Space[/link-storage] and [link-traffic]Traffic[/link-traffic] are charged based on consumption.",
+    LT_EnvWizard_PricingDetails_RestRes         : "O [link-storage]Espa&ccedil;o em Disco[/link-storage] e [link-traffic]Trafego[/link-traffic] s&atilde;o cobrados com base no consumo.",
 
-    LT_Task_Name_133                            : "Swapping Public IPv4 between %(name) node with ID %(nodeid) in %(env) and %(targetNodeid)",
+    LT_Task_Name_133                            : "Trocando IPv4 público entre o node %(name) Com ID %(nodeid) no %(env) e %(targetNodeid)",
 
-    LT_Pricing_Text_MonthHours                  : "* Based on a %(count)-hour month.",
+    LT_Pricing_Text_MonthHours                  : "* Com base em um mês %(count)-hora.",
 
-    LT_Warning_Install_Note                     : "<b>Note:</b> The environment will be created with less resources than intended due to your account limits, thus its proper operability cannot be guaranteed.",
-    
-    LT_ConfigManager_FileAlreadyExists          : "The path <b>%(path)</b> already exists in the %(env) environment. The directory structure will be updated.",
+    LT_Warning_Install_Note                     : "<b>Nota:</b> O ambiente ser&aacute; criado com menos recursos do que o previsto devido aos limites de sua conta, assim, a sua adequada operabilidade n&atilde;o pode ser garantinda.",
 
-    LT_Config_Text_LoadingError_402             : "The binary file cannot be viewed. To see such file content, either download or open it via SSH.",
+    LT_ConfigManager_FileAlreadyExists          : "O caminho <b>%(path)</b> no ambiente %(env). A estrutura do diret&oacute;rio será atualizada.",
 
-    LT_Process_Label_AttachingIPs               : "Attaching IPs...",
-    LT_Process_Label_DetachingIPs               : "Detaching IPs...",
-    LT_Process_Label_UpdatingIPs                : "Updating the amount...",
+    LT_Config_Text_LoadingError_402             : "O arquivo bin&aacute;rio não pode ser visualizado. para ver esse conteúdo de arquivo, baixe-o ou abra-o via SSH.",
 
-    LT_Task_Name_118_NodeGroup	                : "Restarting node(s) %(name) of %(env)",
-    LT_Task_Name_118_NodeId	                    : "Restarting %(name) ID %(nodeid) node of %(env)",
-    LT_Task_Name_119_NodeGroup	                : "Resetting password for %(name) of %(env)",
-    LT_Task_Name_119_NodeId	                    : "Resetting password for %(name) ID %(nodeid) node of %(env)",
-    LT_Task_Name_120_NodeGroup	                : "Resetting password for %(name) of %(env)",
-    LT_Task_Name_120_NodeId	                    : "Resetting password for %(name) ID %(nodeid) node of %(env)",
-    LT_Task_Name_121_NodeGroup	                : "Restarting node(s) %(name) of %(env)",
-    LT_Task_Name_121_NodeId	                    : "Restarting %(name) ID %(nodeid) node of %(env)",
-    LT_Task_Name_123_NodeGroup                  : "Adding variables for %(name) node(s) in %(env)",
-    LT_Task_Name_123_NodeId                     : "Adding variables for %(name) ID %(nodeid) node in %(env)",
-    LT_Task_Name_124_NodeGroup                  : "Removing variables from %(name) node(s) in %(env)",
-    LT_Task_Name_124_NodeId                     : "Removing variables from %(name) ID %(nodeid) node in %(env)",
+    LT_Process_Label_AttachingIPs               : "Anexando IPs...",
+    LT_Process_Label_DetachingIPs               : "Destacando IPs...",
+    LT_Process_Label_UpdatingIPs                : "Atualizando a quantidade...",
 
-    LT_Task_Name_129                            : "Creating scheduled account task using the %(script) script",
-    LT_Task_Name_130                            : "Creating scheduled task for %(env) environment using the %(script) script",
-    LT_Task_Name_131                            : "Removing scheduled task(s)",
-    LT_Task_Name_132                            : "Editing scheduled task(s)",
+    LT_Task_Name_118_NodeGroup	                : "Reiniciando o(s) node(s) %(name) do %(env)",
+    LT_Task_Name_118_NodeId	                    : "Reiniciando o node %(name) de ID %(nodeid) do %(env)",
+    LT_Task_Name_119_NodeGroup	                : "Resentando senha para %(name) do %(env)",
+    LT_Task_Name_119_NodeId	                    : "Resentando senha para o node %(name) de ID %(nodeid) do %(env)",
+    LT_Task_Name_120_NodeGroup	                : "Resentando senha para o node%(name) do %(env)",
+    LT_Task_Name_120_NodeId	                    : "Resentando senha para o node %(name) de ID %(nodeid) do %(env)",
+    LT_Task_Name_121_NodeGroup	                : "Reiniciando o(s) node(s) %(name) do %(env)",
+    LT_Task_Name_121_NodeId	                    : "Reiniciando o node %(name) de ID %(nodeid) do %(env)",
+    LT_Task_Name_123_NodeGroup                  : "Adicionando vari&aacute;veis para o(s) node(s) %(name) no %(env)",
+    LT_Task_Name_123_NodeId                     : "Adicionando vari&aacute;veis para o node %(name) de ID %(nodeid) do %(env)",
+    LT_Task_Name_124_NodeGroup                  : "Removendo vari&aacute;veis do(s) node(s) %(name) do %(env)",
+    LT_Task_Name_124_NodeId                     : "Removendo vari&aacute;veis do node %(name) de ID %(nodeid) do %(env)",
 
-    LT_Process_Label_WaitingAnotherProcess      : "Waiting for another process to complete...",
+    LT_Task_Name_129                            : "Criando tarefa de conta agendada usando o script %(script)",
+    LT_Task_Name_130                            : "Cria&ccedil;&atilde;o de tarefas agendadas para o ambiente %(env) usando o script %(script)",
+    LT_Task_Name_131                            : "Removendo tarefa(s) agendada(s)",
+    LT_Task_Name_132                            : "Editando tarefa(s) agendada(s)",
+
+    LT_Process_Label_WaitingAnotherProcess      : "Esperando por outro processo para concluir...",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // LT_EmptyItem field is used for internal system purposes. Please do not edit it and leave as is.
@@ -6301,7 +6301,7 @@ if(Ext.MessageBox){
 
         yes    : "Sim",
 
-        no     : "Não"
+        no     : "n&atilde;o"
 
     };
 
@@ -6379,7 +6379,7 @@ if(Ext.PagingToolbar){
 
         nextText       : "Próxima página",
 
-        lastText       : "Última página",
+        lastText       : "&uacute;ltima página",
 
         refreshText    : "Atualizar",
 
@@ -6403,7 +6403,7 @@ if(Ext.form.BasicForm){
 
 if(Ext.form.Field){
 
-    Ext.form.Field.prototype.invalidText = "O valor deste campo é inválido";
+    Ext.form.Field.prototype.invalidText = "O valor deste campo é inv&aacute;lido";
 
 }
 
@@ -6413,11 +6413,11 @@ if(Ext.form.TextField){
 
     Ext.apply(Ext.form.TextField.prototype, {
 
-        minLengthText : "O comprimento mínimo para este campo é {0}",
+        minLengthText : "O comprimento m&iacute;nimo para este campo é {0}",
 
-        maxLengthText : "O comprimento máximo para este campo está {0}",
+        maxLengthText : "O comprimento m&aacute;ximo para este campo est&aacute; {0}",
 
-        blankText     : "Este campo é obrigatório",
+        blankText     : "Este campo é obrigat&oacute;rio",
 
         regexText     : "",
 
@@ -6437,11 +6437,11 @@ if(Ext.form.NumberField){
 
         decimalPrecision : 2,
 
-        minText : "O valor mínimo para este campo é {0}",
+        minText : "O valor m&iacute;nimo para este campo é {0}",
 
-        maxText : "O valor máximo para este campo é {0}",
+        maxText : "O valor m&aacute;ximo para este campo é {0}",
 
-        nanText : "{0} não é um número válido"
+        nanText : "{0} n&atilde;o é um n&uacute;mero v&aacute;lido"
 
     });
 
@@ -6461,7 +6461,7 @@ if(Ext.form.DateField){
 
         maxText           : "A data neste campo deve ser anterior a {0}",
 
-        invalidText       : "{0} não é uma data válida - deve estar no formato {1}",
+        invalidText       : "{0} n&atilde;o é uma data v&aacute;lida - deve estar no formato {1}",
 
         format            : "m/d/y",
 
@@ -6493,13 +6493,13 @@ if(Ext.form.VTypes){
 
     Ext.apply(Ext.form.VTypes, {
 
-        emailText    : 'Este campo deve ser um endereço de e-mail no formato "usuario@examplo.com"',
+        emailText    : 'Este campo deve ser um endere&ccedil;o de e-mail no formato "usuario@examplo.com"',
 
         urlText      : 'Este campo deve ser um URL no formato "http:/'+'/www.examplo.com"',
 
         alphaText    : 'Este campo deve conter apenas letras e _',
 
-        alphanumText : 'Este campo deve conter apenas letras, números e _'
+        alphanumText : 'Este campo deve conter apenas letras, n&uacute;meros e _'
 
     });
 
@@ -6667,9 +6667,9 @@ if(Ext.grid.GridView){
 
     Ext.apply(Ext.grid.GridView.prototype, {
 
-        sortAscText  : "Ordenação ascendente",
+        sortAscText  : "Ordena&ccedil;&atilde;o ascendente",
 
-        sortDescText : "Ordenação descendente",
+        sortDescText : "Ordena&ccedil;&atilde;o descendente",
 
         columnsText  : "Colunas"
 
@@ -6777,7 +6777,7 @@ if(Ext.form.TimeField){
 
         maxText : "O horário nesse campo deve ser igual ou antes de {0}",
 
-        invalidText : "{0} não é uma hora válida",
+        invalidText : "{0} n&atilde;o é uma hora v&aacute;lida",
 
         format : "g:i A",
 
@@ -6793,7 +6793,7 @@ if(Ext.form.CheckboxGroup){
 
     Ext.apply(Ext.form.CheckboxGroup.prototype, {
 
-        blankText : "Você deve selecionar pelo menos um item neste grupo"
+        blankText : "voc&ecirc; deve selecionar pelo menos um item neste grupo"
 
     });
 
@@ -6805,10 +6805,8 @@ if(Ext.form.RadioGroup){
 
     Ext.apply(Ext.form.RadioGroup.prototype, {
 
-        blankText : "Você deve selecionar um item nesse grupo"
+        blankText : "voc&ecirc; deve selecionar um item nesse grupo"
 
     });
 
 }
-
-
