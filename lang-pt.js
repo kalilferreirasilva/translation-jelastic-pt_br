@@ -1602,7 +1602,7 @@ var GLocal = {
 
     LT_Pricing_Title                            : "pre&ccedil;os",
 
-    LT_Pricing_Column_cont&ecirc;ineres                : "cont&ecirc;ineres",
+    LT_Pricing_Column_Containers                : "cont&ecirc;ineres",
 
 //    LT_Pricing_Column_CldlPrice                 : "pre&ccedil;o por <b>1 cloudlet</b>",
 
@@ -4096,15 +4096,15 @@ var GLocal = {
 
 
 
-    LT_Environments_Confirm_Restartcont&ecirc;iner    : "Reiniciar cont&ecirc;iner %(sType) com ID %(sNodeId)?",
+    LT_Environments_Confirm_RestartContainer    : "Reiniciar cont&ecirc;iner %(sType) com ID %(sNodeId)?",
 
-    LT_Environments_Confirm_Restartcont&ecirc;ineres   : "Reiniciar cont&ecirc;ineres %(sType)?",
+    LT_Environments_Confirm_RestartContainers   : "Reiniciar cont&ecirc;ineres %(sType)?",
 
 
 
-    LT_Menu_Restartcont&ecirc;iner                    : "Reiniciar cont&ecirc;iner",
+    LT_Menu_RestartContainer                    : "Reiniciar cont&ecirc;iner",
 
-    LT_Menu_Restartcont&ecirc;ineres                   : "Reiniciar cont&ecirc;ineres",
+    LT_Menu_RestartContainers                   : "Reiniciar cont&ecirc;ineres",
 
 
 
@@ -4522,9 +4522,9 @@ var GLocal = {
 
 
 
-    LT_Menu_Redeploycont&ecirc;iner                   : "Implantar cont&ecirc;iner",
+    LT_Menu_RedeployContainer                  : "Implantar cont&ecirc;iner",
 
-    LT_Menu_Redeploycont&ecirc;ineres                  : "Implantar cont&ecirc;ineres",
+    LT_Menu_RedeployContainers                  : "Implantar cont&ecirc;ineres",
 
 
 
@@ -4532,27 +4532,27 @@ var GLocal = {
 
 
 
-    LT_Redeploycont&ecirc;iner_Title                  : "Reimplantar cont&ecirc;ineres %(nodeName)",
+    LT_RedeployContainer_Title                  : "Reimplantar cont&ecirc;ineres %(nodeName)",
 
-    LT_Redeploycont&ecirc;iner_Column_Node            : "Nodo",
+    LT_RedeployContainer_Column_Node            : "Nodo",
 
-    LT_Redeploycont&ecirc;iner_Column_Tag             : "Tag",
+    LT_RedeployContainer_Column_Tag             : "Tag",
 
-    LT_Redeploycont&ecirc;iner_Field_DeployType       : "implanta&ccedil;&atilde;o seqüencial",
+    LT_RedeployContainer_Field_DeployType       : "implanta&ccedil;&atilde;o seqüencial",
 
-    LT_Redeploycont&ecirc;iner_Field_DeployType_Tip   : "Se ativado, os cont&ecirc;ineres ser&atilde;o implantados um a um, garantindo a disponibilidade do servi&ccedil;o. Caso contrário, todas elas ser&atilde;o atualizadas simultaneamente, fazendo com que ocorrerá inatividade temporária.",
+    LT_RedeployContainer_Field_DeployType_Tip   : "Se ativado, os cont&ecirc;ineres ser&atilde;o implantados um a um, garantindo a disponibilidade do servi&ccedil;o. Caso contrário, todas elas ser&atilde;o atualizadas simultaneamente, fazendo com que ocorrerá inatividade temporária.",
 
-    LT_Redeploycont&ecirc;iner_Button_Submit          : "Reimplantar",
+    LT_RedeployContainer_Button_Submit          : "Reimplantar",
 
-    LT_Redeploycont&ecirc;iner_HelpTip                : "A persistente dentro de volumes de dados é salva e permanece dispon&iacute;vel Ap&oacute;s a reimplanta&ccedil;&atilde;o. [link]Saiba mais[/link]",
+    LT_RedeployContainer_HelpTip                : "A persistente dentro de volumes de dados é salva e permanece dispon&iacute;vel Ap&oacute;s a reimplanta&ccedil;&atilde;o. [link]Saiba mais[/link]",
 
-    LT_Redeploycont&ecirc;iner_Confirm_Redeploy       : "Por favor, confirme que voc&ecirc; deseja implementar o(s) cont&ecirc;iner(s) <b>%(nodeName)</b> para a tag <b>%(tag)</b>.",
+    LT_RedeployContainer_Confirm_Redeploy       : "Por favor, confirme que voc&ecirc; deseja implementar o(s) cont&ecirc;iner(s) <b>%(nodeName)</b> para a tag <b>%(tag)</b>.",
 
-    LT_Redeploycont&ecirc;iner_Info_Success           : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram implantados com sucesso para tag <b>%(tag)</b>.",
+    LT_RedeployContainer_Info_Success           : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram implantados com sucesso para tag <b>%(tag)</b>.",
 
-    LT_Redeploycont&ecirc;iner_Error_Failed           : "Ocorreu um erro durante a tentativa de implantar cont&ecirc;ineres no ambiente <b>%(envName)</b> para a tag <b>%(tag)</b>.",
+    LT_RedeployContainer_Error_Failed            : "Ocorreu um erro durante a tentativa de implantar cont&ecirc;ineres no ambiente <b>%(envName)</b> para a tag <b>%(tag)</b>.",
 
-    LT_Redeploycont&ecirc;iner_Logs_Title             : "%(sAppName) : reimplantar",
+    LT_RedeployContainer_Logs_Title             : "%(sAppName) : reimplantar",
 
 
 
@@ -4674,7 +4674,7 @@ var GLocal = {
 
     LT_Notify_FileRenameNotPermitted            : "O item n&atilde;o tem permiss&atilde;o para ser renomeado",
 
-    LT_Notify_cont&ecirc;inerIsNotRunning             : "O comando n&atilde;o pode ser executado. O cont&ecirc;iner n&atilde;o est&aacute; em execução",
+    LT_Notify_ContainerIsNotRunning             : "O comando n&atilde;o pode ser executado. O cont&ecirc;iner n&atilde;o est&aacute; em execução",
 
     LT_Notify_FileDeleteNotPermitted            : "O item n&atilde;o tem permiss&atilde;o para ser apagado",
 
@@ -4738,7 +4738,7 @@ var GLocal = {
 
 
 
-    LT_TutorSlider_Text_cont&ecirc;ineres              : "cont&ecirc;ineres",
+    LT_TutorSlider_Text_Containers              : "cont&ecirc;ineres",
 
     LT_TutorSlider_Text_LB                      : "Balanceador de carga",
 
@@ -5349,7 +5349,7 @@ var GLocal = {
     LT_Task_Name_112                            : "Adicionando a chave SSH p&#250;blica %(title)",
 
     LT_EnvWizard_PricingDetails_Count           : "Contagem",
-    LT_EnvWizard_PricingDetails_cont&ecirc;ineres      : "cont&ecirc;ineres",
+    LT_EnvWizard_PricingDetails_Containers      : "cont&ecirc;ineres",
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Shared Storage
@@ -5415,10 +5415,10 @@ var GLocal = {
     LT_EnvClone_Field_KeepMounts                : "Manter montagens externas",
     LT_EnvClone_Field_KeepMounts_Tip            : "Se ativado, todos os pontos de montagem para servidores em outros ambientes ser&#227;o replicadas dentro de recipientes clonados.",
 
-    LT_Redeploycont&ecirc;iner_Field_KeepVols         : "Manter dados relativos aos volumes",
-    LT_Redeploycont&ecirc;iner_Field_KeepVols_Tip     : "Se ativado, todos os dados dentro de volumes de cont&ecirc;ineres, ser&#227;o salvos e permanecem dispon&#237;veis ap&#243;s a sua reorienta&#231;&#227;o.",
+    LT_RedeployContainer_Field_KeepVols         : "Manter dados relativos aos volumes",
+    LT_RedeployContainer_Field_KeepVols_Tip     : "Se ativado, todos os dados dentro de volumes de cont&ecirc;ineres, ser&#227;o salvos e permanecem dispon&#237;veis ap&#243;s a sua reorienta&#231;&#227;o.",
     //TODO: ????? ???????????? ? ????? ? ??????????? ????? ????? "Manter dados relativos aos volumes"
-    LT_Redeploycont&ecirc;iner_HelpTip                : "Aqui voc&#234; pode atualizar os Docker cont&ecirc;iner(s) escolhidos para outro tag sem perder seus dados e configura&#231;&#245;es personalizadas.  [URL_DOCS_DOCKER_REDEPLOY]%(LT_Common_Button_LearnMore)[/URL_DOCS_DOCKER_REDEPLOY]",
+    LT_RedeployContainer_HelpTip                : "Aqui voc&#234; pode atualizar os Docker cont&ecirc;iner(s) escolhidos para outro tag sem perder seus dados e configura&#231;&#245;es personalizadas.  [URL_DOCS_DOCKER_REDEPLOY]%(LT_Common_Button_LearnMore)[/URL_DOCS_DOCKER_REDEPLOY]",
 
     LT_UploadFiles_Title_Dialog                 : "Fazer upload de arquivos",
     LT_UploadFiles_Label_Empty_Text			    : "Selecionar arquivo(s)",
@@ -5483,13 +5483,13 @@ var GLocal = {
     LT_EnvMounts_Editor_Field_ReadOnly          : "Somente leitura",
 
     LT_EnvMounts_Type_LocalFS                   : "Sistema de arquivos local",
-    LT_EnvMounts_Type_Datacont&ecirc;iner             : "cont&ecirc;iner de Dados",
-    LT_EnvMounts_Type_Mastercont&ecirc;iner           : "cont&ecirc;iner Principal",
+    LT_EnvMounts_Type_DataContainer              : "cont&ecirc;iner de Dados",
+    LT_EnvMounts_Type_MasterContainer           : "cont&ecirc;iner Principal",
     LT_EnvMounts_Type_External                  : "Servidor Externo",
 
     LT_EnvMounts_Type_LocalFS_HelpTip           : "Todos os dados ser&#227;o armazenados dentro do cont&ecirc;iner [link]sistema de arquivos local[link] atual e continuam presentes ap&#243;s o seu rein&#237;cio ou reimplanta&#231;&#227;o.",
-    LT_EnvMounts_Type_Datacont&ecirc;iner_HelpTip     : "Escolha de um [link]cont&ecirc;iner separado[/link] dentro de qualquer um dos seus ambientes para os dados serem armazenados.",
-    LT_EnvMounts_Type_Mastercont&ecirc;iner_HelpTip   : "Todos os nodos dentro da camada, incluindo os mais adicionados, ser&#227;o montados ao [link]recipiente principal[/link] (ou seja. O nodo criado inicialmente de uma camada).",
+    LT_EnvMounts_Type_DataContainer_HelpTip     : "Escolha de um [link]cont&ecirc;iner separado[/link] dentro de qualquer um dos seus ambientes para os dados serem armazenados.",
+    LT_EnvMounts_Type_MasterContainer_HelpTip   : "Todos os nodos dentro da camada, incluindo os mais adicionados, ser&#227;o montados ao [link]recipiente principal[/link] (ou seja. O nodo criado inicialmente de uma camada).",
     LT_EnvMounts_Type_External_HelpTip          : "Todos os nodos no interior da camada ser&#227;o montados para um [link]servidor externo[/link], destinado a armazenar os dados. Note-se que, neste caso, &#233; fortemente recomendado o uso de endere&#231;o IP externo para os nodos, a fim de evitar quaisquer problemas de seguran&#231;a.",
     LT_EnvMounts_Type_VolumesFrom_HelpTip       : "Selecione o nodo que voc&#234; gostaria de copiar os ajustes de volumes a partir de modo a mont&#225;-los no recipiente atual.",
 
@@ -5605,7 +5605,7 @@ var GLocal = {
     LT_ExportEnv_Settings_Error_EmptyNodesList  : "N&#227;o h&#225; recipientes que possam ser exportados. [URL_DOCS_ENV_EXPORT]%(LT_Common_Button_LearnMore)[/URL_DOCS_ENV_EXPORT]",
 
     LT_Environments_Column_Usage_QTip           : "CPU: %(cpu)<br /> Mem: %(mem)<br /> HDD: %(disk)<br /> Net: %(net_in)/%(net_out) Mb",
-    LT_Restartcont&ecirc;iner_Info_Success            : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram reiniciados com sucesso.",
+    LT_RestartContainer_Info_Success           : "cont&ecirc;ineres no ambiente <b>%(envName)</b> foram reiniciados com sucesso.",
 
     LT_DockerSettings_Title                     : "configura&#231;&#245;es de camadas Docker %(name)",
 
@@ -5641,9 +5641,9 @@ var GLocal = {
     LT_QuotasWindow_Title                       : "Cotas",
     LT_EnvMigration_Text_TargetRegion_Pricing   : "Os pre&ccedil;os podem ser diferentes dependendo da regi&atilde;o",
 
-    LT_Redeploycont&ecirc;iner_Field_RedeployDelay    : "Reimplantar atraso",
-    LT_Redeploycont&ecirc;iner_Field_Delay_Unit       : "segundos",
-    LT_Redeploycont&ecirc;iner_Field_Delay_Hint       : "Per&iacute;odo de tempo entre a reimplanta&ccedil;&atilde;o de dois cont&ecirc;ineres na camada de nodes",
+    LT_RedeployContainer_Field_RedeployDelay    : "Reimplantar atraso",
+    LT_RedeployContainer_Field_Delay_Unit       : "segundos",
+    LT_RedeployContainer_Field_Delay_Hint       : "Per&iacute;odo de tempo entre a reimplanta&ccedil;&atilde;o de dois cont&ecirc;ineres na camada de nodes",
 
     LT_Common_Text_Id                           : "ID",
 
@@ -5875,7 +5875,7 @@ var GLocal = {
     LT_Config_Tab_Title                         : "%(sType) : Configura&ccedil;&atilde;o",
     LT_Log_Tab_Title							: "%(sType) : Log",
     LT_Statistics_Tab_Title                     : "%(sType) : Estat&iacute;sticas",
-    LT_Redeploycont&ecirc;iner_Logs_Tab_Title         : "%(sType) : Reimplanta&ccedil;&atilde;o",
+    LT_RedeployContainer_Logs_Tab_Title         : "%(sType) : Reimplanta&ccedil;&atilde;o",
 
     LT_Settings_Tab_Title                       : "Configura&ccedil;&otilde;es",
     LT_Tasks_Tab_Title                         	: "Notas",
@@ -6049,7 +6049,7 @@ var GLocal = {
     LT_TutorSlider_Title_SaveMoney    	   	    : "Sintonize o consumo de recursos",
     LT_TutorSlider_Title_Build    	   	        : "Criar a topologia do aplicativo",
 
-    LT_TutorSlider_Build_Left_cont&ecirc;iner 	   	: "cont&ecirc;iner",
+    LT_TutorSlider_Build_Left_Container 	   	: "cont&ecirc;iner",
     LT_TutorSlider_Build_Left_Layer 	   	    : "Camada",
     LT_TutorSlider_Build_Left_Environment 	   	: "Ambiente",
     LT_TutorSlider_Build_Left_Application 	   	: "Aplica&ccedil;&atilde;o",
